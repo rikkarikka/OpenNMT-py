@@ -1,0 +1,4 @@
+differences
+
+- lr decay only if val ppl increases (not forever like og)
+
