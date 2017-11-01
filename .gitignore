@@ -107,3 +107,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#rik fork stuff
+draw_data/*
+*.swp
