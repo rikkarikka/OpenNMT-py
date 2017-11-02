@@ -5,9 +5,10 @@ from onmt.Trainer import Trainer, Statistics
 from onmt.Translator import Translator
 from onmt.Optim import Optim
 from onmt.Beam import Beam, GNMTGlobalScorer
-from onmt.Sampler import Sampler
+#from onmt.Sampler import Sampler
+import onmt.Sampler
 
 
 # For flake8 compatibility
 __all__ = [onmt.Loss, onmt.IO, onmt.Models, Trainer, Translator,
-           Optim, Beam, Statistics, GNMTGlobalScorer, Sampler]
+           Optim, Beam, Statistics, GNMTGlobalScorer, onmt.Sampler]
