@@ -1,4 +1,8 @@
 differences
 
-- lr decay only if val ppl increases (not forever like og)
+- onmt.Optim: lr decay only if val ppl increases (not forever like og)
+
+self critic
+- onmt.Sampler
+- self_critic.py
 

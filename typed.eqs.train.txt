@@ -1,0 +1,2056 @@
+VAR_0 = ( NUMBER_0 dogs * NUMBER_1 puppies )
+VAR_0 = ( NUMBER_0 peanuts + NUMBER_1 peanuts )
+( A NUMBER_0 % tax * 0.01 ) * VAR_0 = NUMBER_2 dollars in tax on the toy ball ; ( NUMBER_2 dollars in tax on the toy ball + VAR_0 ) + VAR_1 = NUMBER_1 dollars
+( NUMBER_0 dollars * VAR_0 ) + ( a single ticket or NUMBER_1 dollars * VAR_1 ) = NUMBER_2 dollars ; VAR_0 + ( 2.0 * VAR_1 ) = NUMBER_3 people
+NUMBER_0 pears + NUMBER_1 pears + NUMBER_2 pears = VAR_0
+VAR_0 = The total attendance that day was NUMBER_1 + NUMBER_0
+VAR_0 = NUMBER_0 watermelons - NUMBER_1 watermelons
+VAR_0 = ( ( NUMBER_0 flowers for her friend 's wedding - NUMBER_2 of the flowers ) / NUMBER_1 flowers in each one )
+VAR_0 = ( NUMBER_0 boxes of Do-Si-Dos / NUMBER_1 boxes )
+a total of NUMBER_0 soccer games this year = NUMBER_1 of the games + VAR_0
+NUMBER_0 of an hour * VAR_0 = her NUMBER_1 of an hour * VAR_1 ; VAR_1 = she rides NUMBER_2 miles per hour + VAR_0 ; VAR_2 = her NUMBER_1 of an hour * VAR_1
+VAR_0 = ( NUMBER_1 cubes + NUMBER_1 cubes )
+( NUMBER_1 dollars for VAR_0 * VAR_0 ) + ( NUMBER_2 dollars for VAR_1 * VAR_1 ) = NUMBER_0 dollars for VAR_1 ; VAR_0 + VAR_1 = NUMBER_3 tickets
+VAR_0 = ( ( NUMBER_0 dollars mowing lawns - NUMBER_1 dollars buying new mower blades ) / NUMBER_2 dollar games )
+NUMBER_0 dollars = VAR_0 * 0.01 * VAR_1 for 1 year on an investment of NUMBER_1 dollars ; VAR_1 = VAR_0 * 0.01 * an investment of NUMBER_2 dollars
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 = ( NUMBER_2 * VAR_1 ) - NUMBER_0 less than twice another
+VAR_0 = ( NUMBER_0 dollars - NUMBER_1 dollars )
+VAR_0 = NUMBER_0 + VAR_1 ; VAR_2 = ( 10.0 * VAR_0 ) + VAR_1 ; VAR_2 = NUMBER_1 times the sum of its digits * ( VAR_0 + VAR_1 )
+( 1.0 * VAR_0 ) + ( 2.0 * VAR_1 ) = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 coins
+( VAR_0 + ( NUMBER_15 times the VAR_1 number * VAR_1 ) ) - VAR_2 = NUMBER_14 ; ( VAR_0 + ( NUMBER_12 * VAR_2 ) ) + VAR_1 = NUMBER_13 ; VAR_1 + ( NUMBER_15 times the VAR_1 number * VAR_0 ) = NUMBER_12
+VAR_0 = ( ( NUMBER_0 dollars - NUMBER_1 dollars ) / NUMBER_0 dollars ) * 100.0
+VAR_0 - ( NUMBER_0 % * 0.01 * VAR_0 ) = NUMBER_1 dollars
+VAR_0 = ( NUMBER_1 marbles - NUMBER_0 marbles )
+NUMBER_0 apples - NUMBER_1 apples = VAR_0
+VAR_0 = NUMBER_0 potatoes - NUMBER_2 cantelopes
+VAR_0 = NUMBER_0 Pokemon cards + her NUMBER_1 new Pokemon + NUMBER_2 Pokemon cards
+NUMBER_0 peanuts + NUMBER_1 more than Jose = VAR_0
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 feet ; VAR_1 = NUMBER_3 * VAR_0 ; VAR_2 = NUMBER_3 * VAR_1
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = A building with NUMBER_0 units
+( NUMBER_0 dollars per day * NUMBER_4 ) + ( NUMBER_1 cents per mile to rent a car * 0.01 * VAR_0 ) = ( NUMBER_2 dollars * NUMBER_4 ) + ( day plus NUMBER_3 cents per mile * 0.01 * VAR_0 )
+VAR_0 = NUMBER_0 blue balloons + NUMBER_1 blue balloons
+2.0 * ( NUMBER_0 + VAR_0 ) = ( NUMBER_2 * VAR_0 ) - NUMBER_1
+VAR_0 + VAR_1 = NUMBER_0 students ; VAR_0 = VAR_1 - NUMBER_1 more VAR_1 than VAR_0
+( food for each member increased by NUMBER_2 dollars + VAR_0 ) * ( VAR_1 - food for each member increased by NUMBER_2 dollars ) = NUMBER_0 dollars ; VAR_0 * VAR_1 = NUMBER_0 dollars
+VAR_0 = NUMBER_1 mile from the car + NUMBER_1 mile from the car + NUMBER_2 mile
+( NUMBER_0 * VAR_0 ) - a VAR_0 decreased by NUMBER_1 = NUMBER_2
+( VAR_0 + VAR_1 ) + VAR_2 = a total of NUMBER_2 magazine subscriptions ; VAR_1 = NUMBER_0 more subscriptions + VAR_0 ; VAR_2 = ( 2.0 * VAR_0 ) - NUMBER_1 less
+( ( NUMBER_3 rooms / NUMBER_1 VAR_0 ) * NUMBER_2 VAR_0 ) + ( NUMBER_2 VAR_0 * VAR_1 ) = NUMBER_3 rooms ; VAR_1 * VAR_0 = NUMBER_3 rooms
+0.1 * VAR_0 + 0.25 * VAR_1 = NUMBER_0 dollars in change ; VAR_0 + VAR_1 = her NUMBER_1 coins
+( ( NUMBER_2 percent antifreeze * 0.01 ) * VAR_0 ) + ( ( some NUMBER_3 percent antifreeze mixture * 0.01 ) * VAR_1 ) = ( a NUMBER_0 gallon * a NUMBER_1 percent winter mixture of antifreeze for his customers ) * 0.01 ; VAR_0 + VAR_1 = a NUMBER_0 gallon
+( ( NUMBER_0 times a VAR_0 * VAR_0 ) + ( 2.0 * VAR_0 ) ) - NUMBER_1 less than twice = NUMBER_2
+1.0 + VAR_0 = VAR_1 ; VAR_0 + VAR_1 = a sum of NUMBER_0
+VAR_0 = ( NUMBER_0 packs of crayons * NUMBER_1 crayons in it )
+VAR_0 = ( NUMBER_2 hours * ( NUMBER_0 windows - NUMBER_1 of them ) )
+VAR_0 = ( the magic shop for NUMBER_0 dollars each * ( NUMBER_1 decks + NUMBER_2 decks ) )
+( NUMBER_0 dollars per roll * VAR_0 ) + ( the VAR_1 gift wrap sold for NUMBER_1 dollars per roll * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 rolls
+NUMBER_0 yellow balloons + NUMBER_1 yellow balloons = VAR_0
+VAR_0 = $ 1a skateboard for $ NUMBER_1 + a skateboard for $ NUMBER_1 + $ NUMBER_2
+VAR_0 = ( ( NUMBER_0 people in line for the bumper cars + NUMBER_2 ) - NUMBER_1 of them )
+( VAR_0 / NUMBER_1 miles per gallon in the city ) + ( VAR_1 / NUMBER_0 miles ) = NUMBER_3 gallons of gasoline ; VAR_0 + VAR_1 = NUMBER_2 miles
+VAR_0 = ( ( NUMBER_0 books + NUMBER_2 new books ) - NUMBER_1 of them )
+( NUMBER_2 dollars * VAR_0 ) + ( NUMBER_3 dollars per ticket * VAR_1 ) = NUMBER_1 dollars per ticket ; VAR_0 + VAR_1 = NUMBER_0 tickets
+VAR_0 = ( A total of NUMBER_0 people + NUMBER_1 more people in attendance )
+VAR_0 = NUMBER_0 crayons in the drawer + NUMBER_1 crayons
+NUMBER_0 baskets * NUMBER_1 apples in each basket = VAR_0
+VAR_0 = a total of NUMBER_1 - NUMBER_0 can of cat food each day
+NUMBER_0 dollars + ( NUMBER_1 candy bars * VAR_0 ) = a total of NUMBER_2 dollars
+VAR_0 = ( ( NUMBER_0 roses + NUMBER_2 more ) - NUMBER_1 of them )
+VAR_0 = ( NUMBER_0 pencils + NUMBER_1 pencils )
+VAR_0 = NUMBER_0 plums + NUMBER_1 plums
+( 2.0 * VAR_0 ) - NUMBER_0 = VAR_1 ; VAR_0 + VAR_1 = NUMBER_1 students in eighth grade
+( NUMBER_2 hours * VAR_0 ) + ( NUMBER_2 hours * VAR_1 ) = NUMBER_1 kilometers ; VAR_0 = NUMBER_0 kilometers per hour + VAR_1
+VAR_0 = ( ( NUMBER_0 seeds - NUMBER_1 of them ) / NUMBER_2 seeds each )
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 liters * NUMBER_2 dollars per liter ) = ( NUMBER_1 liters + VAR_0 ) * NUMBER_3 dollars per liter
+( 0.05 * VAR_0 ) + ( 0.1 * VAR_1 ) = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 coins
+( 0.05 * VAR_0 ) + ( 0.1 * VAR_1 ) = NUMBER_1 dollars in total ; VAR_0 + VAR_1 = NUMBER_0 coins
+( VAR_0 + VAR_1 ) + VAR_2 = a total of NUMBER_0 points ; 2.0 * VAR_2 = ( VAR_1 + VAR_0 ) + NUMBER_5 more ; VAR_0 = NUMBER_7 points + VAR_1
+VAR_0 = ( NUMBER_0 girls + NUMBER_1 boys )
+VAR_0 = ( NUMBER_2 songs * ( NUMBER_0 country albums + NUMBER_1 pop albums ) )
+VAR_0 * ( 1.0 - ( the price of bowling balls NUMBER_0 % * 0.01 ) ) = a sale price of NUMBER_1 dollars
+VAR_0 = NUMBER_0 walnut trees + NUMBER_1 walnut trees
+( 2.0 * VAR_0 ) + ( 4.0 * VAR_1 ) = NUMBER_1 legs in all ; VAR_0 + VAR_1 = NUMBER_0 animals in a barnyard
+VAR_0 = $ NUMBER_0 on shorts + $ NUMBER_1 on a shirt + $ NUMBER_2 on a jacket
+VAR_0 = ( NUMBER_0 blocks - NUMBER_1 blocks )
+VAR_0 = ( NUMBER_2 coins in it * ( NUMBER_1 piles of quarters + NUMBER_1 piles of quarters ) )
+( NUMBER_0 * VAR_0 ) + ( NUMBER_1 * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_4 * VAR_0 ) + ( NUMBER_5 * VAR_1 ) = NUMBER_3 dollars
+( ( NUMBER_5 dollars * VAR_0 ) + ( NUMBER_6 dollars * VAR_1 ) ) + ( NUMBER_8 dollars * VAR_2 ) = NUMBER_4 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 tickets ; VAR_0 + VAR_1 = NUMBER_7 * VAR_2
+NUMBER_0 marble potatoes / 3.0 = VAR_0
+VAR_0 = ( NUMBER_0 dollars an hour * ( NUMBER_1 hours + NUMBER_2 hours ) )
+VAR_0 = NUMBER_0 pennies - NUMBER_1 pennies
+VAR_0 = ( NUMBER_0 eggs in a box - NUMBER_1 eggs )
+( NUMBER_0 gallons * NUMBER_1 dollars per gallon ) + ( some for which he charges NUMBER_3 dollars per gallon * VAR_0 ) = NUMBER_4 dollars per gallon * ( NUMBER_0 gallons + VAR_0 )
+VAR_0 = ( ( NUMBER_0 dollars + another NUMBER_1 dollars for his allowance ) / NUMBER_2 dollar toys )
+VAR_0 = NUMBER_1 more blue dresses than red dresses + VAR_1 ; VAR_0 + VAR_1 = space for NUMBER_0 dresses
+( ( VAR_0 + VAR_1 ) + VAR_2 ) / 3.0 = an average of NUMBER_0 dollars per week in pocket money ; VAR_0 = NUMBER_1 dollars + VAR_1 ; VAR_0 = VAR_2 - NUMBER_2 dollars
+VAR_0 = NUMBER_0 tank of gas - NUMBER_1 tank of gas
+( NUMBER_2 cents each * 0.01 * VAR_0 ) + ( the large ones for NUMBER_3 cents each * 0.01 * VAR_1 ) = a total of NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 peaches
+NUMBER_0 books + NUMBER_1 books + NUMBER_2 books = VAR_0
+NUMBER_0 baseball cards - NUMBER_1 of Mike 's baseball cards = VAR_0
+VAR_0 = NUMBER_0 short trees + NUMBER_1 short trees
+NUMBER_0 potatoes + NUMBER_1 potatoes = VAR_0
+VAR_0 = ( the bumper cars NUMBER_2 times * ( the ferris wheel NUMBER_0 times + the bumper cars NUMBER_2 times ) )
+VAR_0 * VAR_1 = NUMBER_1 ; VAR_0 + VAR_1 = NUMBER_0
+VAR_0 = ( ( NUMBER_0 red apples + NUMBER_1 green apples ) - only NUMBER_2 students )
+( VAR_0 - VAR_1 ) * NUMBER_0 hours = ( VAR_0 + VAR_1 ) * NUMBER_1 hours ; VAR_0 = NUMBER_2 miles per hour
+VAR_0 = ( NUMBER_2 questions * ( NUMBER_2 questions + NUMBER_1 questions ) )
+( 6.0 + VAR_0 ) + NUMBER_3 years = NUMBER_3 years * ( 6.0 + VAR_1 ) ; NUMBER_0 years + VAR_0 = NUMBER_1 times as old as her VAR_1 * VAR_1
+VAR_0 = ( ( Katie baked NUMBER_0 cupcakes for her school 's bake sale . - NUMBER_1 ) / NUMBER_2 cupcake in each package )
+VAR_0 - ( ( NUMBER_1 % of itself * 0.01 ) * VAR_0 ) = NUMBER_1 % of itself
+NUMBER_1 times as large as the other * VAR_0 = VAR_1 ; VAR_0 + VAR_1 = NUMBER_0
+( ( NUMBER_4 dollars * VAR_0 ) + ( NUMBER_5 dollars * VAR_1 ) ) + ( NUMBER_6 types of ceramic statues * VAR_2 ) = NUMBER_1 dollars ; ( ( NUMBER_7 dollars * VAR_0 ) + ( NUMBER_8 dollars * VAR_1 ) ) + ( NUMBER_9 dollars * VAR_2 ) = NUMBER_10 dollars in monthly revenue ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_2 dollars
+( VAR_0 * VAR_1 ) + ( VAR_0 * VAR_2 ) = 1.0 ; NUMBER_0 VAR_0 * VAR_1 = 1.0 ; NUMBER_1 VAR_0 * VAR_2 = 1.0
+VAR_0 = ( NUMBER_0 cubes + NUMBER_1 more inches )
+VAR_0 = ( NUMBER_0 points * score in NUMBER_1 games )
+VAR_0 = ( NUMBER_0 marbles - NUMBER_1 )
+VAR_0 = NUMBER_0 ounce + NUMBER_1 ounce + NUMBER_2 ounce
+( NUMBER_1 dollars each * VAR_0 ) + ( NUMBER_2 dollars each * VAR_1 ) = A total of NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 tickets
+VAR_0 = 2.0 + VAR_1 ; VAR_2 = 2.0 + VAR_0 ; VAR_1 + VAR_2 = NUMBER_0
+NUMBER_0 carrots + NUMBER_1 carrots = VAR_0
+VAR_0 = NUMBER_0 hamburgers - Only NUMBER_1
+VAR_0 - ( NUMBER_0 dollars a day * VAR_1 ) = NUMBER_2 dollars left ; VAR_0 - ( NUMBER_1 dollars a day * VAR_1 ) = NUMBER_2 dollars left * NUMBER_3 times
+( 2.0 * VAR_0 ) + ( 4.0 * VAR_1 ) = a total of NUMBER_1 legs ; VAR_1 + VAR_0 = NUMBER_0
+NUMBER_1 * 0.01 * VAR_0 + NUMBER_2 * 0.01 * VAR_1 = NUMBER_3 dollars ; VAR_0 + VAR_1 = a total of NUMBER_0 dollars
+NUMBER_0 markers / NUMBER_1 packages = VAR_0
+NUMBER_1 of one part * VAR_0 = ( NUMBER_2 of the other part * VAR_1 ) + NUMBER_3 ; VAR_1 + VAR_0 = Separate NUMBER_0 into 2 parts
+NUMBER_0 quarters in her bank - NUMBER_1 of her quarters = VAR_0
+VAR_0 = ( NUMBER_0 blocks - NUMBER_1 )
+NUMBER_1 dollars / NUMBER_0 = VAR_0 ; NUMBER_2 tacos * VAR_0 = VAR_1
+VAR_0 = NUMBER_0 oak trees + NUMBER_1 oak trees
+NUMBER_0 lemons * VAR_0 = NUMBER_1 lemons
+( NUMBER_4 dollars * VAR_0 ) + ( NUMBER_5 dollars * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 discs
+VAR_0 = NUMBER_0 limes + NUMBER_1 limes + NUMBER_2 limes
+NUMBER_0 students * ( NUMBER_2 minutes / NUMBER_1 ) = VAR_0
+NUMBER_0 quarters in his bank + NUMBER_1 more quarters = VAR_0
+( NUMBER_0 % fat * VAR_0 ) * 0.01 = ( NUMBER_2 pounds of low-fat yogurt * its no-fat yogurt to obtain low-fat yogurt that is NUMBER_1 % fat ) * 0.01 ; VAR_0 + VAR_1 = NUMBER_2 pounds of low-fat yogurt
+VAR_0 = ( NUMBER_0 dollars for each lawn he mowed * ( NUMBER_1 lawns to mow - NUMBER_2 of them ) )
+NUMBER_0 pencils in the drawer + NUMBER_1 pencils on the desk + NUMBER_2 more pencils = VAR_0
+( NUMBER_0 dollars per day * VAR_0 ) + ( general VAR_1 NUMBER_1 dollars per day * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 people
+VAR_0 = ( NUMBER_0 toucans + NUMBER_1 more toucan )
+( ( ( 1.0 + ( NUMBER_1 % * 0.01 ) ) * VAR_0 ) + ( ( 1.0 + ( NUMBER_2 % * 0.01 ) ) * VAR_1 ) ) + ( ( 1.0 + ( NUMBER_3 % * 0.01 ) ) * VAR_2 ) = NUMBER_4 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = Fransisco 's Drive-In for NUMBER_0 dollars ; VAR_2 = VAR_0 + ( NUMBER_5 cents * 0.01 )
+6.0 + VAR_0 = NUMBER_0 * ( VAR_1 - 6.0 ) ; VAR_0 = 2.0 * VAR_1
+NUMBER_0 dozen eggs * 12.0 = VAR_0
+NUMBER_0 cupcakes for a birthday party = NUMBER_1 chocolate cupcakes + 14.0 + VAR_0
+( 2.0 * VAR_0 ) + ( VAR_0 - NUMBER_0 less than the VAR_0 ) = ( - 32.0 ) - VAR_0
+VAR_0 = NUMBER_0 books + NUMBER_1 books
+NUMBER_0 yellow marbles + NUMBER_1 yellow marbles = VAR_0
+NUMBER_1 hours * VAR_0 = NUMBER_0 miles ; NUMBER_2 hours * VAR_1 = NUMBER_0 miles ; VAR_2 = ( VAR_1 - VAR_0 ) / 2.0
+( ( NUMBER_0 dollars for VAR_0 * VAR_0 ) + ( NUMBER_1 dollars for VAR_1 * VAR_1 ) ) + ( NUMBER_2 dollars for VAR_2 * VAR_2 ) = NUMBER_4 dollars ; NUMBER_3 more VAR_1 than VAR_0 + VAR_0 = VAR_1 ; VAR_2 = 2.0 * VAR_0
+( VAR_0 + VAR_1 ) * NUMBER_1 minutes = 1.0 ; NUMBER_0 minutes * VAR_0 = 1.0 ; VAR_1 * VAR_2 = 1.0
+( ( ( NUMBER_2 stickers + NUMBER_1 stickers ) + NUMBER_2 stickers ) - NUMBER_3 of the stickers ) - NUMBER_4 = VAR_0
+a NUMBER_1 % alcohol solution * 0.01 * VAR_0 + a NUMBER_2 % alcohol solution * 0.01 * VAR_1 = one gallon of NUMBER_4 % alcohol solution * 0.01 * NUMBER_3 ; VAR_0 + VAR_1 = NUMBER_3
+VAR_0 = ( ( NUMBER_0 * ( NUMBER_0 - NUMBER_2 ) ) * 2.0 ) / 2.0
+( ( a NUMBER_1 % alloy * 0.01 ) * VAR_0 ) + ( ( NUMBER_2 * 0.01 ) * VAR_1 ) = ( NUMBER_3 ounces of the desired alloy * a metal alloy that is NUMBER_0 % copper to make jewelry ) * 0.01 ; VAR_0 + VAR_1 = NUMBER_3 ounces of the desired alloy
+VAR_0 = ( NUMBER_0 cards in Jean 's card collection / NUMBER_1 groups )
+VAR_0 = ( NUMBER_0 oranges in a box - NUMBER_1 oranges )
+VAR_0 = ( ( NUMBER_0 pictures - NUMBER_1 pics ) / NUMBER_2 different albums )
+VAR_0 = ( NUMBER_0 * VAR_1 ) + 1.0 ; VAR_2 = NUMBER_1 times * VAR_0 ; VAR_2 = NUMBER_2
+NUMBER_0 more VAR_0 + VAR_1 = VAR_0 ; VAR_0 = NUMBER_2 more VAR_0 + VAR_2 ; VAR_2 = NUMBER_1 times as many VAR_2 * VAR_1
+VAR_0 = ( NUMBER_0 books + NUMBER_1 more books )
+( ( 0.05 * VAR_0 ) + ( 0.1 * VAR_1 ) ) + ( 0.25 * VAR_2 ) = NUMBER_0 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_2 coins ; VAR_1 = NUMBER_1 VAR_1
+NUMBER_0 sacks per day * NUMBER_1 days of harvest = VAR_0
+VAR_0 = ( NUMBER_1 dollars / NUMBER_0 of a pound ) * NUMBER_2 pounds
+( NUMBER_0 dozen books * 12.0 ) * NUMBER_1 times more books than Sandy = VAR_0
+VAR_0 = ( NUMBER_0 times + NUMBER_1 more times )
+VAR_0 / NUMBER_0 = NUMBER_1
+NUMBER_0 baskets * NUMBER_1 eggs = VAR_0
+( VAR_0 + VAR_1 ) * NUMBER_2 hours = an airport NUMBER_0 miles away ; ( VAR_0 - VAR_2 ) * NUMBER_1 hours = an airport NUMBER_0 miles away ; VAR_2 = VAR_1
+VAR_0 - NUMBER_0 - NUMBER_1 = NUMBER_2 kittens left
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_2 dollars ; VAR_0 = NUMBER_0 * VAR_1 ; VAR_1 = NUMBER_1 dollars + VAR_2
+( VAR_0 / NUMBER_2 kilometers per hour ) + ( VAR_1 / NUMBER_3 kilometers per hour ) = NUMBER_0 hours ; VAR_0 + VAR_1 = NUMBER_1 kilometers
+( NUMBER_0 cups * VAR_0 ) + ( NUMBER_3 bagels * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 bagels * VAR_0 ) + ( NUMBER_4 bagels * VAR_1 ) = NUMBER_5 dollars
+( NUMBER_1 gallons * VAR_0 ) + ( NUMBER_2 gallons * VAR_1 ) = a total of NUMBER_3 miles driven by the two cars combined ; VAR_0 + VAR_1 = NUMBER_0 miles per gallon
+( NUMBER_1 credits * VAR_0 ) + ( NUMBER_0 credits * VAR_1 ) = NUMBER_3 credits ; VAR_0 + VAR_1 = any combination of NUMBER_2 cards
+VAR_0 = ( NUMBER_3 * VAR_1 ) - NUMBER_1 less than twice the first number ; VAR_1 + VAR_0 = NUMBER_2
+VAR_0 = NUMBER_0 feet - NUMBER_1 feet
+NUMBER_0 shiny blue round stones / NUMBER_1 pieces of this stone = VAR_0
+VAR_0 = ( ( NUMBER_1 chocolate chip cookies + NUMBER_2 oatmeal cookies ) / baggies of cookies with NUMBER_0 cookies in each bag )
+( 0.05 * VAR_0 ) + NUMBER_1 dollars = 0.1 * VAR_1 ; NUMBER_0 * VAR_0 = VAR_1
+VAR_0 = ( NUMBER_0 goals playing soccer last season + NUMBER_1 goals )
+VAR_0 = NUMBER_0 yards + NUMBER_1 yards
+VAR_0 = ( $ NUMBER_0 * NUMBER_1 bananas )
+NUMBER_0 * VAR_0 = NUMBER_1
+NUMBER_0 * VAR_0 = ( 2.0 * VAR_0 ) - the same as NUMBER_1 less twice that same VAR_0
+VAR_0 = ( NUMBER_2 points * ( NUMBER_0 questions + NUMBER_1 questions ) )
+VAR_0 = ( NUMBER_0 miles - NUMBER_1 miles )
+VAR_0 = ( ( NUMBER_0 points - NUMBER_1 ) / NUMBER_2 points each )
+( 1.0 + NUMBER_0 % * 0.01 ) * VAR_0 = a retail price of NUMBER_1 dollars
+NUMBER_0 green balloons - Sandy NUMBER_1 of the balloons = VAR_0
+VAR_0 = ( NUMBER_0 crayons in each box * NUMBER_1 boxes )
+( NUMBER_0 dollars an hour * VAR_0 ) + NUMBER_1 dollars for the parts = NUMBER_2 dollars
+NUMBER_0 part-time employees + NUMBER_1 full-time employees = VAR_0
+VAR_0 = ( NUMBER_1 miles / NUMBER_0 miles per gallon of gas )
+VAR_0 + VAR_1 = NUMBER_2 kilometers / NUMBER_3 hours ; VAR_0 - VAR_1 = NUMBER_0 kilometers / NUMBER_1 hours
+2.0 * ( NUMBER_1 years + VAR_0 ) = VAR_1 - 5.0 ; VAR_1 = NUMBER_0 years + VAR_0
+( NUMBER_0 * VAR_0 ) + ( NUMBER_1 more than the VAR_0 + VAR_0 ) = ( - 11.0 ) - ( 2.0 * VAR_0 )
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars per pound * VAR_1 ) = NUMBER_2 pounds * NUMBER_3 dollars per pound ; VAR_0 + VAR_1 = NUMBER_2 pounds
+VAR_0 = NUMBER_0 scoop of brown sugar - NUMBER_1 scoop of white sugar
+VAR_0 = ( ( NUMBER_0 apples - NUMBER_1 ) / NUMBER_2 apples )
+VAR_0 = ( NUMBER_0 peanuts + NUMBER_1 more )
+VAR_0 = ( ( NUMBER_0 socks + NUMBER_2 new ones ) - NUMBER_1 old ones )
+VAR_0 = NUMBER_0 Pokemon cards - NUMBER_1 of Joan 's Pokemon cards
+NUMBER_0 * VAR_0 = the smaller of NUMBER_1 numbers * VAR_1 ; the smaller of NUMBER_1 numbers * VAR_1 = ( VAR_0 + VAR_1 ) + NUMBER_2
+VAR_0 = ( NUMBER_0 inches - NUMBER_1 inches )
+( NUMBER_1 of a VAR_0 * VAR_0 ) - NUMBER_2 = ( NUMBER_2 more than NUMBER_3 of the VAR_0 * VAR_0 ) + NUMBER_2
+VAR_0 = ( NUMBER_2 pages of math homework * ( NUMBER_2 pages of math homework + NUMBER_1 pages of reading homework ) )
+VAR_0 = ( ( NUMBER_0 coloring books + NUMBER_2 more ) - NUMBER_1 of them )
+VAR_0 = ( ( NUMBER_0 homework problems - NUMBER_1 of them ) / NUMBER_2 pages of problems to do )
+( ( NUMBER_1 more students + VAR_0 ) * VAR_1 ) - ( ( VAR_0 - NUMBER_1 more students ) * NUMBER_2 dollars ) = A college charters a bus for NUMBER_0 dollars to take a group to a museum . ; VAR_0 * VAR_1 = A college charters a bus for NUMBER_0 dollars to take a group to a museum .
+( ( 0.01 * NUMBER_1 ) * VAR_0 ) + ( ( 0.01 * NUMBER_2 ) * VAR_1 ) = ( NUMBER_2 * 0.01 ) * NUMBER_3 % peanuts ; VAR_0 + VAR_1 = NUMBER_2
+NUMBER_0 of her family members * VAR_0 = NUMBER_1 cinnamon balls
+VAR_0 = NUMBER_0 slices of pie + NUMBER_1
+VAR_0 = NUMBER_0 quarters in her bank + her NUMBER_1 quarters
+a woman with NUMBER_0 inch hips * VAR_0 = NUMBER_1 inches ; the maximum waist size for a woman with NUMBER_2 inch hips * VAR_0 = VAR_1
+NUMBER_1 of a ton + NUMBER_1 of a ton + NUMBER_2 of a ton = VAR_0
+VAR_0 = NUMBER_1 dollars / NUMBER_0 lollipops
+NUMBER_0 identical blocks / NUMBER_1 blocks for every color of paint used = VAR_0
+a football game for $ NUMBER_0 + a strategy game for $ NUMBER_1 + a Batman game for $ NUMBER_2 = VAR_0
+VAR_0 = ( NUMBER_0 bananas that must be put away in boxes / NUMBER_1 boxes )
+( 4.0 * VAR_0 ) + ( 2.0 * VAR_1 ) = NUMBER_1 legs ; VAR_0 + VAR_1 = NUMBER_2 animals total
+VAR_0 = ( NUMBER_1 oranges / oranges in boxes that hold NUMBER_0 each )
+NUMBER_0 - NUMBER_1 of a tablespoon of nutmeg = VAR_0
+VAR_0 = ( NUMBER_2 pieces inside it * ( NUMBER_0 boxes of chocolate candy + NUMBER_1 boxes of caramel candy ) )
+VAR_0 = NUMBER_0 cakes + NUMBER_1 + NUMBER_2 cakes
+( 10.0 * VAR_0 ) + ( 1.0 * VAR_1 ) = VAR_2 - NUMBER_0 ; VAR_0 + VAR_1 = NUMBER_1 ; VAR_2 = ( 10.0 * VAR_1 ) + ( 1.0 * VAR_0 )
+VAR_0 = NUMBER_0 - NUMBER_1 of Sara 's black marbles
+NUMBER_0 + NUMBER_1 of a loaf of white bread = VAR_0
+NUMBER_1 * VAR_0 = NUMBER_4 * VAR_1 ; NUMBER_4 * ( NUMBER_2 years + VAR_0 ) = NUMBER_3 * ( NUMBER_2 years + VAR_1 )
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_1 ; VAR_1 = The sum of NUMBER_3 numbers * VAR_0 ; VAR_2 = VAR_0 - NUMBER_4 less than the first
+NUMBER_4 % simple interest * 0.01 * VAR_0 + NUMBER_5 % * 0.01 * VAR_1 = NUMBER_3 dollars ; VAR_1 = ( 2.0 * VAR_0 ) - NUMBER_1 dollars less than twice that amount
+( cartons holding NUMBER_4 rackets each * VAR_0 ) + ( cartons holding NUMBER_5 rackets each * VAR_1 ) = a total of NUMBER_3 rackets ; VAR_0 + VAR_1 = NUMBER_2 cartons
+VAR_0 = ( NUMBER_0 pages of my English book + NUMBER_1 pages )
+VAR_0 = NUMBER_0 pencils in the drawer + NUMBER_1 pencils
+VAR_0 = ( NUMBER_0 pieces of candy + NUMBER_1 more )
+VAR_0 - VAR_1 = NUMBER_1 ; VAR_0 = NUMBER_0 times as many points * VAR_1
+VAR_0 = NUMBER_0 seashells + NUMBER_1 seashells + NUMBER_2 seashells
+NUMBER_0 tons of cargo + NUMBER_1 more tons of cargo onboard = VAR_0
+VAR_0 = ( NUMBER_0 fish + her NUMBER_1 more fish )
+( NUMBER_1 dollars each * VAR_0 ) + ( NUMBER_2 dollars each * VAR_1 ) = NUMBER_3 dollars each ; VAR_0 + VAR_1 = NUMBER_0
+VAR_0 = ( NUMBER_0 marbles + NUMBER_1 more marbles than Connie )
+( NUMBER_1 gallons * VAR_0 ) + ( NUMBER_2 gallons * VAR_1 ) = a total of NUMBER_3 miles driven by the two cars combined ; VAR_0 + VAR_1 = NUMBER_0
+( ( ( NUMBER_4 boys * the time taken by NUMBER_7 boy to finish the work ) / VAR_0 ) + ( ( NUMBER_1 girls * the time taken by NUMBER_7 boy to finish the work ) / VAR_1 ) ) * NUMBER_2 days = the time taken by NUMBER_7 boy to finish the work ; ( ( ( NUMBER_3 boys * the time taken by NUMBER_7 boy to finish the work ) / VAR_0 ) + ( ( NUMBER_4 boys * the time taken by NUMBER_7 boy to finish the work ) / VAR_1 ) ) * NUMBER_5 days = the time taken by NUMBER_7 boy to finish the work
+NUMBER_0 acres of the prairie in dust + NUMBER_1 acres = VAR_0
+( NUMBER_2 dollars per pound * VAR_0 ) + ( NUMBER_3 dollars per pound * VAR_1 ) = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 pounds of nuts
+( NUMBER_1 more VAR_0 on the jury * VAR_0 ) - NUMBER_0 = VAR_1 ; NUMBER_1 more VAR_0 on the jury + VAR_0 = VAR_1
+( ( NUMBER_2 in the first month + NUMBER_3 in the second month ) + VAR_0 ) / her NUMBER_0 month savings = an average saving of NUMBER_1
+VAR_0 = ( NUMBER_1 children - NUMBER_0 boys )
+VAR_0 = ( NUMBER_0 meatballs on her plate - NUMBER_1 meatballs on her plate )
+( NUMBER_3 % * 0.01 ) * VAR_0 = ( NUMBER_2 VAR_1 + VAR_2 ) / ( ( ( NUMBER_2 VAR_1 + VAR_2 ) + VAR_1 ) - NUMBER_2 VAR_1 ) ; VAR_2 = ( 0.01 * NUMBER_0 % of whom were VAR_2 ) * VAR_0 ; VAR_1 + VAR_2 = VAR_0
+VAR_0 + ( ( NUMBER_1 % tax * VAR_0 ) * 0.01 ) = NUMBER_0 dollars
+NUMBER_0 potatoes in the garden - NUMBER_1 of the potatoes = VAR_0
+( ( NUMBER_1 dollars for VAR_0 * VAR_0 ) + ( NUMBER_2 dollars for VAR_1 * VAR_1 ) ) + ( NUMBER_3 dollars for senior citizens * VAR_2 ) = NUMBER_4 dollars ; ( ( NUMBER_5 dollars for VAR_0 * VAR_0 ) + ( NUMBER_7 dollars for VAR_1 * VAR_1 ) ) + ( NUMBER_7 dollars for VAR_1 * VAR_2 ) = NUMBER_8 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = A total of NUMBER_0 people
+VAR_0 = ( a speed of NUMBER_0 miles an hour * she bike in NUMBER_1 hours )
+VAR_0 = NUMBER_0 male + NUMBER_1 female salmon
+( NUMBER_1 dollars each * VAR_0 ) + ( child tickets for NUMBER_2 dollars each * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 seats
+VAR_0 = ( NUMBER_1 apples / NUMBER_0 students )
+( VAR_0 / NUMBER_0 miles ) + ( VAR_1 / NUMBER_1 miles per gallon in highway driving ) = NUMBER_3 gallons of gas ; VAR_0 + VAR_1 = NUMBER_2 miles
+( 2.0 * VAR_0 ) + ( 3.0 * ( a total of NUMBER_0 cycles - VAR_0 ) ) = NUMBER_1 wheels
+VAR_0 = ( NUMBER_0 packages of cupcakes * NUMBER_1 cupcakes in each package )
+VAR_0 = 1.0 + VAR_1 ; VAR_1 + VAR_0 = NUMBER_0
+VAR_0 + VAR_1 = 2 consecutive integers whose sum is NUMBER_0 ; VAR_1 = 1.0 + VAR_0
+VAR_0 = NUMBER_0 plums + NUMBER_1 plums + NUMBER_2 plums
+( 2.0 * VAR_0 ) - NUMBER_1 meters = NUMBER_0 meters
+VAR_0 = ( NUMBER_0 bottle caps - NUMBER_1 )
+VAR_0 = ( NUMBER_1 kilometers per gallon * NUMBER_1 kilometers per gallon )
+( ( 1.0 / 20 drinks in NUMBER_0 minutes ) + ( 1.0 / 20 drinks in NUMBER_1 minutes ) ) + ( 1.0 / 120 drinks in NUMBER_0 minutes ) = 1.0 / VAR_0
+such that one is NUMBER_1 times as large as the other * VAR_0 = VAR_1 ; VAR_0 + VAR_1 = NUMBER_0
+NUMBER_2 dollars per gallon * VAR_0 = NUMBER_3 dollars on gas ; NUMBER_0 VAR_1 per gallon * ( NUMBER_4 VAR_0 of gas in her tank + VAR_0 ) = VAR_1
+VAR_0 = NUMBER_1 cents / A NUMBER_0 ounce can of cranberry juice
+VAR_0 = ( NUMBER_0 erasers / NUMBER_1 friends )
+NUMBER_3 % * 0.01 * VAR_0 + NUMBER_2 % * 0.01 * VAR_1 = NUMBER_1 dollars ; VAR_0 + VAR_1 = two investments totaling NUMBER_0 dollars
+VAR_0 = ( ( NUMBER_0 oranges in a bin + NUMBER_2 new ones ) - NUMBER_1 new ones )
+VAR_0 = ( NUMBER_0 crayons + NUMBER_1 more crayons )
+VAR_0 = ( NUMBER_1 blocks - NUMBER_0 blocks )
+an initial deposit of NUMBER_0 dollars + ( the next NUMBER_2 weeks * VAR_0 ) = NUMBER_1 dollars
+NUMBER_0 red orchids + VAR_0 = NUMBER_1 red orchids in the vase
+VAR_0 = ( ( NUMBER_0 giant stuffed bears + stock when they got another shipment with NUMBER_1 bears in it ) / shelves with NUMBER_2 )
+( ( ( ( NUMBER_1 + NUMBER_7 ) + NUMBER_3 ) + NUMBER_5 points out of 100 in 4 projects ) + VAR_0 ) / NUMBER_6 animation projects = NUMBER_7
+NUMBER_0 inches * VAR_0 = NUMBER_1 inches ; NUMBER_2 inches * VAR_0 = VAR_1
+VAR_0 = ( NUMBER_0 gold stars + NUMBER_1 more )
+VAR_0 = NUMBER_0 pears + NUMBER_1 pears + NUMBER_2 pears
+( NUMBER_0 hours * VAR_0 ) + ( NUMBER_1 hours * VAR_1 ) = a total NUMBER_2 milliliters of rain ; VAR_0 + VAR_1 = NUMBER_3 milliliters per hour
+VAR_0 = ( NUMBER_0 eggs in each box * NUMBER_1 boxes )
+NUMBER_0 apples + NUMBER_1 apples = VAR_0
+NUMBER_0 boxes of stuffed toy dogs * NUMBER_1 dogs in it = VAR_0
+NUMBER_0 cents = a notebook for NUMBER_1 cents + a ruler for NUMBER_2 cents + NUMBER_3 pencils * VAR_0
+NUMBER_0 popular trees + NUMBER_1 more popular trees = VAR_0
+( twice the NUMBER_1 's digit * VAR_0 ) + VAR_1 = ( less than NUMBER_3 times * VAR_2 ) - NUMBER_2 ; VAR_0 = ( 2.0 * VAR_1 ) + NUMBER_0 more ; VAR_2 = ( twice the NUMBER_1 's digit * VAR_1 ) + VAR_0
+( ( NUMBER_0 % protein * 0.01 ) * VAR_0 ) + ( ( NUMBER_1 % protein * 0.01 ) * VAR_1 ) = ( 360.0 * 360-pound mixture that is NUMBER_2 % protein ) * 0.01 ; VAR_0 + VAR_1 = 360.0
+a solution that is NUMBER_2 % VAR_0 * 0.01 * VAR_0 = a solution that is NUMBER_1 % VAR_0 * 0.01 * 2a solution that is NUMBER_2 % VAR_0 ; VAR_1 + VAR_0 = 2a solution that is NUMBER_2 % VAR_0
+VAR_0 = ( NUMBER_1 bird cages * ( NUMBER_1 bird cages + NUMBER_2 parakeets in it ) )
+VAR_0 = NUMBER_0 rulers + NUMBER_1 rulers
+( 2.0 * VAR_0 ) + ( 5.0 * VAR_1 ) = a total amount of NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 coins
+( ( NUMBER_0 of the cows * VAR_0 ) + ( NUMBER_1 of the remaining * ( NUMBER_0 of the cows * VAR_0 ) ) ) + NUMBER_2 cows = VAR_0
+( NUMBER_4 % alcohol * 0.01 * VAR_0 ) + ( one that is NUMBER_5 % alcohol * 0.01 * VAR_1 ) = a NUMBER_3 % solution * 0.01 * NUMBER_2 liters ; VAR_0 + VAR_1 = NUMBER_2 liters
+VAR_0 = ( NUMBER_0 rows of cabbage * NUMBER_1 heads of cabbage )
+VAR_0 = NUMBER_0 pizzas + NUMBER_1
+VAR_0 = a total of NUMBER_0 gallons of paint - NUMBER_1 gallons of white paint
+VAR_0 = ( NUMBER_0 marbles + NUMBER_1 more from Henry )
+VAR_0 = NUMBER_0 - NUMBER_1 mile
+( ( NUMBER_5 % * 0.01 ) * VAR_0 ) + ( ( NUMBER_6 % * 0.01 ) * VAR_1 ) = NUMBER_1 dollars in simple interest ; VAR_0 + VAR_1 = NUMBER_2 dollars
+VAR_0 = ( ( NUMBER_1 shirts + NUMBER_2 sweaters ) / NUMBER_0 pieces of clothing )
+NUMBER_0 sheets of paper / NUMBER_2 sheets = NUMBER_1 pounds / VAR_0
+VAR_0 = NUMBER_1 bottles of lemon-lime soda + NUMBER_1 bottles of lemon-lime soda
+( part at NUMBER_3 % * 0.01 ) * VAR_0 = ( part at NUMBER_4 % * 0.01 ) * VAR_1 ; VAR_0 + VAR_1 = NUMBER_0 dollars
+NUMBER_1 of a cup of walnuts + NUMBER_1 of a cup of walnuts = VAR_0
+VAR_0 = ( NUMBER_0 dolls + NUMBER_1 dolls )
+VAR_0 = ( NUMBER_0 teaspoon VAR_0 + NUMBER_1 teaspoon VAR_0 ) + NUMBER_2 teaspoon VAR_0
+VAR_0 + VAR_1 = two digits whose sum is NUMBER_0 ; VAR_2 - NUMBER_1 = ( 10.0 * VAR_0 ) + VAR_1 ; VAR_2 = ( 10.0 * VAR_1 ) + VAR_0
+NUMBER_0 dollars worth of dishes in his first month - ( VAR_0 * ( 8.0 - 1.0 ) ) = only NUMBER_1 dollars worth of dishes in his eighth month ; NUMBER_0 dollars worth of dishes in his first month - ( VAR_0 * ( 3.0 - 1.0 ) ) = VAR_1
+NUMBER_1 % * 0.01 * the NUMBER_2 points = VAR_0 ; VAR_0 - NUMBER_0 points in his math class = VAR_1
+VAR_0 = ( NUMBER_0 peanuts + NUMBER_1 more than Jose )
+VAR_0 = ( NUMBER_0 candies in a pile on the desk + NUMBER_1 candies )
+VAR_0 = ( NUMBER_0 apples + NUMBER_1 more from Willie )
+( NUMBER_1 % * VAR_0 ) * 0.01 = a membership for NUMBER_0 dollars
+VAR_0 = NUMBER_0 centimeter of rain on Monday + NUMBER_1 centimeter of rain on Tuesday + NUMBER_2 centimeter of rain
+VAR_0 = a total of NUMBER_0 inches of the road - NUMBER_1 inches of the road
+NUMBER_0 books * each of his NUMBER_1 bookshelves = VAR_0
+VAR_0 = ( NUMBER_1 dollars - NUMBER_0 dollars )
+NUMBER_0 Pokemon cards - NUMBER_1 of Jason 's Pokemon cards = VAR_0
+VAR_0 = NUMBER_0 onions + NUMBER_1 onions + NUMBER_2 onions
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_2 = ( NUMBER_1 times the NUMBER_2 's digit * VAR_0 ) + VAR_1 ; VAR_2 = NUMBER_1 * VAR_0
+VAR_0 = ( NUMBER_0 hours * NUMBER_1 miles per hour )
+NUMBER_1 meters * VAR_0 = NUMBER_2 times the VAR_1 * VAR_1 ; VAR_1 = ( NUMBER_2 times the VAR_1 * VAR_0 ) - NUMBER_1 meters
+VAR_0 = ( NUMBER_2 bags * ( NUMBER_2 bags + NUMBER_1 more bags ) )
+VAR_0 * ( 1.0 - ( NUMBER_1 % of Gary 's income * 0.01 ) ) = NUMBER_0 dollars
+VAR_0 = ( NUMBER_0 guests coming to his party / NUMBER_1 guests )
+( NUMBER_0 dollars a pound * VAR_0 ) + ( some worth NUMBER_1 dollars a pound * VAR_1 ) = a mixture of NUMBER_2 pounds * NUMBER_3 dollars a pound ; VAR_0 + VAR_1 = a mixture of NUMBER_2 pounds
+two pieces of art for NUMBER_0 dollars = ( ( NUMBER_6 + ( NUMBER_7 % on the first work * 0.01 ) ) * VAR_0 ) + ( ( NUMBER_6 + ( NUMBER_5 % profit on the other * 0.01 ) ) * VAR_1 ) ; NUMBER_4 dollars = ( ( NUMBER_6 + ( NUMBER_5 % profit on the other * 0.01 ) ) * VAR_0 ) + ( ( NUMBER_6 + ( NUMBER_7 % on the first work * 0.01 ) ) * VAR_1 )
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars * VAR_1 ) = NUMBER_3 dollars - NUMBER_4 dollars ; VAR_0 + VAR_1 = NUMBER_0
+Shop charges NUMBER_0 dollars + ( NUMBER_1 dollars an hour for renting a bike * VAR_0 ) = NUMBER_2 dollars
+VAR_0 = ( ( NUMBER_0 oranges in a bin + NUMBER_2 new ones ) - NUMBER_1 of the old ones )
+NUMBER_0 dimes in his bank + NUMBER_1 more dimes = VAR_0
+$ NUMBER_0 cleaning a home * VAR_0 = NUMBER_1 dollars
+VAR_0 = NUMBER_0 soccer games + NUMBER_1 games + NUMBER_2 games
+NUMBER_0 balls * NUMBER_1 jugglers putting a show at the same time = VAR_0
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 ; NUMBER_1 + VAR_0 = VAR_1 ; NUMBER_2 more than the smallest + VAR_0 = VAR_2
+VAR_0 = ( ( NUMBER_1 students at the start of the year + NUMBER_3 new students ) - NUMBER_4 students )
+VAR_0 = ( ( NUMBER_0 books in the bargin bin + NUMBER_2 more in the bin ) - NUMBER_1 books )
+NUMBER_1 more VAR_0 than VAR_1 + VAR_1 = VAR_0 ; VAR_0 + VAR_1 = NUMBER_0 students
+VAR_0 = ( NUMBER_0 parts natural oil + every NUMBER_1 parts of synthetic oil ) / every NUMBER_1 parts of synthetic oil ; VAR_0 = VAR_1 / NUMBER_2 VAR_1 of synthetic oil
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars per ticket * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars per ticket
+( 1.0 / VAR_0 ) + ( 1.0 / VAR_1 ) = 0.533 ; VAR_1 = The sum of the reciprocals of NUMBER_0 consecutive odd numbers + VAR_0
+NUMBER_2 % acid * 0.01 * VAR_0 + NUMBER_3 % acid * 0.01 * VAR_1 = NUMBER_1 % acid * 0.01 * NUMBER_0 % acid ; VAR_0 + VAR_1 = NUMBER_0 % acid
+( NUMBER_2 times a VAR_0 * VAR_0 ) + NUMBER_0 = ( more than NUMBER_3 times the VAR_0 * VAR_0 ) + NUMBER_2 times a VAR_0
+( NUMBER_0 + VAR_0 ) / NUMBER_1 = NUMBER_2
+( NUMBER_0 nickels * 0.05 ) + ( NUMBER_1 nickels * 0.1 ) + ( NUMBER_2 dimes * 0.1 ) + ( NUMBER_3 half-dollars * 0.5 ) = VAR_0
+VAR_0 = NUMBER_1 walnut trees in the park - NUMBER_0 walnut trees
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 = NUMBER_0 + VAR_1
+( NUMBER_4 footballs * VAR_0 ) + ( NUMBER_7 soccer * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 footballs * VAR_0 ) + ( NUMBER_4 footballs * VAR_1 ) = NUMBER_5 dollars
+( ( 0.06 * VAR_0 ) + ( 0.13 * VAR_1 ) ) + ( 0.18 * VAR_2 ) = NUMBER_1 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 stamps in the collection ; VAR_1 = 2.0 * VAR_0
+( 0.05 * VAR_0 ) + ( 0.1 * VAR_1 ) = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0
+( NUMBER_0 calories per minute * VAR_0 ) + ( NUMBER_1 calories per minute * VAR_1 ) = NUMBER_2 calories ; VAR_0 + VAR_1 = NUMBER_3 minutes
+( NUMBER_2 dollars * VAR_0 ) + ( NUMBER_3 dollars * VAR_1 ) = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+NUMBER_4 * VAR_0 = NUMBER_2 + VAR_1 ; VAR_0 + VAR_1 = ( - 64.0 )
+VAR_0 = NUMBER_0 mile + NUMBER_1 mile + NUMBER_2 mile
+VAR_0 = ( NUMBER_2 total for her party * ( NUMBER_2 total for her party - NUMBER_0 brownies ) )
+( NUMBER_0 points * VAR_0 ) - ( NUMBER_1 points * VAR_1 ) = 0 - NUMBER_3 points ; VAR_0 + VAR_1 = NUMBER_2
+NUMBER_0 people + NUMBER_1 people = VAR_0
+$ NUMBER_0 + $ NUMBER_1 + VAR_0 = a shirt with a $ NUMBER_2 bill
+VAR_0 = NUMBER_0 ladybugs + NUMBER_1 ladybugs
+a town traveling at NUMBER_0 miles per hour * VAR_0 = the same road at NUMBER_1 miles per hour * ( VAR_0 - 2.0 )
+VAR_0 = ( ( NUMBER_2 giant stuffed bears + stock when they got another shipment with NUMBER_1 bears in it ) / NUMBER_2 giant stuffed bears )
+( NUMBER_0 miles per hour + VAR_0 ) * VAR_1 = NUMBER_1 miles ; ( NUMBER_0 miles per hour - VAR_0 ) * VAR_1 = NUMBER_2 miles
+VAR_0 = ( $ NUMBER_2 each * ( NUMBER_0 customers - NUMBER_1 of them ) )
+VAR_0 = $ NUMBER_0 + $ NUMBER_1 + $ NUMBER_2
+VAR_0 = ( NUMBER_0 popsicle sticks + NUMBER_1 popsicle sticks )
+VAR_0 = ( NUMBER_1 / a class of NUMBER_0 students ) * 100.0
+VAR_0 = ( NUMBER_0 erasers + NUMBER_1 more )
+( VAR_0 + VAR_1 ) * NUMBER_3 hours = NUMBER_2 kilometers ; ( VAR_0 - VAR_1 ) * NUMBER_1 hours = NUMBER_0 kilometers
+NUMBER_0 lemons + NUMBER_1 lemons = VAR_0
+VAR_0 - NUMBER_0 = NUMBER_1 puppies
+$ NUMBER_0 per hour * ( ( NUMBER_1 hours on Friday + NUMBER_2 hours on Saturday ) + NUMBER_3 hours on Sunday ) = VAR_0
+VAR_0 = ( NUMBER_0 pounds * NUMBER_1 years )
+VAR_0 = ( ( NUMBER_0 customers in his section - NUMBER_1 of them ) / NUMBER_2 people at each table )
+NUMBER_0 + NUMBER_1 of an acre = VAR_0
+( NUMBER_0 dollars each * VAR_0 ) + ( VAR_1 cups for NUMBER_1 dollars each * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 cups
+( 0.1 * VAR_0 ) + ( 0.25 * VAR_1 ) = NUMBER_1 dollars ; VAR_0 = NUMBER_0 more VAR_0 than VAR_1 + VAR_1
+( NUMBER_2 dollars * VAR_0 ) + ( NUMBER_3 dollars * VAR_1 ) = a value of NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 tickets
+VAR_0 = ( NUMBER_0 buses * NUMBER_1 students )
+( NUMBER_0 dollars for VAR_0 * VAR_0 ) + ( NUMBER_1 dollars for non-students * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 tickets
+NUMBER_0 liters of oil + NUMBER_1 more liters of oil = VAR_0
+NUMBER_0 blue marbles * NUMBER_1 times more blue marbles than Melanie = VAR_0 * NUMBER_2
+VAR_0 = NUMBER_1 peaches - NUMBER_0 peaches at his roadside fruit dish
+( ( part at NUMBER_4 % * 0.01 ) * VAR_0 ) + ( ( part at NUMBER_2 % * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+VAR_0 = ( ( NUMBER_0 puppies - NUMBER_1 of them ) / cages with NUMBER_2 )
+NUMBER_0 ladybugs + NUMBER_1 ladybugs = VAR_0
+NUMBER_0 crayons in the drawer - NUMBER_1 crayons = VAR_0
+2.0 * VAR_0 = VAR_1 ; VAR_1 + VAR_0 = NUMBER_0 people
+VAR_0 = ( ( NUMBER_1 carnations + NUMBER_2 carnations ) / NUMBER_0 flowers )
+( NUMBER_4 % * 0.01 * VAR_0 ) + ( NUMBER_5 % * 0.01 * VAR_1 ) = NUMBER_3 dollars for one year ; VAR_0 + VAR_1 = NUMBER_0 dollars
+VAR_0 = ( ( NUMBER_0 dollars + another NUMBER_2 dollars for his allowance ) - $ NUMBER_1 )
+VAR_0 = NUMBER_0 dimes in her bank + her NUMBER_1 dimes + her NUMBER_2 dimes
+VAR_0 = ( ( NUMBER_0 pieces of candy + NUMBER_1 pieces ) / NUMBER_2 pieces a day )
+( ( 0.01 * VAR_0 ) + ( 0.1 * VAR_1 ) ) + ( 0.25 * VAR_2 ) = NUMBER_1 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 coins ; VAR_0 = VAR_1
+VAR_0 = ( ( NUMBER_0 people - NUMBER_1 of them ) / NUMBER_2 people each )
+( NUMBER_1 sacks of apples * VAR_0 ) + NUMBER_1 sacks of apples = NUMBER_2 sacks of apples
+( VAR_0 + NUMBER_0 new baseball trading cards ) / 2.0 = NUMBER_1 new baseball trading cards
+a basketball game for $ NUMBER_0 + a racing game for $ NUMBER_1 = VAR_0
+( NUMBER_0 dollars / NUMBER_1 pounds ) * NUMBER_2 pounds of apples = VAR_0
+( NUMBER_0 cents * 0.01 * VAR_0 ) + ( NUMBER_1 cents * 0.01 * VAR_1 ) = NUMBER_2 dollars ; VAR_0 + VAR_1 = NUMBER_3 VAR_1
+VAR_0 = a trumpet for $ NUMBER_0 + a music tool for $ NUMBER_1 + a song book which was $ NUMBER_2
+VAR_0 = NUMBER_0 baseball games - NUMBER_1 games
+VAR_0 = a piece of wood that was NUMBER_0 centimeters long - NUMBER_1 centimeters
+VAR_0 = ( the store NUMBER_1 times * the store NUMBER_1 times )
+( ( NUMBER_0 % acid * 0.01 ) * VAR_0 ) + ( ( a second that is NUMBER_1 % acid * 0.01 ) * VAR_1 ) = NUMBER_3 % acid * 0.01 * NUMBER_2 liters ; VAR_0 + VAR_1 = NUMBER_2 liters
+NUMBER_0 legos - NUMBER_1 of them = VAR_0
+VAR_0 = ( ( NUMBER_4 students at the start of the year + NUMBER_3 new students ) - NUMBER_2 students )
+VAR_0 = NUMBER_0 orchid bushes + NUMBER_1 orchid bushes
+VAR_0 = NUMBER_0 ear muffs + NUMBER_1
+VAR_0 = ( NUMBER_0 baskets * NUMBER_1 eggs )
+NUMBER_0 dollars per month + ( ( NUMBER_1 cents a minute * 0.01 ) * VAR_0 ) = ( NUMBER_2 cents a minute * 0.01 ) * VAR_0
+NUMBER_0 red markers + NUMBER_1 blue markers = VAR_0
+NUMBER_0 guests coming to her Halloween party / NUMBER_1 guests = VAR_0
+( NUMBER_0 VAR_0 tickets * VAR_0 ) + ( NUMBER_3 VAR_1 tickets * VAR_1 ) = NUMBER_2 VAR_1 tickets ; ( NUMBER_3 VAR_1 tickets * VAR_0 ) + ( NUMBER_4 VAR_1 tickets * VAR_1 ) = NUMBER_5 VAR_1 tickets
+VAR_0 = ( NUMBER_1 stickers - NUMBER_0 stickers )
+VAR_0 = ( NUMBER_0 * NUMBER_1 miles )
+VAR_0 - ( ( a pair of running shoes during a NUMBER_1 % off sale * 0.01 ) * VAR_0 ) = NUMBER_0 dollars
+VAR_0 = ( NUMBER_2 hours * ( NUMBER_0 rooms in a building - NUMBER_2 hours ) )
+VAR_0 = ( NUMBER_0 cats + her NUMBER_1 more cats )
+VAR_0 + ( NUMBER_2 times the VAR_1 * VAR_1 ) = NUMBER_3 ; VAR_0 = NUMBER_0 + ( NUMBER_2 times the VAR_1 * VAR_1 )
+VAR_0 = ( NUMBER_0 dollars each * ( NUMBER_1 decks - the end of the day he had NUMBER_2 left ) )
+a basic car at a daily rate of NUMBER_0 dollars + ( NUMBER_1 per mile * VAR_0 ) = a basic car at NUMBER_2 dollars + ( NUMBER_3 per mile * VAR_0 )
+( 0.25 * VAR_0 ) + ( 0.1 * VAR_1 ) = NUMBER_1 dollars ; NUMBER_0 more VAR_0 than VAR_1 + VAR_1 = VAR_0
+( ( NUMBER_4 % * 0.01 ) * VAR_0 ) + ( ( NUMBER_5 % * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+VAR_0 + VAR_1 = NUMBER_0 students in an Algebra 1 class ; VAR_0 = NUMBER_1 fewer VAR_1 than VAR_0 + VAR_1
+NUMBER_0 of an inch of hair cut off + another NUMBER_1 of an inch = VAR_0
+VAR_0 = ( ( NUMBER_2 students at the start of the year + NUMBER_2 students at the start of the year ) - NUMBER_1 students )
+VAR_0 = NUMBER_0 - NUMBER_1 of Dan 's green marbles
+( ( NUMBER_2 * VAR_0 ) + ( NUMBER_3 * VAR_1 ) ) + NUMBER_4 dollars left over = NUMBER_0 dollars to spend in a record store ; ( NUMBER_3 * VAR_0 ) + VAR_1 = NUMBER_0 dollars to spend in a record store
+a truck at a daily rate of NUMBER_0 dollars + ( NUMBER_1 cents per mile * 0.01 * VAR_0 ) = the same size truck at NUMBER_2 dollars + ( NUMBER_3 cents per mile * 0.01 * VAR_0 )
+VAR_0 = NUMBER_0 inches + NUMBER_1 inches
+VAR_0 = ( NUMBER_0 pencils + NUMBER_1 more from Joyce )
+( VAR_0 + VAR_1 ) + VAR_2 = a combined sum of NUMBER_0 ; 1.0 + VAR_0 = VAR_1 ; 1.0 + VAR_1 = VAR_2
+VAR_0 = NUMBER_0 baseball cards - NUMBER_1 of Melanie 's baseball cards
+VAR_0 = NUMBER_0 dimes in his bank - NUMBER_1 of his dimes
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_1 = VAR_0 - NUMBER_1 more cars
+VAR_0 = ( ( NUMBER_0 dollars + NUMBER_1 more dollars ) - NUMBER_2 )
+VAR_0 = ( NUMBER_1 boxes of apples * NUMBER_1 boxes of apples )
+NUMBER_0 times the sum * ( NUMBER_1 + VAR_0 ) = ( NUMBER_3 * VAR_0 ) - NUMBER_2
+VAR_0 = ( ( NUMBER_0 tulips + NUMBER_2 roses ) - NUMBER_2 roses )
+( NUMBER_2 dollars * VAR_0 ) + ( NUMBER_3 dollars * VAR_1 ) = a total of NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 violins
+VAR_0 + VAR_1 = A NUMBER_0 inch board ; VAR_1 = NUMBER_2 pieces * VAR_0
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 ; VAR_1 = 1.0 + VAR_0 ; VAR_2 = 1.0 + VAR_1
+$ NUMBER_0 * NUMBER_1 hours = VAR_0
+VAR_0 = NUMBER_0 scissors in the drawer + NUMBER_1 scissors
+VAR_0 = ( ( NUMBER_0 + NUMBER_1 ) - NUMBER_2 of the files )
+( NUMBER_0 of a line * VAR_0 ) - ( NUMBER_1 of the same line * VAR_0 ) = NUMBER_2 centimeters
+( ( $ NUMBER_0 + $ NUMBER_1 ) + $ NUMBER_2 ) - ( $ NUMBER_3 + $ NUMBER_4 ) = VAR_0
+( NUMBER_0 dollars for VAR_0 * VAR_0 ) + ( NUMBER_1 dollars for VAR_1 * VAR_1 ) = NUMBER_2 dollars ; VAR_0 + VAR_1 = NUMBER_3 tickets
+VAR_0 = ( NUMBER_0 boxes of Trefoils / NUMBER_1 boxes )
+VAR_0 = $ NUMBER_0 + $ NUMBER_1
+VAR_0 = a total of NUMBER_0 customers across the world - NUMBER_1 of its customers
+VAR_0 = ( NUMBER_1 inches - NUMBER_0 inches )
+( NUMBER_2 dollars * VAR_0 ) + ( NUMBER_3 dollars per pound * VAR_1 ) = NUMBER_4 pounds * NUMBER_5 dollars per pound ; VAR_0 + VAR_1 = NUMBER_4 pounds
+VAR_0 = NUMBER_0 gallon of water - NUMBER_1 gallon of the water
+VAR_0 = ( the store NUMBER_0 times * NUMBER_1 bananas )
+VAR_0 = ( NUMBER_1 blue chips + NUMBER_2 green chips ) / ( ( NUMBER_0 red chips + NUMBER_1 blue chips ) + NUMBER_2 green chips )
+( VAR_0 + VAR_1 ) * VAR_2 = NUMBER_0 miles ; ( VAR_0 - VAR_1 ) * VAR_2 = NUMBER_1 miles ; VAR_1 = NUMBER_2 miles per hour
+VAR_0 = ( a bill of NUMBER_2 dollars - NUMBER_0 dollars per month ) / NUMBER_1 dollars
+VAR_0 = ( NUMBER_2 points * ( NUMBER_0 members total - NUMBER_1 members ) )
+a base salary of NUMBER_1 dollars + ( a NUMBER_2 % commission on the amount of furniture * 0.01 * VAR_0 ) = an NUMBER_0 dollars monthly salary
+( NUMBER_1 dollars + ( NUMBER_2 dollars per topping * VAR_0 ) ) * ( 1.0 + ( NUMBER_3 % * 0.01 ) ) = a total of NUMBER_0 dollars to pay the delivery person
+VAR_0 = a clarinet for $ NUMBER_0 + a song book which was $ NUMBER_1
+5.0 * VAR_0 = NUMBER_0 dollars ; NUMBER_1 pounds of apples in dollars * VAR_0 = VAR_1
+VAR_0 = ( NUMBER_0 shirts - NUMBER_1 )
+VAR_0 = NUMBER_0 VAR_0 * NUMBER_1 cm
+VAR_0 = ( NUMBER_1 * NUMBER_0 dollars per hour ) + NUMBER_2 dollars
+( ( NUMBER_4 % * 0.01 ) * VAR_0 ) + ( ( NUMBER_5 % * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 = NUMBER_0 * VAR_1
+NUMBER_0 of a mile from school + NUMBER_1 of a mile from David 's house = VAR_0
+NUMBER_0 of a pie - just NUMBER_1 of a pie = VAR_0
+( VAR_0 + VAR_1 ) + VAR_2 = a total of NUMBER_0 computer desks ; VAR_0 = ( 2.0 * VAR_2 ) + NUMBER_2 ; VAR_1 = NUMBER_1 + VAR_2
+NUMBER_0 baseball games = NUMBER_1 games + VAR_0
+( 0.01 * VAR_0 ) + ( 0.05 * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + VAR_1 = NUMBER_1 in all
+( NUMBER_1 * VAR_0 ) + NUMBER_0 = ( less than NUMBER_3 times the VAR_0 * VAR_0 ) - NUMBER_2
+VAR_0 = ( NUMBER_0 tables he was waiting on * ( NUMBER_1 women + NUMBER_2 men at each table ) )
+VAR_0 = ( NUMBER_2 friends * ( NUMBER_2 friends + NUMBER_1 more players ) )
+NUMBER_0 seats * NUMBER_1 people = VAR_0
+( 4.0 * VAR_0 ) + ( 2.0 * VAR_1 ) = a total of NUMBER_1 tires ; VAR_0 = NUMBER_0 times as many cars as motorcycles * VAR_1
+VAR_0 = ( NUMBER_0 kids on the soccer field + NUMBER_1 kids )
+NUMBER_0 of the pole * VAR_0 + another NUMBER_1 of it * VAR_0 + NUMBER_2 feet of it = VAR_0
+( NUMBER_2 dollars for a VAR_0 occupacy * VAR_0 ) + ( NUMBER_0 dollars * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 dollars for a VAR_0 occupacy
+VAR_0 = NUMBER_2 truck-load of sand + NUMBER_1 truck-load of dirt + NUMBER_2 truck-load of sand
+a beam NUMBER_0 inches wide * VAR_0 = a VAR_1 of NUMBER_1 pounds ; NUMBER_2 inches * VAR_0 = VAR_1
+NUMBER_0 % * 0.01 * VAR_0 + the other NUMBER_1 % * 0.01 * VAR_1 = NUMBER_3 % solution * 0.01 * NUMBER_2 liters ; VAR_0 + VAR_1 = NUMBER_2 liters
+( NUMBER_1 times * VAR_0 ) - NUMBER_0 = VAR_0
+VAR_0 = NUMBER_0 buckets of seeds - NUMBER_1 buckets
+NUMBER_0 trout / 2.0 = VAR_0
+( VAR_0 / NUMBER_0 miles ) + ( VAR_1 / NUMBER_1 miles per gallon ) = NUMBER_3 gallons of gasoline ; VAR_0 + VAR_1 = A recent sales trip that covered NUMBER_2 miles
+( 0.1 * VAR_0 ) + ( 0.25 * VAR_1 ) = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 coins
+VAR_0 = ( NUMBER_0 students * NUMBER_1 tables )
+an overhead of NUMBER_0 dollars + ( NUMBER_1 dollars per performance * VAR_0 ) = NUMBER_2 dollars * VAR_0
+VAR_0 = NUMBER_1 houses - NUMBER_0 houses in Lawrence County
+NUMBER_0 * VAR_0 = NUMBER_1 * VAR_1 ; NUMBER_4 * VAR_1 = ( NUMBER_4 * VAR_2 ) + NUMBER_5 cents ; NUMBER_4 * VAR_2 = ( NUMBER_4 * VAR_0 ) + NUMBER_5 cents
+NUMBER_2 hours * VAR_0 = ( NUMBER_2 hours * VAR_1 ) + NUMBER_4 hours ; VAR_0 = NUMBER_5 cars * VAR_1
+VAR_0 = ( NUMBER_1 pennies - NUMBER_0 pennies )
+VAR_0 = ( NUMBER_0 pencils in a box - NUMBER_1 pencils )
+VAR_0 = a total of NUMBER_0 tickets - NUMBER_1 tickets
+VAR_0 + VAR_1 = NUMBER_1 cars ; VAR_0 = NUMBER_0 * VAR_1
+VAR_0 = NUMBER_0 blue balloons - NUMBER_1 of them
+VAR_0 = NUMBER_0 pounds - NUMBER_1 pounds
+NUMBER_0 * VAR_0 = NUMBER_1 dollars ; NUMBER_2 * VAR_0 = VAR_1
+( NUMBER_4 minutes * VAR_0 ) + ( VAR_1 * ( VAR_0 + VAR_2 ) ) = NUMBER_3 ; papers in NUMBER_1 minutes * VAR_0 = NUMBER_3 ; the job in NUMBER_2 minutes * VAR_2 = NUMBER_3
+NUMBER_2 * VAR_0 = VAR_1 ; VAR_0 + VAR_1 = NUMBER_0 meters
+NUMBER_0 dollars / 3.0 = VAR_0
+VAR_0 = NUMBER_0 tons of grain + Only NUMBER_1 tons of grain
+( NUMBER_1 dollars * VAR_0 ) + ( the VAR_1 dinner for NUMBER_2 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 people in your family
+( NUMBER_0 times a VAR_0 * VAR_0 ) - NUMBER_1 = ( the sum of NUMBER_3 times * ( 1the sum of NUMBER_3 times + VAR_0 ) ) + NUMBER_2
+( VAR_0 + VAR_1 ) * NUMBER_2 hours = NUMBER_1 miles ; VAR_0 = VAR_1 - NUMBER_0 miles per hour
+a monthly fee of NUMBER_1 dollars + ( NUMBER_0 dollars per text message * VAR_0 ) = NUMBER_2 dollars per text message with no monthly fee * VAR_0
+VAR_0 * NUMBER_5 dollars per pound + NUMBER_2 pounds of the NUMBER_3 dollars coffee * another that sells for NUMBER_3 dollars per pound = VAR_1 * a VAR_1 that will sell for NUMBER_4 dollars per pound ; VAR_0 + NUMBER_2 pounds of the NUMBER_3 dollars coffee = VAR_1
+VAR_0 = ( NUMBER_0 bottle caps + NUMBER_1 more from Rebecca )
+NUMBER_0 hours / the last NUMBER_1 days = VAR_0
+VAR_0 = NUMBER_0 Pokemon cards + NUMBER_1 new Pokemon cards
+VAR_0 = ( NUMBER_0 birds on the fence + NUMBER_1 more birds land on the fence . )
+( NUMBER_0 dozen red marbles * 12.0 ) * NUMBER_1 times more red marbles than Jessica = VAR_0
+VAR_0 = ( ( NUMBER_0 customers + another NUMBER_2 customers ) - another NUMBER_2 customers )
+NUMBER_1 times the VAR_0 * VAR_0 = ( NUMBER_3 * VAR_1 ) + NUMBER_2 ; VAR_0 = NUMBER_0 more than the VAR_1 + VAR_1
+NUMBER_2 + VAR_0 = NUMBER_3 % VAR_0 * 0.01 * ( ( ( NUMBER_2 + VAR_0 ) + VAR_1 ) - NUMBER_2 ) ; VAR_0 = NUMBER_0 % * 0.01 * ( VAR_0 + VAR_1 )
+NUMBER_0 short trees + VAR_0 = NUMBER_1 short trees in the park
+VAR_0 + VAR_1 = A total of NUMBER_0 tickets ; VAR_1 = NUMBER_1 * VAR_0
+VAR_0 = ( NUMBER_0 years * NUMBER_1 times )
+the truck in NUMBER_1 hours * an average rate of NUMBER_0 miles per hour = VAR_0 * VAR_1 ; VAR_0 = 1.0 + the truck in NUMBER_1 hours
+VAR_0 = ( NUMBER_0 people * NUMBER_1 pieces of pizza )
+NUMBER_0 sheets of used paper / 7.0 = VAR_0
+( NUMBER_1 VAR_0 * VAR_0 ) + ( NUMBER_5 VAR_1 * VAR_1 ) = NUMBER_0 dollars ; ( NUMBER_4 VAR_0 * VAR_0 ) + ( NUMBER_5 VAR_1 * VAR_1 ) = NUMBER_3 dollars
+VAR_0 = ( NUMBER_1 erasers / groups of NUMBER_0 )
+NUMBER_0 oranges + NUMBER_1 oranges = VAR_0
+VAR_0 = ( ( NUMBER_0 lives + NUMBER_2 more lives ) - NUMBER_1 lives )
+( NUMBER_3 * VAR_0 ) + ( NUMBER_3 * VAR_1 ) = NUMBER_2 ; VAR_0 - VAR_1 = NUMBER_1
+( NUMBER_0 people * NUMBER_4 hours ) * VAR_0 = NUMBER_1 VAR_1 ; ( NUMBER_3 people * NUMBER_4 hours ) * VAR_0 = VAR_1
+( ( 0.05 * VAR_0 ) + ( 0.1 * VAR_1 ) ) + ( 0.25 * VAR_2 ) = NUMBER_1 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 coins ; VAR_1 = NUMBER_2 more VAR_1 than VAR_2 + VAR_2
+VAR_0 = ( NUMBER_0 miles * this pace for the NUMBER_1 hours I walk )
+VAR_0 = ( NUMBER_1 balloons - NUMBER_0 more balloons for his birthday )
+VAR_0 * ( 1.0 + ( an increase of NUMBER_1 % over last year 's enrollment * 0.01 ) ) = NUMBER_0
+VAR_0 = ( NUMBER_0 presents + NUMBER_1 more than Ethan )
+NUMBER_0 limes - Sara NUMBER_1 of the limes = VAR_0
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = a total of NUMBER_2 dollars ; VAR_0 + VAR_1 = NUMBER_3
+( 12.0 * 0.25 ) = VAR_0
+( 0.05 * VAR_0 ) + ( 0.1 * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + VAR_1 = NUMBER_1 coins
+( NUMBER_0 tacos * VAR_0 ) + ( NUMBER_2 enchiladas * VAR_1 ) = NUMBER_4 dollars plus tax ; ( NUMBER_2 enchiladas * VAR_0 ) + ( NUMBER_3 enchiladas * VAR_1 ) = NUMBER_5 dollars plus tax
+VAR_0 + VAR_1 = NUMBER_0 games ; VAR_0 = NUMBER_1 + VAR_1
+VAR_0 = NUMBER_0 foot - NUMBER_1 foot
+VAR_0 = ( NUMBER_0 candies in Kathy 's candy collection / NUMBER_1 groups )
+VAR_0 = ( NUMBER_0 packages of gum * NUMBER_1 pieces in each package )
+NUMBER_0 inches - NUMBER_1 inches = VAR_0
+( NUMBER_2 dollars per kilogram * VAR_0 ) + ( NUMBER_1 dollars per kilogram * VAR_1 ) = NUMBER_3 kilograms of a * worth NUMBER_4 dollars per kilogram ; VAR_0 + VAR_1 = NUMBER_3 kilograms of a
+The sum of NUMBER_2 integers * VAR_0 = ( less than NUMBER_4 times the VAR_1 integer * VAR_1 ) - NUMBER_3 ; VAR_1 + VAR_0 = NUMBER_1
+VAR_0 + ( The sum of NUMBER_2 numbers * VAR_1 ) = NUMBER_3 ; VAR_0 + VAR_1 = NUMBER_1
+VAR_0 = ( NUMBER_0 cents - NUMBER_1 cents )
+( NUMBER_1 * VAR_0 ) + NUMBER_1 = VAR_1 ; VAR_0 + VAR_1 = NUMBER_0
+a profit of NUMBER_3 dollars = ( NUMBER_0 dollars each * VAR_0 ) - The material to make up to NUMBER_2 candles
+the NUMBER_4 % VAR_0 * 0.01 * VAR_1 + a NUMBER_1 % silver iodide VAR_0 * 0.01 * NUMBER_0 liters = a NUMBER_3 % VAR_0 * 0.01 * VAR_0 ; VAR_1 + NUMBER_0 liters = VAR_0
+VAR_0 = ( NUMBER_0 % of the selling price * VAR_1 ) * 0.01 ; VAR_1 - VAR_0 = NUMBER_1 % of the selling price
+VAR_0 = ( the store NUMBER_0 times * NUMBER_1 peanuts )
+NUMBER_0 of a foot long - a second fish that was NUMBER_1 of a foot long = VAR_0
+NUMBER_0 miles / VAR_0 = NUMBER_1 miles / VAR_1 ; VAR_0 = NUMBER_2 miles per hour + VAR_1
+VAR_0 = ( NUMBER_1 pounds of shells - NUMBER_0 pounds of shells in her bucket )
+VAR_0 = ( a NUMBER_0 page book for school - NUMBER_1 pages )
+VAR_0 = ( NUMBER_0 kilometers / NUMBER_1 kilometers per hour )
+VAR_0 = NUMBER_0 + NUMBER_1 + NUMBER_2 kittens
+VAR_0 = ( NUMBER_1 - NUMBER_0 cookies )
+VAR_0 + ( NUMBER_1 * VAR_1 ) = NUMBER_2 + VAR_2 ; VAR_1 = NUMBER_0 + VAR_0 ; VAR_2 = NUMBER_1 + VAR_0
+VAR_0 = ( NUMBER_2 brownies * ( NUMBER_1 total for her party - NUMBER_2 brownies ) )
+( ( NUMBER_4 % interest * 0.01 ) * VAR_0 ) + ( ( NUMBER_5 % * 0.01 ) * VAR_1 ) = NUMBER_6 dollars in interest ; ( NUMBER_2 * VAR_0 ) + NUMBER_1 dollars = VAR_1
+NUMBER_0 of a mile + NUMBER_1 of a mile = VAR_0
+NUMBER_0 pounds + NUMBER_1 pounds = VAR_0
+VAR_0 = NUMBER_0 + NUMBER_1 puppies
+( the VAR_0 price of NUMBER_0 dollars for each piece * VAR_0 ) + ( ( the VAR_0 price of NUMBER_0 dollars for each piece - NUMBER_1 dollars ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = all NUMBER_2 pieces
+VAR_0 = ( NUMBER_0 Skittles / NUMBER_1 people in her class )
+( NUMBER_1 kilograms of VAR_0 * VAR_0 ) + ( NUMBER_2 kilograms of VAR_1 * VAR_1 ) = NUMBER_0 pesos ; ( NUMBER_4 kilograms of VAR_0 * VAR_0 ) + ( NUMBER_5 kilograms of VAR_1 * VAR_1 ) = NUMBER_3 pesos
+( an average of NUMBER_0 miles per gallon * VAR_0 ) + ( NUMBER_1 miles per gallon * VAR_1 ) = a total of NUMBER_2 miles in that week ; VAR_0 + VAR_1 = a total gas consumption of NUMBER_3 gallons
+VAR_0 = ( NUMBER_2 questions * ( NUMBER_2 questions + NUMBER_2 questions ) )
+VAR_0 = ( NUMBER_0 apples - NUMBER_1 )
+VAR_0 = NUMBER_0 violet balloons - Fred NUMBER_1 of the balloons
+VAR_0 = ( NUMBER_0 students / NUMBER_1 teachers )
+( NUMBER_1 - NUMBER_0 ) / ( 4.0 - 1.0 ) = VAR_0
+NUMBER_0 pink flower stones / NUMBER_1 bracelets = VAR_0
+VAR_0 = ( NUMBER_0 pizzas * NUMBER_1 slices )
+VAR_0 = ( NUMBER_1 pencils / NUMBER_0 students )
+( NUMBER_2 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 total tickets
+VAR_0 = NUMBER_0 potatoes + NUMBER_1 potatoes
+VAR_0 = ( ( NUMBER_0 students at the start of the year + NUMBER_2 new students ) - NUMBER_1 students )
+( part at NUMBER_4 % * 0.01 * VAR_0 ) + ( part at NUMBER_5 % * 0.01 * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+NUMBER_0 of a gallon of grape juice + NUMBER_1 of a gallon of cranberry juice + NUMBER_2 of a gallon of club soda = VAR_0
+VAR_0 = NUMBER_0 more than another integer + VAR_1 ; VAR_1 * VAR_0 = ( - 15.0 )
+NUMBER_0 dollars - VAR_0 = NUMBER_1 dollars
+( 2.0 * VAR_0 ) + ( 4.0 * VAR_1 ) = NUMBER_1 legs ; VAR_0 + VAR_1 = NUMBER_0 heads
+( NUMBER_4 consecutive integers such * VAR_0 ) + ( NUMBER_3 times second integer * VAR_1 ) = NUMBER_5 ; VAR_1 = NUMBER_2 + VAR_0
+VAR_0 = ( NUMBER_1 pigs - NUMBER_0 pigs in the barn )
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = a total of NUMBER_2 cups of lemonade
+VAR_0 = ( NUMBER_2 minutes * ( NUMBER_0 potatoes - NUMBER_1 ) )
+NUMBER_2 of a pitcher of lemonade during the first intermission + NUMBER_1 of a pitcher during the second + NUMBER_2 of a pitcher of lemonade during the first intermission = VAR_0
+a truck at a daily rate of NUMBER_0 dollars + ( ( NUMBER_1 cents per mile * 0.01 ) * VAR_0 ) = the same truck for NUMBER_2 dollars + ( ( NUMBER_3 cents per mile * 0.01 ) * VAR_0 )
+VAR_0 = ( NUMBER_0 leaves - NUMBER_1 leaves left )
+( NUMBER_0 half-dollars playing pinball * 0.5 ) + ( NUMBER_1 half-dollars playing pinball * 0.5 ) = VAR_0
+VAR_0 = ( ( NUMBER_0 puppies + NUMBER_1 puppies ) / NUMBER_2 puppies a day )
+VAR_0 = ( $ NUMBER_0 * NUMBER_1 tickets )
+VAR_0 + VAR_1 = 68.0 ; VAR_1 - NUMBER_0 feet = VAR_0
+VAR_0 = ( NUMBER_2 dollars * ( NUMBER_0 adults + NUMBER_1 children ) )
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_1 ; VAR_1 = NUMBER_3 + ( NUMBER_2 * VAR_0 ) ; VAR_2 = ( NUMBER_6 * VAR_0 ) - NUMBER_5
+( NUMBER_1 hours * VAR_0 ) + ( NUMBER_2 hours * VAR_1 ) = NUMBER_3 kilometers ; NUMBER_1 hours * VAR_0 = VAR_1
+NUMBER_0 pounds of oranges * NUMBER_1 bags = VAR_0
+( 180.0 * VAR_0 ) + ( the NUMBER_2 * VAR_1 ) = she pumps a total of NUMBER_1 gallons ; VAR_0 + VAR_1 = a period of NUMBER_0 hours
+NUMBER_0 pounds of honey - NUMBER_1 pounds of it = VAR_0
+( VAR_0 * VAR_1 ) + ( ( NUMBER_2 dollars per day + VAR_0 ) * VAR_2 ) = a total of NUMBER_0 dollars ; VAR_1 + VAR_2 = NUMBER_3 dollars per day ; VAR_1 = VAR_2 - NUMBER_1 days
+VAR_0 = ( NUMBER_0 points * ( NUMBER_3 treasures + NUMBER_2 ) )
+VAR_0 = NUMBER_0 crayons + NUMBER_1 crayons
+VAR_0 + VAR_1 = NUMBER_1 animals ; VAR_0 = NUMBER_0 times as many VAR_0 as VAR_1 * VAR_1
+NUMBER_0 stamps - NUMBER_1 more stamps than Minerva = VAR_0
+VAR_0 = ( NUMBER_0 centimeters * NUMBER_1 centimeters )
+( VAR_0 / 2.0 ) + NUMBER_0 more = NUMBER_1
+( ( ( NUMBER_0 + NUMBER_1 ) + NUMBER_2 ) + VAR_0 ) / NUMBER_4 = an average of at least NUMBER_3
+NUMBER_0 dollars plus commission + ( ( NUMBER_1 % of his VAR_0 * 0.01 ) * VAR_0 ) = no less than NUMBER_2 dollars
+NUMBER_0 bees * NUMBER_1 times that many = VAR_0
+NUMBER_0 pies every day * 7.0 = VAR_0
+NUMBER_0 books * NUMBER_1 times more books than Alyssa = VAR_0
+( NUMBER_1 % * 0.01 ) * VAR_0 = ( ( NUMBER_2 % * 0.01 ) * VAR_1 ) + NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+VAR_0 = ( NUMBER_0 carrot + NUMBER_1 more )
+( NUMBER_3 * VAR_0 ) + ( NUMBER_4 * VAR_1 ) = NUMBER_0 dollars ; ( NUMBER_3 * VAR_1 ) + ( NUMBER_4 * VAR_0 ) = NUMBER_5 dollars
+VAR_0 = NUMBER_0 puppies - NUMBER_2
+NUMBER_0 more than the VAR_0 + VAR_0 = VAR_1 ; VAR_1 + VAR_0 = NUMBER_1
+VAR_0 = ( ( NUMBER_1 students + NUMBER_2 adults going ) / NUMBER_0 people )
+VAR_0 = NUMBER_1 % * 0.01 * NUMBER_0 dollars ; VAR_1 = NUMBER_3 % simple interest * 0.01 * NUMBER_2 dollars ; VAR_2 = NUMBER_4 % * 0.01 * VAR_3 ; VAR_4 = an overall VAR_4 of NUMBER_5 % * 0.01 * VAR_5 ; VAR_0 + VAR_1 + VAR_2 = VAR_4 ; NUMBER_0 dollars + NUMBER_2 dollars + VAR_3 = VAR_5
+( NUMBER_0 * VAR_0 ) + ( NUMBER_1 * VAR_1 ) = NUMBER_2 ; NUMBER_1 * VAR_0 = VAR_1
+( VAR_0 - NUMBER_0 ) * NUMBER_1 = NUMBER_2
+NUMBER_1 pounds of green peppers + NUMBER_1 pounds of green peppers = VAR_0
+VAR_0 = NUMBER_0 foxes + ( a rate of NUMBER_2 foxes per year * VAR_1 ) ; VAR_0 = VAR_2 ; VAR_2 = NUMBER_1 rabbits on a particular game reserve + ( a rate of NUMBER_3 rabbits per year * VAR_1 )
+VAR_0 = ( NUMBER_0 bees * NUMBER_1 times that many )
+NUMBER_0 of Hayley 's closest friends like stickers . * VAR_0 = NUMBER_1 stickers
+VAR_0 = ( NUMBER_0 apples / NUMBER_1 apples )
+( NUMBER_0 * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 people
+( ( NUMBER_2 * 0.01 ) * VAR_0 ) + ( ( NUMBER_4 liters * 0.01 ) * VAR_1 ) = NUMBER_5 % saline solution * 0.01 * NUMBER_4 liters ; VAR_0 + VAR_1 = NUMBER_4 liters
+( ( a NUMBER_0 % solution * 0.01 ) * VAR_0 ) + ( ( a NUMBER_1 % solution * 0.01 ) * VAR_1 ) = a NUMBER_3 % vinegar solution * 0.01 * NUMBER_2 milliliters ; VAR_0 + VAR_1 = NUMBER_2 milliliters
+( ( a NUMBER_2 % cement mixture * 0.01 ) * VAR_0 ) + ( ( a NUMBER_4 % cement mixture * 0.01 ) * VAR_1 ) = ( NUMBER_0 tons * NUMBER_1 % cement ) * 0.01 ; VAR_0 + VAR_1 = NUMBER_0 tons
+( ( ( 0.01 * NUMBER_8 % ) * VAR_0 ) + ( ( 0.01 * some at NUMBER_5 % ) * VAR_1 ) ) + ( ( 0.01 * NUMBER_10 % ) * VAR_2 ) = NUMBER_7 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = A small corporation borrowed NUMBER_0 dollars to expand it ; VAR_0 = NUMBER_9 * VAR_2
+VAR_0 - ( ( NUMBER_1 % * 0.01 ) * VAR_0 ) = NUMBER_0 dollars
+VAR_0 = ( NUMBER_0 grown-ups + NUMBER_1 children )
+VAR_0 = ( NUMBER_0 magazines + NUMBER_1 newspapers )
+VAR_0 = NUMBER_0 pounds of sand travels to a construction yard - NUMBER_1 pounds of sand along the way
+VAR_0 = ( NUMBER_0 bugs * NUMBER_1 flowers each )
+( NUMBER_5 cents each * 0.01 * VAR_0 ) + ( NUMBER_6 cents each * 0.01 * VAR_1 ) = NUMBER_4 cents each ; VAR_0 + VAR_1 = NUMBER_3
+NUMBER_0 cantelopes + NUMBER_1 cantelopes + NUMBER_2 cantelopes = VAR_0
+NUMBER_0 = ( NUMBER_1 % of what VAR_0 * 0.01 ) * VAR_0
+( ( a NUMBER_2 % copper solution * 0.01 ) * VAR_0 ) + ( ( a NUMBER_3 % copper solution * 0.01 ) * VAR_1 ) = a NUMBER_5 % solution * 0.01 * NUMBER_4 milliliters ; VAR_0 + VAR_1 = NUMBER_4 milliliters
+VAR_0 = ( NUMBER_2 * ( NUMBER_0 potatoes - NUMBER_2 ) )
+VAR_0 = NUMBER_0 nickels + her NUMBER_1 nickels + her NUMBER_2 nickels
+VAR_0 = NUMBER_0 bucket of water + another NUMBER_1 buckets
+VAR_0 = ( NUMBER_0 cards - NUMBER_1 )
+NUMBER_2 years + VAR_0 = NUMBER_1 times * ( VAR_1 - NUMBER_2 years ) ; VAR_0 = 2.0 * VAR_1
+NUMBER_0 scissors in the drawer + NUMBER_1 more scissors = VAR_0
+NUMBER_0 balloons - NUMBER_1 balloons = VAR_0
+NUMBER_1 * VAR_0 = NUMBER_0 * VAR_1 ; VAR_0 + VAR_1 = NUMBER_2 total students
+VAR_0 = NUMBER_0 + NUMBER_1 blue balloons
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 = NUMBER_0 times * VAR_1
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars per pound * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 pounds of fruit
+NUMBER_0 birds = VAR_0 * NUMBER_1
+VAR_0 = ( NUMBER_0 blocks + NUMBER_1 more )
+( NUMBER_0 + VAR_0 ) * ( VAR_0 - NUMBER_0 ) = NUMBER_1
+VAR_0 = ( ( NUMBER_0 songs on her mp3 player + NUMBER_2 new songs ) - NUMBER_1 old songs )
+NUMBER_0 paper plates for a birthday party - ( NUMBER_1 blue plates + NUMBER_2 red plates ) = VAR_0
+VAR_0 = NUMBER_0 mile - NUMBER_1 mile
+VAR_0 = ( NUMBER_0 rocks - NUMBER_1 rocks )
+VAR_0 = NUMBER_0 tons of cement + NUMBER_1 tons of cement
+part at NUMBER_4 % * 0.01 * VAR_0 + part at NUMBER_2 % * 0.01 * VAR_1 = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+NUMBER_2 * VAR_0 = NUMBER_1 * VAR_1 ; VAR_0 + VAR_1 = NUMBER_0 minutes per week exercising
+( 0.05 * VAR_0 ) + ( 0.1 * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + VAR_1 = NUMBER_1 coins in all
+NUMBER_0 dollars / NUMBER_1 of what its value was last year = VAR_0
+NUMBER_1 of the number of VAR_0 * VAR_0 = VAR_1 ; VAR_0 + VAR_1 = a class of NUMBER_0 students
+( VAR_0 + VAR_1 ) * a boat NUMBER_0 hours = 2a boat NUMBER_0 hours ; ( VAR_0 - VAR_1 ) * NUMBER_2 hours = 2a boat NUMBER_0 hours
+VAR_0 = ( NUMBER_2 cans in it * ( NUMBER_1 bags + NUMBER_1 bags ) )
+VAR_0 = ( NUMBER_0 apples + another NUMBER_1 )
+a rental fee of NUMBER_0 dollars + ( ( a charge of NUMBER_1 cents for each mile * 0.01 ) * VAR_0 ) = NUMBER_2 dollars
+VAR_0 = NUMBER_0 inch + NUMBER_1 inch
+VAR_0 = ( ( NUMBER_0 dollars - NUMBER_1 bucks ) / NUMBER_2 dollar toys )
+VAR_0 = ( NUMBER_0 boxes of blocks * NUMBER_1 blocks )
+VAR_0 = ( NUMBER_0 frames in all / exactly NUMBER_1 frames )
+VAR_0 = ( NUMBER_0 stickers - NUMBER_1 )
+NUMBER_2 = ( VAR_0 - ( 0.5 * VAR_0 ) ) - NUMBER_1 ; VAR_0 = ( VAR_1 - ( 0.5 * VAR_1 ) ) - NUMBER_0
+NUMBER_0 peaches at her roadside fruit dish + VAR_0 = NUMBER_1 peaches
+NUMBER_1 miles / ( a ground speed of NUMBER_0 miles per hour - VAR_0 ) = the same time it takes to go NUMBER_2 miles with a tail VAR_0 / ( a ground speed of NUMBER_0 miles per hour + VAR_0 )
+NUMBER_0 cents * NUMBER_1 stamps = VAR_0
+NUMBER_0 dollars + ( NUMBER_1 dollars per mile * VAR_0 ) = the truck for NUMBER_2 dollars + ( NUMBER_3 dollars per mile * VAR_0 )
+VAR_0 = ( the magic shop for NUMBER_2 dollars each * ( the magic shop for NUMBER_2 dollars each + NUMBER_1 decks ) )
+VAR_0 = ( NUMBER_0 whistles - NUMBER_1 more whistles that Charles )
+NUMBER_0 baseball cards - NUMBER_1 of Fred 's baseball cards = VAR_0
+NUMBER_0 blue balloons + NUMBER_1 blue balloons = VAR_0
+VAR_0 = ( NUMBER_1 seats - NUMBER_0 people )
+NUMBER_0 barrels + VAR_0 = NUMBER_2 * ( NUMBER_1 in another shed - VAR_0 )
+NUMBER_0 dogwood trees + NUMBER_1 more dogwood trees + NUMBER_2 more dogwood trees = VAR_0
+NUMBER_0 dogs * NUMBER_1 puppies = VAR_0
+VAR_0 = ( NUMBER_0 bottle caps in a box - NUMBER_1 bottle caps )
+( ( ( ( NUMBER_2 + NUMBER_3 ) + NUMBER_4 ) + Rescue crews working for Stockton Rescue average NUMBER_7 ) + VAR_0 ) / NUMBER_2 = Rescue crews working for Stockton Rescue average NUMBER_7
+NUMBER_0 nickels in her bank + her NUMBER_1 more nickels = VAR_0
+VAR_0 = ( all but NUMBER_2 bars * ( NUMBER_1 bars - all but NUMBER_2 bars ) )
+VAR_0 = ( NUMBER_0 DVDs - NUMBER_1 DVDs )
+NUMBER_0 feet / NUMBER_1 feet = the Sears Tower NUMBER_2 meter / VAR_0
+VAR_0 = ( ( NUMBER_0 files on her computer - NUMBER_1 of them ) / folders with NUMBER_2 files in each one )
+$ NUMBER_0 + a football for $ NUMBER_1 + $ NUMBER_2 = VAR_0
+NUMBER_0 black balloons * NUMBER_1 times more black balloons than Nancy = VAR_0
+100.0 * 0.01 * VAR_0 + ( ( NUMBER_0 liters * a NUMBER_1 % alcohol solution ) * 0.01 ) = an NUMBER_2 % alcohol solution * 0.01 * VAR_1 ; VAR_0 + NUMBER_0 liters = VAR_1
+VAR_0 = ( NUMBER_1 muffins - Arthur baked NUMBER_0 muffins . )
+NUMBER_2 + VAR_0 = VAR_1 ; NUMBER_2 + VAR_1 = VAR_2 ; VAR_0 * VAR_2 = NUMBER_0 + ( NUMBER_1 * VAR_1 )
+NUMBER_0 seashells + NUMBER_1 seashells + NUMBER_2 seashells = VAR_0
+VAR_0 = ( ( NUMBER_0 tickets playing ` whack a mole ' + NUMBER_1 tickets playing ` skee ball ' ) - NUMBER_2 of his tickets )
+NUMBER_1 + VAR_0 = 2.0 * ( NUMBER_1 + VAR_1 ) ; VAR_0 = NUMBER_0 times another number * VAR_1
+( VAR_0 + VAR_1 ) * VAR_2 = 1.0 ; NUMBER_0 VAR_2 * VAR_0 = 1.0 ; NUMBER_1 VAR_2 * VAR_1 = 1.0
+NUMBER_0 * 100.0 = VAR_0
+( ( NUMBER_0 % orange juice * VAR_0 ) * 0.01 ) + ( ( NUMBER_1 % orange juice * VAR_1 ) * 0.01 ) = ( NUMBER_2 % orange juice * NUMBER_3 % orange juice ) * 0.01 ; VAR_0 + VAR_1 = NUMBER_2 % orange juice
+NUMBER_0 + ( 2.0 * VAR_0 ) = NUMBER_1
+VAR_0 + VAR_1 = ( The sum of NUMBER_0 numbers * VAR_1 ) - NUMBER_1 less than twice the ; VAR_1 - ( NUMBER_2 times the VAR_0 * VAR_0 ) = ( - 20.0 )
+VAR_0 = ( NUMBER_0 mph * NUMBER_1 hours )
+VAR_0 = NUMBER_0 crayons in the drawer - NUMBER_1 crayons
+( VAR_0 + ( ( NUMBER_0 % sales * 0.01 ) * VAR_0 ) ) + ( ( NUMBER_1 % tip -LRB- based on price of VAR_0 -RRB- * 0.01 ) * VAR_0 ) = 35.0
+NUMBER_0 books * NUMBER_1 times more books than Mike = VAR_0 * NUMBER_2
+VAR_0 = NUMBER_0 pages of the phone book + the people listed on another NUMBER_1 pages of the same phone book
+NUMBER_1 VAR_0 for each boy * ( VAR_1 - NUMBER_0 VAR_1 ) = VAR_0 ; NUMBER_3 VAR_1 for each girl * ( VAR_0 - NUMBER_2 VAR_1 for each girl ) = VAR_1 - NUMBER_0 VAR_1
+( ( NUMBER_1 % * 0.01 ) * VAR_0 ) + ( ( NUMBER_4 % * 0.01 ) * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = an extra NUMBER_0 dollars
+VAR_0 = ( NUMBER_0 Valentines - NUMBER_1 Valentines )
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_0 = NUMBER_1 times as large as the other number * VAR_1
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_0 - VAR_1 = NUMBER_1 + VAR_1
+VAR_0 = NUMBER_0 inch of hair cut off + another NUMBER_1 inch
+VAR_0 = ( NUMBER_0 baskets * NUMBER_1 apples in each basket )
+( ( NUMBER_1 + NUMBER_2 like orange juice ) - NUMBER_3 ) + VAR_0 = NUMBER_0 students in a classroom
+$ NUMBER_0 + $ NUMBER_1 + a song book for $ NUMBER_2 = VAR_0
+VAR_0 = NUMBER_0 miles + ( NUMBER_1 miles * ( 8.0 - 1.0 ) )
+VAR_0 = ( NUMBER_0 + NUMBER_1 bananas )
+( ( 1.0 / her yard in NUMBER_0 VAR_0 ) * VAR_0 ) + ( ( 1.0 / the job in NUMBER_1 VAR_0 ) * VAR_0 ) = 1.0
+( ( NUMBER_9 dollars * VAR_0 ) + ( the VAR_1 NUMBER_10 dollars per pound * VAR_1 ) ) + ( the VAR_2 NUMBER_11 dollars per pound * VAR_2 ) = NUMBER_5 dollars per pound * NUMBER_4 pounds of the mix ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_4 pounds of the mix ; VAR_1 = NUMBER_5 dollars per pound667 * VAR_0
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 ; VAR_0 + 2.0 = VAR_1 ; VAR_1 + 2.0 = VAR_2
+NUMBER_0 stickers on a page * NUMBER_1 pages of stickers = VAR_0
+VAR_0 = $ NUMBER_0 + a football for $ NUMBER_1 + $ NUMBER_2
+NUMBER_0 football games + NUMBER_1 games = VAR_0
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars per carton * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 cartons
+NUMBER_8 * VAR_0 = ( NUMBER_6 * VAR_1 ) + NUMBER_7 ; NUMBER_6 * VAR_0 = ( NUMBER_8 * VAR_1 ) + NUMBER_9
+( VAR_0 + VAR_1 ) + VAR_2 = A pipe that is NUMBER_0 feet long ; VAR_0 = ( NUMBER_7 * VAR_1 ) - NUMBER_6 ; VAR_2 = NUMBER_4 * ( VAR_0 + VAR_1 )
+VAR_0 = ( baked NUMBER_0 pecan pies + NUMBER_1 apples pies )
+NUMBER_0 whistles - NUMBER_1 more whistles than Charles = VAR_0
+VAR_0 + VAR_1 = NUMBER_0 cards total ; VAR_0 = NUMBER_1 + ( 3.0 * VAR_1 )
+NUMBER_0 students * NUMBER_1 stars each = VAR_0
+a piece of wood that was NUMBER_0 meters long - NUMBER_1 meters = VAR_0
+VAR_0 = ( ( NUMBER_0 games + NUMBER_1 more ) - NUMBER_2 of the games )
+VAR_0 = ( NUMBER_0 cards + NUMBER_1 more )
+NUMBER_0 ounces of sugar - NUMBER_1 ounces of it = VAR_0
+( VAR_0 + VAR_1 ) * NUMBER_1 hours = NUMBER_2 miles one way ; ( VAR_0 - VAR_1 ) * NUMBER_0 hours = NUMBER_2 miles one way
+VAR_0 = ( NUMBER_0 apples + NUMBER_1 more )
+VAR_0 = NUMBER_2 cup of strawberries + NUMBER_1 cup of yogurt + NUMBER_2 cup of strawberries
+VAR_0 = NUMBER_0 seashells - NUMBER_2 starfish
+VAR_0 = NUMBER_0 erasers in the drawer + NUMBER_1 erasers on the desk + NUMBER_2 erasers
+NUMBER_0 pages of the phone book + the people listed on another NUMBER_1 pages of the same phone book = VAR_0
+( NUMBER_1 time * VAR_0 ) + ( NUMBER_2 times * VAR_1 ) = NUMBER_3 ; VAR_0 + VAR_1 = NUMBER_0
+NUMBER_1 * VAR_0 = the same as NUMBER_2 times the VAR_1 number * VAR_1 ; VAR_0 + VAR_1 = NUMBER_0
+VAR_0 = NUMBER_0 pound of melon + NUMBER_1 pound of berries
+NUMBER_1 hours * VAR_0 = NUMBER_0 miles / 2.0
+( NUMBER_0 bicycles * NUMBER_2 wheels ) + ( NUMBER_1 tricycles in the storage area at Danny 's apartment building * NUMBER_3 wheels ) = VAR_0
+VAR_0 = ( NUMBER_0 candles on her birthday cake + NUMBER_1 more )
+( NUMBER_0 books a day + NUMBER_0 books a day ) * NUMBER_1 weeks = VAR_0
+0.05 * VAR_0 + 0.1 * VAR_1 + 0.25 * VAR_2 = NUMBER_0 dollars ; VAR_3 = 2.0 * VAR_0 ; VAR_4 = 0.5 * VAR_1 ; VAR_5 = VAR_2 ; 0.05 * VAR_3 + 0.1 * 0.5 * VAR_4 + 0.25 * VAR_5 = NUMBER_1 dollars ; VAR_0 + VAR_1 + VAR_2 = NUMBER_2 coins
+( NUMBER_1 point for each correct answer * VAR_0 ) - ( NUMBER_2 of a point subtracted for each incorrect answer * VAR_1 ) = a final score of NUMBER_3 points ; VAR_0 + VAR_1 = NUMBER_0 questions
+VAR_0 = NUMBER_0 limes - Sara NUMBER_1 of the limes
+NUMBER_0 peaches left at her roadside fruit stand + VAR_0 = NUMBER_1 peaches
+VAR_0 = ( ( NUMBER_0 regular sodas + NUMBER_1 diet sodas ) / NUMBER_2 )
+VAR_0 = ( NUMBER_0 more snowballs than Lucy + NUMBER_1 snowballs )
+VAR_0 = NUMBER_0 of his shares + NUMBER_1 to his cousin + NUMBER_3 of the original number of shares ; VAR_1 + VAR_0 = 1.0 ; VAR_2 = VAR_3 * VAR_0 ; NUMBER_2 = VAR_3 * NUMBER_3 of the original number of shares
+VAR_0 = NUMBER_2 miles / ( NUMBER_0 miles / NUMBER_1 VAR_0 of gas )
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 people
+( 1.0 / VAR_0 ) + ( 1.0 / ( VAR_0 - the reciprocal of NUMBER_0 less than the VAR_0 ) ) = NUMBER_1 times the reciprical of the original VAR_0 * ( 1.0 / VAR_0 )
+VAR_0 = ( NUMBER_0 inches of snow - NUMBER_1 inches of snow )
+VAR_0 = ( ( ( - 2.0 ) * ( - 15.0 ) ) * NUMBER_0 ) * ( - 1.0 )
+VAR_0 = ( NUMBER_0 dogs + NUMBER_1 more dogs )
+( ( NUMBER_0 % copper * 0.01 ) * VAR_0 ) + ( ( another containing NUMBER_1 % copper * 0.01 ) * VAR_1 ) = ( NUMBER_3 pounds of a third alloy containing NUMBER_3 % copper * NUMBER_3 pounds of a third alloy containing NUMBER_3 % copper ) * 0.01 ; VAR_0 + VAR_1 = NUMBER_3 pounds of a third alloy containing NUMBER_3 % copper
+( some hard candy worth NUMBER_0 dollars a pound * VAR_0 ) + ( some worth NUMBER_1 dollars a pound * VAR_1 ) = a mixture of NUMBER_2 pounds * NUMBER_3 dollars per pound ; VAR_0 + VAR_1 = a mixture of NUMBER_2 pounds
+VAR_0 = ( NUMBER_0 marbles + NUMBER_1 more from Steve )
+VAR_0 - NUMBER_1 rocks = ( NUMBER_1 rocks + VAR_1 ) + NUMBER_2 more than Gordon ; VAR_0 = NUMBER_0 more than twice as many rocks + ( 2.0 * VAR_1 )
+VAR_0 = ( NUMBER_2 * ( NUMBER_1 total for a complete collection - NUMBER_0 action figures ) )
+NUMBER_0 pages * NUMBER_1 pages = VAR_0
+( ( NUMBER_4 % aspirin * 0.01 ) * VAR_0 ) + ( ( NUMBER_5 * 0.01 ) * VAR_1 ) = ( NUMBER_4 % aspirin * NUMBER_4 grams of a medicine that is NUMBER_3 % aspirin ) * 0.01 ; VAR_0 + VAR_1 = NUMBER_4 % aspirin
+( VAR_0 * VAR_1 ) * VAR_2 = NUMBER_0 ; VAR_0 = ( NUMBER_1 % of the VAR_1 number * 0.01 ) * VAR_1 ; VAR_2 = NUMBER_2
+VAR_0 + VAR_1 = NUMBER_0 dollars ; VAR_1 = VAR_0 - NUMBER_1 dollars
+NUMBER_0 tons of gravel + NUMBER_1 tons of sand = VAR_0
+VAR_0 = 2.0 * VAR_1 ; VAR_1 + VAR_0 = NUMBER_0
+NUMBER_1 years + VAR_0 = 2.0 * ( NUMBER_1 years + VAR_1 ) ; VAR_0 = NUMBER_0 times * VAR_1
+VAR_0 = ( NUMBER_0 tickets / NUMBER_1 friends )
+( NUMBER_0 dollars + ( NUMBER_1 dollars * VAR_0 ) ) + ( NUMBER_2 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 = VAR_1
+VAR_0 = NUMBER_1 dollars - ( ( a NUMBER_0 % discount on all purchases * 0.01 ) * NUMBER_1 dollars )
+VAR_0 = VAR_1 + ( The NUMBER_1 's digit * VAR_2 ) ; VAR_2 + VAR_1 = NUMBER_0 ; VAR_2 = NUMBER_2 more than the unit 's digit + VAR_1
+VAR_0 = ( NUMBER_2 cups of flour * ( NUMBER_1 total for her party - NUMBER_0 brownies ) )
+VAR_0 = ( NUMBER_0 stickers + NUMBER_1 more )
+VAR_0 = ( ( NUMBER_0 - NUMBER_1 ) / NUMBER_0 ) * 100.0
+( NUMBER_2 hours * VAR_0 ) + ( NUMBER_2 hours * VAR_1 ) = two points NUMBER_0 kilometers apart ; VAR_0 = NUMBER_1 kilometers + VAR_1
+( VAR_0 + VAR_1 ) + NUMBER_1 dollars for lunch = NUMBER_0 dollars for lunch ; VAR_1 = 2.0 * VAR_0
+( NUMBER_0 - NUMBER_1 more girls than boys ) / 2.0 = VAR_0
+VAR_0 = NUMBER_0 lap - jogging NUMBER_1 lap
+VAR_0 = ( NUMBER_1 of the women / a random sampling of NUMBER_0 women over the age of 35 ) * woman in a group of NUMBER_2 women over the age of 35
+VAR_0 = NUMBER_0 cakes + NUMBER_1
+thought of placing an equal number of paintings in NUMBER_0 rooms in the house * VAR_0 = NUMBER_1 watercolor paintings
+( NUMBER_4 * VAR_0 ) - NUMBER_1 = VAR_1 ; VAR_0 + VAR_1 = NUMBER_3
+( ( NUMBER_0 painter / a room in NUMBER_1 VAR_0 ) * VAR_0 ) + ( ( NUMBER_0 painter / NUMBER_2 VAR_0 ) * VAR_0 ) = NUMBER_0 painter
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_2 dollars ; VAR_0 = 2.0 * VAR_1
+VAR_0 = NUMBER_0 dogwood trees + NUMBER_1 dogwood trees
+VAR_0 = ( NUMBER_1 dollars / NUMBER_0 dollars ) * 100.0
+NUMBER_0 golf balls = VAR_0 * NUMBER_1
+VAR_0 = NUMBER_0 lemons + NUMBER_1 lemons
+NUMBER_0 + another NUMBER_1 going out to eat = VAR_0
+VAR_0 + VAR_1 = NUMBER_0 dollars for the team ; VAR_0 = VAR_1 - NUMBER_1 dollars
+VAR_0 = NUMBER_0 popular trees + NUMBER_1 popular trees
+VAR_0 = ( ( NUMBER_0 games + NUMBER_1 ) - NUMBER_2 of the games )
+VAR_0 = ( NUMBER_0 * ( a group of NUMBER_1 people - NUMBER_2 ) )
+NUMBER_0 pumpkins + NUMBER_1 pumpkins = VAR_0
+( NUMBER_2 / NUMBER_1 ) - 1.0 = VAR_0 ; VAR_0 + VAR_1 = NUMBER_2
+a total of NUMBER_0 soccer games / the NUMBER_1 month season = VAR_0
+VAR_0 = ( NUMBER_0 boxes of eggs * NUMBER_1 eggs )
+VAR_0 = a basketball game for $ NUMBER_0 + a racing game for $ NUMBER_1
+( NUMBER_1 dollars per VAR_0 * VAR_0 ) + ( NUMBER_2 dollars per VAR_1 citizen * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 tickets
+VAR_0 = ( NUMBER_0 bananas + NUMBER_1 more from Joyce )
+VAR_0 = ( ( NUMBER_2 worksheets to grade + NUMBER_2 worksheets to grade ) - NUMBER_1 )
+VAR_0 = ( ( Isabel baked NUMBER_0 cupcakes for her school 's bake sale . - NUMBER_1 ) / NUMBER_2 cupcake in each package )
+( ( the remainder NUMBER_3 % * 0.01 ) * VAR_0 ) + ( ( NUMBER_2 % * 0.01 ) * VAR_1 ) = a total of NUMBER_1 dollars in interest ; VAR_0 + VAR_1 = her NUMBER_0 dollars bonus
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_0 - VAR_1 = NUMBER_1
+NUMBER_2 of a cup of strawberries + NUMBER_1 of a cup of yogurt + NUMBER_2 of a cup of strawberries = VAR_0
+( ( NUMBER_0 % antifreeze * 0.01 ) * VAR_0 ) + ( ( a mixture containing NUMBER_3 % antifreeze * 0.01 ) * VAR_1 ) = ( NUMBER_2 gallons of fluid * NUMBER_1 % antifreeze ) * 0.01 ; VAR_0 + VAR_1 = NUMBER_2 gallons of fluid
+VAR_0 = ( NUMBER_0 bananas + NUMBER_1 more from Christopher )
+VAR_0 = ( NUMBER_0 apples * NUMBER_1 apples )
+NUMBER_1 miles / ( NUMBER_0 miles per hour - VAR_0 ) = downstream NUMBER_2 miles / ( NUMBER_0 miles per hour + VAR_0 )
+VAR_0 = ( NUMBER_0 red ones + NUMBER_2 green ones ) + NUMBER_3
+VAR_0 = ( NUMBER_0 cents / NUMBER_1 cents )
+( NUMBER_0 kilometers + VAR_0 ) * ( the wind in a total time of NUMBER_3 hours - VAR_1 ) = NUMBER_2 kilometers ; ( NUMBER_0 kilometers - VAR_0 ) * VAR_1 = NUMBER_1 kilometers
+( NUMBER_0 * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars0 dollars ; VAR_0 + VAR_1 = NUMBER_2 tickets
+NUMBER_0 peaches left at his roadside fruit stand + VAR_0 = NUMBER_1 peaches
+NUMBER_0 * VAR_0 = VAR_1 ; VAR_0 * VAR_1 = a product of NUMBER_1
+VAR_0 - ( NUMBER_0 * VAR_0 ) = NUMBER_1 dollars
+NUMBER_0 Nintendo games - NUMBER_1 games left = VAR_0
+VAR_0 = ( ( NUMBER_0 pieces of candy - NUMBER_1 pieces ) / piles with NUMBER_2 )
+NUMBER_1 * ( NUMBER_0 + VAR_0 ) = NUMBER_2 times the VAR_0 * ( VAR_0 - NUMBER_3 )
+VAR_0 + ( 1.0 / VAR_0 ) = NUMBER_0
+A total of NUMBER_0 people + NUMBER_1 more people in attendance = VAR_0
+VAR_0 = ( NUMBER_0 crayons - NUMBER_1 )
+( ( NUMBER_1 % simple interest * 0.01 ) * VAR_0 ) + ( ( the other at NUMBER_2 % * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+VAR_0 = NUMBER_0 baseball cards - NUMBER_1 of Fred 's baseball cards
+NUMBER_0 violet balloons - Fred NUMBER_1 of the balloons = VAR_0
+2.0 * VAR_0 = NUMBER_1 + VAR_1 ; VAR_1 + VAR_0 = NUMBER_0
+NUMBER_0 plums + NUMBER_1 plums + NUMBER_2 plums = VAR_0
+VAR_0 = ( NUMBER_0 dollars * ( NUMBER_1 roses + NUMBER_2 daisies ) )
+3.0 * Each person orders the $ NUMBER_0 lunch special . = VAR_0
+VAR_0 = ( NUMBER_1 flowers - NUMBER_0 flowers )
+( NUMBER_0 + VAR_0 ) / ( NUMBER_0 + VAR_1 ) = NUMBER_1 ; ( VAR_0 - NUMBER_2 ) / ( VAR_1 - NUMBER_2 ) = NUMBER_3 ; VAR_2 = VAR_3 / VAR_1
+VAR_0 - 1.0 = NUMBER_0 * ( VAR_1 - 1.0 ) ; VAR_0 = 18.0 + VAR_1
+VAR_0 = ( NUMBER_0 baseball cards - NUMBER_1 more than Carter )
+( NUMBER_0 dimes in her jacket * 0.1 ) + ( NUMBER_1 dimes in her shorts * 0.1 ) = VAR_0
+NUMBER_0 - NUMBER_1 of a mile = VAR_0
+( NUMBER_0 adults * VAR_0 ) + ( NUMBER_1 children * VAR_1 ) = NUMBER_2 children ; VAR_1 = VAR_0 - NUMBER_3 dollars
+( NUMBER_2 points * VAR_0 ) + ( NUMBER_4 points * VAR_1 ) = NUMBER_0 points ; VAR_0 + VAR_1 = NUMBER_1 problems
+( A plane flying at NUMBER_0 miles per hour * a NUMBER_1 hour head start ) + ( A plane flying at NUMBER_0 miles per hour * VAR_0 ) = a speed of NUMBER_2 miles per hour * VAR_0 ; VAR_1 = a speed of NUMBER_2 miles per hour * VAR_0
+NUMBER_0 pounds * VAR_0 = NUMBER_1 dollars ; NUMBER_2 pounds * VAR_0 = VAR_1
+VAR_0 = ( ( NUMBER_1 pounds + her friends recycled NUMBER_2 pounds ) / every NUMBER_0 pounds )
+NUMBER_0 oak trees - NUMBER_1 oak trees that were damaged = VAR_0
+( 0.05 * VAR_0 ) + ( 0.1 * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + VAR_1 = a total of NUMBER_1 coins
+VAR_0 = NUMBER_0 % of a car 's VAR_1 * 0.01 * VAR_1 ; VAR_0 = NUMBER_1 dollars
+( NUMBER_1 VAR_0 + VAR_1 ) / ( ( ( NUMBER_1 VAR_0 + VAR_1 ) + VAR_0 ) - NUMBER_1 VAR_0 ) = 0.75 ; VAR_1 / ( VAR_1 + VAR_0 ) = 0.6
+VAR_0 = $ NUMBER_0 for grapes + $ NUMBER_1 for cherries
+( NUMBER_0 cents for VAR_0 * 0.01 * VAR_0 ) + ( NUMBER_1 cents for VAR_1 * 0.01 * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 persons
+NUMBER_0 of a scoop of brown sugar - NUMBER_1 of a scoop of white sugar = VAR_0
+( ( The sum of NUMBER_7 numbers * VAR_0 ) + VAR_1 ) + VAR_2 = ( - 6.0 ) ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_2 ; ( VAR_0 - VAR_1 ) + ( NUMBER_2 * VAR_2 ) = NUMBER_4
+NUMBER_1 * VAR_0 = ( less than NUMBER_3 times the other * VAR_1 ) - NUMBER_2 ; VAR_0 + VAR_1 = 1less than NUMBER_3 times the other
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 = NUMBER_0 * VAR_1
+NUMBER_0 dollars * the NUMBER_1 chairs she bought = VAR_0
+( NUMBER_1 + VAR_0 ) / ( VAR_1 - NUMBER_2 ) = NUMBER_3 ; VAR_1 = NUMBER_0 + VAR_0 ; VAR_2 = VAR_1 / VAR_0
+NUMBER_0 miles + another NUMBER_1 miles = VAR_0
+all the NUMBER_2 continents * NUMBER_1 books per continent = VAR_0
+( NUMBER_4 tons of grain each * VAR_0 ) + ( NUMBER_5 tons each * VAR_1 ) = NUMBER_3 tons ; VAR_0 + VAR_1 = a total of NUMBER_0 bins
+( 20.0 * VAR_0 ) + ( 50.0 * VAR_1 ) = a NUMBER_0 dollars ; VAR_0 + VAR_1 = a total of NUMBER_1 bills
+milliliters of a NUMBER_0 % HCL solution * 0.01 * VAR_0 + a NUMBER_1 % HCL solution in order * 0.01 * VAR_1 = a NUMBER_3 % HCL solution * 0.01 * NUMBER_2 milliliters ; VAR_0 + VAR_1 = NUMBER_2 milliliters
+NUMBER_0 turnips + NUMBER_1 turnips = VAR_0
+( ( ( NUMBER_0 rings * NUMBER_1 grams ) * NUMBER_2 % gold ) * 0.01 ) + ( 0.01 * VAR_0 ) = ( ( ( NUMBER_0 rings * NUMBER_1 grams ) + VAR_0 ) * NUMBER_4 rings ) * 0.01
+VAR_0 = NUMBER_1 pounds of green peppers + NUMBER_1 pounds of green peppers
+NUMBER_0 % of his monthly VAR_0 in an IRA * 0.01 * VAR_0 = NUMBER_1 dollars in his IRA
+VAR_0 = ( NUMBER_1 crickets - NUMBER_0 crickets )
+VAR_0 = NUMBER_0 tablespoon of cinnamon - NUMBER_1 tablespoon of nutmeg
+( VAR_0 + VAR_1 ) * a tail wind in NUMBER_1 hours = NUMBER_0 miles ; ( VAR_0 - VAR_1 ) * NUMBER_2 hours = NUMBER_0 miles
+( ( NUMBER_0 gallons * NUMBER_1 percent alcohol ) * 0.01 ) + ( 0.01 * VAR_0 ) = ( a NUMBER_2 percent mixture * 0.01 ) * ( NUMBER_0 gallons + VAR_0 )
+VAR_0 = ( NUMBER_2 dollars each * ( NUMBER_1 decks - NUMBER_2 dollars each ) )
+( ( 0.01 * VAR_0 ) + ( 0.05 * VAR_1 ) ) + ( 0.1 * VAR_2 ) = NUMBER_1 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 coins ; VAR_0 + VAR_1 = VAR_2
+The sum of NUMBER_0 numbers * VAR_0 = NUMBER_3 + ( NUMBER_2 times the smaller number * VAR_1 ) ; VAR_1 + VAR_0 = NUMBER_1 times the smaller number
+VAR_0 = ( ( NUMBER_0 puppies + another NUMBER_1 ) / NUMBER_2 puppies a day )
+VAR_0 - NUMBER_0 dollars for the pie = NUMBER_1 dollars
+NUMBER_0 packages of gum * NUMBER_1 pieces in each package = VAR_0
+VAR_0 = NUMBER_0 pounds - NUMBER_1 pound
+VAR_0 + VAR_1 = 2.0 * ( VAR_2 + VAR_1 ) ; VAR_0 = NUMBER_0 years ; VAR_2 = NUMBER_1
+NUMBER_0 cartons of berries - ( NUMBER_1 cartons of strawberries + NUMBER_2 cartons of blueberries ) = VAR_0
+VAR_0 = NUMBER_1 bag of Golden Delicious apples + NUMBER_1 bag of Golden Delicious apples + NUMBER_2 bag of Cortland apples
+( NUMBER_2 vans * NUMBER_2 vans ) + ( NUMBER_1 buses * NUMBER_3 buses ) = VAR_0
+VAR_0 = a white line that was NUMBER_0 inches long - a blue line that was NUMBER_1 inches long
+VAR_0 + VAR_1 = The carpenter saws a board that is NUMBER_0 feet long into two pieces . ; VAR_0 = ( NUMBER_1 * VAR_1 ) + NUMBER_3 foot
+an initial fee of NUMBER_0 dollars + ( an additional NUMBER_1 dollars per mile driven * VAR_0 ) = NUMBER_2 dollars * VAR_0
+VAR_0 = ( NUMBER_0 pencils * NUMBER_1 children )
+( NUMBER_0 times a VAR_0 * VAR_0 ) - ( - 8.0 ) = ( - 12 times a VAR_0 )
+( another NUMBER_2 hours * VAR_0 ) + ( another NUMBER_2 hours * VAR_1 ) = NUMBER_0 kilometers ; VAR_0 = VAR_1 - NUMBER_1 kilometers per hour
+NUMBER_0 pieces of wood * VAR_0 = NUMBER_1 pieces
+( NUMBER_0 times a number * VAR_0 ) + ( NUMBER_1 times * VAR_1 ) = a number to get NUMBER_2 ; VAR_1 = VAR_0 - NUMBER_4 less than the first
+( NUMBER_0 * VAR_0 ) + ( NUMBER_1 * VAR_1 ) = total receipts of NUMBER_3 ; VAR_1 + VAR_0 = NUMBER_2
+VAR_0 = ( NUMBER_0 cards - NUMBER_1 cards left )
+NUMBER_0 pounds of fruit - NUMBER_1 pounds of the fruit = VAR_0
+( 0.05 * VAR_0 ) + ( 0.1 * VAR_1 ) = NUMBER_0 dollars ; VAR_0 = NUMBER_1 more VAR_0 than VAR_1 + VAR_1
+VAR_0 = ( NUMBER_0 points * ( NUMBER_1 enemies total - all but NUMBER_2 of them ) )
+VAR_0 = NUMBER_0 apples - NUMBER_1 apples
+NUMBER_0 trout * NUMBER_1 times as many trout as Sara = VAR_0
+NUMBER_0 muffins / 12.0 = VAR_0
+( NUMBER_1 times * VAR_0 ) + ( NUMBER_2 times * VAR_1 ) = NUMBER_3 ; VAR_0 + VAR_1 = NUMBER_0
+NUMBER_0 calories in a candy bar * NUMBER_1 candy bars = VAR_0
+VAR_0 = a buried treasure chest filled with a total of NUMBER_0 gems - NUMBER_1 of the gems
+NUMBER_0 seashells + NUMBER_1 seashells = VAR_0
+a total of NUMBER_0 football games in the season / NUMBER_1 months = VAR_0
+( NUMBER_0 * VAR_0 ) + a VAR_0 increased by NUMBER_1 = NUMBER_2
+NUMBER_0 cents per pound * 0.01 * VAR_0 = VAR_1 + NUMBER_1 dollars ; NUMBER_2 cents per pound * 0.01 * VAR_0 = VAR_1 - NUMBER_3 dollars left over
+VAR_0 = ( NUMBER_1 fish - NUMBER_0 fish )
+VAR_0 = ( NUMBER_0 seats * NUMBER_1 people )
+VAR_0 = ( ( NUMBER_0 tickets - NUMBER_1 tickets ) / NUMBER_2 tickets )
+VAR_0 = NUMBER_0 dimes in his bank + NUMBER_1 dimes
+( ( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars for child admission * VAR_1 ) ) + ( NUMBER_5 dollars for senior admission * VAR_2 ) = NUMBER_3 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_4 dollars for child admission ; VAR_0 = NUMBER_5 dollars for senior admission + VAR_2
+( NUMBER_1 % of the first part * 0.01 ) * VAR_0 = ( NUMBER_2 % of the second part * 0.01 ) * VAR_1 ; VAR_0 + VAR_1 = NUMBER_0
+NUMBER_0 + VAR_0 = NUMBER_1 the original number * VAR_0
+( VAR_0 + ( NUMBER_0 * VAR_1 ) ) + ( 100.0 * VAR_2 ) = VAR_3 ; VAR_0 = 0.0 ; VAR_2 = VAR_1 - NUMBER_1 ; VAR_3 = NUMBER_2 times the sum of its digits * ( ( VAR_0 + VAR_1 ) + VAR_2 )
+VAR_0 + VAR_1 = at most NUMBER_1 ; VAR_1 - VAR_0 = NUMBER_0
+NUMBER_0 dollars = ( a NUMBER_1 % increase * VAR_0 ) * 0.01
+( NUMBER_0 similar tables * VAR_0 ) + ( NUMBER_1 similar chairs * VAR_1 ) = NUMBER_2 dollars ; NUMBER_3 dollars + VAR_1 = VAR_0
+VAR_0 = NUMBER_0 + NUMBER_1 short bushes
+VAR_0 = ( ( NUMBER_0 managers + NUMBER_1 employees ) / NUMBER_2 teams )
+a NUMBER_0 dollars monthly fee + ( ( 2a NUMBER_0 dollars monthly fee * 0.01 ) * VAR_0 ) = NUMBER_2 dollars
+( ( 1.0 / a house in NUMBER_0 VAR_0 ) * VAR_0 ) + ( ( 1.0 / NUMBER_1 VAR_0 ) * VAR_0 ) = 1.0
+NUMBER_0 of the students + NUMBER_1 received B 's = VAR_0
+( NUMBER_0 dollars a pound * VAR_0 ) + ( VAR_1 for NUMBER_1 dollars a pound * VAR_1 ) = NUMBER_3 dollars per pound * NUMBER_2 pounds of mixture ; VAR_0 + VAR_1 = NUMBER_2 pounds of mixture
+( NUMBER_0 * VAR_0 ) - VAR_1 = NUMBER_1 ; VAR_0 + VAR_1 = NUMBER_2
+VAR_0 - NUMBER_1 dollars = ( NUMBER_0 % * VAR_0 ) * 0.01
+VAR_0 = ( ( recycled NUMBER_1 pounds + NUMBER_2 pounds ) / every NUMBER_0 pounds )
+( NUMBER_1 * VAR_0 ) + VAR_1 = NUMBER_2 ; VAR_0 = NUMBER_0 + VAR_1
+( NUMBER_0 dollars per person * VAR_0 ) + ( NUMBER_1 dollars per VAR_1 * VAR_1 ) = NUMBER_2 dollars per VAR_1 ; ( 1.0 * VAR_0 ) + ( 2.0 * VAR_1 ) = NUMBER_3 people
+VAR_0 = NUMBER_1 dollars - NUMBER_0 dollars
+( NUMBER_1 * VAR_0 ) + ( NUMBER_2 times * VAR_1 ) = NUMBER_3 ; VAR_0 = NUMBER_1 + VAR_1
+a NUMBER_1 % sulfuric acid solution * 0.01 * NUMBER_0 pounds = a NUMBER_2 % solution * 0.01 * VAR_0 ; VAR_1 + NUMBER_0 pounds = VAR_0
+( ( NUMBER_0 coins + NUMBER_1 coins ) + NUMBER_2 coins ) - NUMBER_3 of the coins = VAR_0
+NUMBER_0 blue balloons * NUMBER_1 times more blue balloons than Sally = VAR_0
+VAR_0 = ( NUMBER_0 cousins * NUMBER_1 pieces of gum )
+( a mixture of NUMBER_1 % alcohol * 0.01 ) * VAR_0 = NUMBER_0 ; NUMBER_0 + VAR_1 = VAR_0
+NUMBER_0 paper clips / NUMBER_1 boxes = VAR_0
+VAR_0 = NUMBER_0 pears + NUMBER_1 pears
+NUMBER_0 houses in Lawrence County + VAR_0 = NUMBER_1 houses
+VAR_0 = NUMBER_0 green balloons - Sandy NUMBER_1 of the balloons
+( 2.0 * VAR_0 ) + a VAR_0 increased by NUMBER_0 = NUMBER_1
+VAR_0 = NUMBER_0 rulers in the drawer - NUMBER_1 rulers
+NUMBER_1 more pairs + VAR_0 = NUMBER_0 known nesting pairs of bald eagles in the lower 48 states today
+VAR_0 = ( NUMBER_0 packs of cookies + NUMBER_1 packs of noodles )
+NUMBER_1 feet - NUMBER_0 foot = VAR_0
+( VAR_0 + VAR_1 ) * VAR_2 = 1.0 ; NUMBER_0 VAR_2 * VAR_0 = 1.0 ; the job in NUMBER_1 VAR_2 * VAR_1 = 1.0
+( NUMBER_0 / VAR_0 ) + ( NUMBER_1 / VAR_0 ) = NUMBER_2
+( ( ( 2.0 * VAR_0 ) + ( NUMBER_3 * VAR_0 ) ) + NUMBER_2 piece ) + VAR_0 = A NUMBER_0 foot pipe
+VAR_0 = NUMBER_0 plums - NUMBER_1 plums
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars per pound * NUMBER_2 pounds of peanuts ) = NUMBER_3 dollars per pound * VAR_1 ; NUMBER_2 pounds of peanuts + VAR_0 = VAR_1
+NUMBER_0 dollars + ( day plus NUMBER_1 dollars per mile * VAR_0 ) = NUMBER_2 dollars
+VAR_0 + VAR_1 = a total of NUMBER_1 people on the swim team ; VAR_0 = A swim team has NUMBER_0 times as many VAR_0 as VAR_1 * VAR_1
+VAR_0 = ( NUMBER_0 pounds - NUMBER_1 pounds )
+VAR_0 + VAR_1 = NUMBER_0 dolls ; VAR_1 = NUMBER_1 more dolls than Jane does + VAR_0
+( VAR_0 for NUMBER_2 dollars * VAR_0 ) + ( hot-water VAR_1 for NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 = NUMBER_4 times as many VAR_0 * VAR_1
+VAR_0 = ( NUMBER_0 bananas + NUMBER_1 more from Rachel )
+VAR_0 = NUMBER_0 pounds of peanuts + NUMBER_1 pounds of raisins
+VAR_0 = NUMBER_0 books in Oak Grove 's public library + NUMBER_1 books in its school libraries
+( NUMBER_2 packs of red bouncy balls + NUMBER_1 packs of yellow bouncy balls + NUMBER_2 packs of red bouncy balls ) * NUMBER_3 bouncy balls in each package = VAR_0
+VAR_0 = ( NUMBER_0 + NUMBER_1 more cards )
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_1 = ( NUMBER_3 * VAR_0 ) + NUMBER_2
+( NUMBER_1 hot dogs * VAR_0 ) + ( NUMBER_1 hot dogs * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_5 sodas * VAR_1 ) + ( NUMBER_6 hot dogs * VAR_0 ) = NUMBER_4 dollars
+VAR_0 = ( the working games for $ NUMBER_2 each * ( 1the working games for $ NUMBER_2 each - NUMBER_1 of them ) )
+( VAR_0 - NUMBER_1 pieces ) / some VAR_0 to give to her NUMBER_0 children = NUMBER_2 pieces
+( ( A NUMBER_4 % sugar solution * 0.01 ) * VAR_0 ) + ( ( an NUMBER_5 % sugar solution * 0.01 ) * VAR_1 ) = a NUMBER_3 % solution * 0.01 * ( NUMBER_2 milliliters ) ; VAR_0 + VAR_1 = NUMBER_2 milliliters
+VAR_0 = ( NUMBER_0 Nintendo games - NUMBER_1 games left )
+VAR_0 = ( NUMBER_0 groups / NUMBER_1 groups )
+VAR_0 - ( ( an NUMBER_1 % discount * 0.01 ) * VAR_0 ) = NUMBER_0 dollars
+a room with NUMBER_0 men + VAR_0 = VAR_1 ; VAR_0 = NUMBER_1 % of the VAR_1 * 0.01 * VAR_1
+( NUMBER_1 + VAR_0 ) * ( VAR_1 - NUMBER_1 ) = NUMBER_0 dollars ; VAR_0 * VAR_1 = NUMBER_0 dollars
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 = NUMBER_0 more VAR_0 than VAR_1 + VAR_1
+( NUMBER_0 bath towels * VAR_0 ) + ( NUMBER_1 washcloths * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 bath towels * VAR_0 ) + ( NUMBER_4 washcloths * VAR_1 ) = NUMBER_5 dollars
+VAR_0 = only NUMBER_0 years + VAR_1 ; VAR_1 = 0.5 * VAR_2 ; VAR_2 = only NUMBER_1 years + VAR_0
+( NUMBER_4 dollars during a month - NUMBER_0 dollars ) / NUMBER_2 dollars per minute over NUMBER_3 minutes = VAR_0 ; NUMBER_3 minutes + VAR_0 = VAR_1
+VAR_0 = NUMBER_1 bin of soup + NUMBER_1 bin of soup + NUMBER_2 bin of pasta
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_2 copies ; VAR_0 + VAR_1 = NUMBER_0 copies ; VAR_0 + VAR_2 = NUMBER_1 copies
+( 0.25 * VAR_0 ) + ( 0.5 * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + VAR_1 = NUMBER_1 coins
+NUMBER_3 times the VAR_0 number * VAR_0 = ( NUMBER_3 less than NUMBER_4 times the VAR_1 number * VAR_1 ) - NUMBER_3 times the VAR_0 number ; NUMBER_3 less than NUMBER_4 times the VAR_1 number * VAR_0 = NUMBER_0 * VAR_1
+VAR_0 = ( ( NUMBER_2 people + NUMBER_1 people ) / NUMBER_2 people )
+( NUMBER_3 % * 0.01 ) * VAR_0 = ( NUMBER_2 % * 0.01 ) * VAR_1 ; VAR_0 + VAR_1 = an inheritance of NUMBER_0 dollars
+VAR_0 = NUMBER_0 blue balloons + NUMBER_1 blue balloons + NUMBER_2 blue balloons
+( NUMBER_1 % milk * 0.01 ) * NUMBER_0 liters = ( skim-milk -LRB- 0 % fat -RRB- to produce a mixture of NUMBER_2 % milk * 0.01 ) * ( NUMBER_0 liters + VAR_0 )
+NUMBER_0 quarters in her bank + her NUMBER_1 more quarters = VAR_0
+VAR_0 * 0.01 * NUMBER_0 students in a class = NUMBER_1
+( NUMBER_4 * VAR_0 ) + ( NUMBER_3 * VAR_1 ) = $ NUMBER_2 ; ( NUMBER_3 * VAR_0 ) + ( NUMBER_4 * VAR_1 ) = $ NUMBER_5
+NUMBER_0 books in his library + VAR_0 = NUMBER_1 books in his library
+VAR_0 = NUMBER_1 scoop + NUMBER_1 scoop
+( an average of NUMBER_0 bricks per hour * VAR_0 ) + ( NUMBER_1 bricks per hour * VAR_1 ) = NUMBER_2 bricks ; VAR_0 + VAR_1 = NUMBER_3 hours
+VAR_0 = ( NUMBER_0 gold fish + NUMBER_1 blue fish )
+VAR_0 = ( NUMBER_0 oranges stored in boxes / NUMBER_1 boxes )
+NUMBER_0 of a mile from his house + NUMBER_1 of a mile + NUMBER_2 of a mile = VAR_0
+VAR_0 + VAR_1 = a speed of NUMBER_0 miles per hour ; VAR_0 - VAR_1 = a speed of NUMBER_1 miles per hour
+( ( NUMBER_3 * VAR_0 ) + less than NUMBER_2 times ) - VAR_1 = NUMBER_4 ; VAR_0 = ( less than NUMBER_2 times * VAR_1 ) - NUMBER_0
+VAR_0 = ( ( NUMBER_0 points + NUMBER_1 points ) - NUMBER_2 points )
+VAR_0 = NUMBER_0 watermelons + NUMBER_1 watermelons
+VAR_0 = Each of farmer Cunningham 's NUMBER_0 lambs - NUMBER_1 white ones
+( NUMBER_4 dollars * VAR_0 ) + ( NUMBER_5 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = A total of NUMBER_2 tickets
+VAR_0 = ( NUMBER_1 tables he was waiting on * ( NUMBER_1 tables he was waiting on + NUMBER_2 men at each table ) )
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_0 = 3.0 * VAR_1
+VAR_0 = ( NUMBER_0 students / NUMBER_1 seats on each school bus )
+NUMBER_0 books each * VAR_0 = NUMBER_1 books
+( NUMBER_3 points * VAR_0 ) - ( NUMBER_2 points * VAR_1 ) = NUMBER_4 points ; VAR_0 + VAR_1 = a test of NUMBER_0 questions
+VAR_0 = $ NUMBER_0 on shorts + $ NUMBER_1 on a jacket + $ NUMBER_2 on a shirt
+( NUMBER_1 tickets * $ NUMBER_0 each ) + $ NUMBER_2 = VAR_0
+VAR_0 = NUMBER_0 pennies + her NUMBER_1 pennies + NUMBER_2 pennies
+VAR_0 = ( NUMBER_0 miles + NUMBER_1 miles )
+( NUMBER_9 hours * VAR_0 ) + ( NUMBER_2 hours at another speed * VAR_1 ) = NUMBER_3 hours ; ( NUMBER_4 hours * VAR_0 ) + ( NUMBER_6 hour * VAR_1 ) = NUMBER_8 hours
+VAR_0 = NUMBER_0 tons of gravel + NUMBER_1 tons of sand
+VAR_0 = ( NUMBER_0 apples - NUMBER_1 apples )
+( 10.0 * VAR_0 ) + VAR_1 = VAR_2 - NUMBER_1 ; VAR_2 = ( 10.0 * VAR_1 ) + VAR_0 ; VAR_2 = ( 7.0 * ( VAR_1 + VAR_0 ) ) - NUMBER_0
+( NUMBER_2 CDs * VAR_0 ) + ( NUMBER_1 books * VAR_1 ) = NUMBER_3 dollars ; VAR_0 = NUMBER_1 books * VAR_1
+VAR_0 = NUMBER_0 gallons of water in Becky 's fish tank + NUMBER_1 gallons
+NUMBER_2 * VAR_0 = ( NUMBER_4 * VAR_1 ) - NUMBER_4 ; VAR_0 + VAR_1 = NUMBER_1
+VAR_0 = ( ( NUMBER_0 tulips + NUMBER_1 roses ) - NUMBER_2 of the flowers )
+VAR_0 = NUMBER_0 seashells + NUMBER_1 seashells
+NUMBER_0 cakes + NUMBER_1 + NUMBER_2 cakes = VAR_0
+( 5.0 * VAR_0 ) + ( 20.0 * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + VAR_1 = a total of NUMBER_1 notes
+NUMBER_1 * VAR_0 = NUMBER_0 * VAR_1 ; VAR_0 + VAR_1 = NUMBER_2
+VAR_0 = NUMBER_0 carrots + NUMBER_1 carrots
+NUMBER_0 hours * NUMBER_1 days = VAR_0
+100.0 * 0.01 * VAR_0 + a NUMBER_1 % antifreeze solution * 0.01 * VAR_1 = a NUMBER_2 % solution * 0.01 * NUMBER_0 quarts ; VAR_1 + VAR_0 = NUMBER_0 quarts
+VAR_0 = ( NUMBER_1 peanuts / groups of NUMBER_0 )
+NUMBER_0 bags of dog food - NUMBER_1 bags of cat food = VAR_0
+VAR_0 - NUMBER_0 = NUMBER_1 Pokemon cards left
+VAR_0 = NUMBER_1 carton of rocky road ice cream + NUMBER_1 carton of rocky road ice cream + NUMBER_2 carton of strawberry cheesecake ice cream
+( an average of NUMBER_4 miles per gallon * VAR_0 ) + ( NUMBER_5 miles per gallon * VAR_1 ) = 18an average of NUMBER_4 miles per gallon ; VAR_0 + VAR_1 = a total gas consumption of NUMBER_3 gallons
+NUMBER_0 peaches + VAR_0 = NUMBER_1 peaches
+VAR_0 = ( NUMBER_0 boxes of peanuts * NUMBER_1 peanuts )
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_2 ; VAR_0 = ( NUMBER_0 * VAR_1 ) + NUMBER_1 ; VAR_2 = NUMBER_0 * VAR_0
+NUMBER_0 feet - NUMBER_1 feet = VAR_0
+100.0 * 0.01 * VAR_0 + a NUMBER_1 % solution * 0.01 * NUMBER_2 liters = NUMBER_2 liters * 0.01 * VAR_1 ; VAR_0 + NUMBER_2 liters = VAR_1
+VAR_0 = ( NUMBER_0 miles / NUMBER_1 hours )
+( some set up for NUMBER_4 students each * VAR_0 ) + ( NUMBER_3 students each * VAR_1 ) = NUMBER_0 students at one time ; VAR_0 + VAR_1 = NUMBER_1 workstations
+( NUMBER_1 hours * VAR_0 ) + each other from NUMBER_0 miles away = NUMBER_1 hours * VAR_1 ; VAR_0 + VAR_1 = each other from NUMBER_0 miles away
+a NUMBER_0 dollars one-time activation fee + ( ( charges NUMBER_1 cents a minute * 0.01 ) * VAR_0 ) = ( charges NUMBER_2 cents a minute * 0.01 ) * VAR_0
+VAR_0 = ( 10.0 * VAR_1 ) + VAR_2 ; VAR_0 = NUMBER_0 times its 1 's digit * VAR_2 ; VAR_1 + VAR_2 = NUMBER_1
+VAR_0 = ( ( NUMBER_0 boys + NUMBER_2 girls ) / NUMBER_2 girls )
+NUMBER_0 legs * VAR_0 + NUMBER_3 legs * VAR_1 + NUMBER_3 legs * VAR_2 = NUMBER_6 legs ; NUMBER_2 pairs of wings * VAR_1 + NUMBER_4 * VAR_2 = NUMBER_7 pairs of wings ; VAR_0 + VAR_1 + VAR_2 = NUMBER_5 legs
+VAR_0 = NUMBER_0 - NUMBER_1 - the car the second owns NUMBER_2
+VAR_0 = NUMBER_0 violet marbles - Mary NUMBER_1 of the marbles
+NUMBER_0 walnut trees + NUMBER_1 more walnut trees = VAR_0
+( NUMBER_1 meals * VAR_0 ) + ( NUMBER_2 nights in a VAR_1 * VAR_1 ) = NUMBER_0 dollars ; ( NUMBER_4 meals * VAR_0 ) + ( NUMBER_5 nights in a VAR_1 * VAR_1 ) = NUMBER_3 dollars
+VAR_0 - VAR_1 = NUMBER_1 ; VAR_0 = NUMBER_0 * VAR_1
+VAR_0 = NUMBER_0 liters of oil + NUMBER_1 liters of oil
+NUMBER_0 hours * ( VAR_0 - a wind of NUMBER_1 kilometers per hour ) = NUMBER_2 hours * ( a wind of NUMBER_1 kilometers per hour + VAR_0 )
+( each on NUMBER_1 tickets to a movie theater * $ NUMBER_0 ) + $ NUMBER_2 + VAR_0 = a $ NUMBER_3 bill
+VAR_0 = ( exactly NUMBER_0 books on it * ( NUMBER_1 shelves of mystery books + NUMBER_2 shelves of picture books ) )
+VAR_0 = ( Arthur baked NUMBER_0 muffins . * James baked NUMBER_1 times as many . )
+( NUMBER_1 * VAR_0 ) - NUMBER_0 = NUMBER_2
+NUMBER_0 gallons of water + NUMBER_1 gallons = VAR_0
+( X pounds of candy valued at NUMBER_0 dollars per pound * VAR_0 ) + ( NUMBER_1 dollars per pound * VAR_1 ) = NUMBER_2 pounds of a mixture selling * NUMBER_3 dollars per pound ; VAR_0 + VAR_1 = NUMBER_2 pounds of a mixture selling
+VAR_0 = ( NUMBER_0 kilometers - NUMBER_1 kilometers per hour )
+VAR_0 = ( NUMBER_0 erasers - NUMBER_1 )
+NUMBER_0 VAR_0 * VAR_1 = 1.0 ; a river that will VAR_2 it in NUMBER_1 VAR_0 * VAR_2 = 1.0 ; VAR_0 * ( VAR_1 - VAR_2 ) = 1.0
+( NUMBER_2 dollars * VAR_0 ) + ( hot-water bottles for NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 = NUMBER_4 times as many VAR_0 * VAR_1
+NUMBER_0 pencils in the drawer + NUMBER_1 more pencils = VAR_0
+NUMBER_0 - NUMBER_1 of a foot tall = VAR_0
+VAR_0 = ( NUMBER_0 leaves * NUMBER_1 ladybugs on each leaf )
+VAR_0 = NUMBER_0 orchid bushes + NUMBER_1 orchid bushes today + NUMBER_2 orchid bushes
+( NUMBER_0 cartons of ice cream * $ NUMBER_2 ) - ( NUMBER_1 cartons of yogurt * NUMBER_3 ) = VAR_0
+( NUMBER_1 miles upriver / ( VAR_0 - a rate of NUMBER_0 miles per hour ) ) + ( NUMBER_1 miles upriver / ( a rate of NUMBER_0 miles per hour + VAR_0 ) ) = returns in a total time of NUMBER_2 hours
+VAR_0 = ( ( NUMBER_0 customers + another NUMBER_2 customers ) - NUMBER_1 customers )
+VAR_0 = ( NUMBER_1 friends / NUMBER_1 friends )
+A weight of NUMBER_0 pounds * VAR_0 = a spring NUMBER_1 inches ; NUMBER_2 pounds * VAR_0 = VAR_1
+NUMBER_0 seashells - Jessica NUMBER_1 of the seashells = VAR_0
+NUMBER_0 quarters * 25.0 = VAR_0
+( ( NUMBER_4 % simple interest * 0.01 ) * VAR_0 ) + ( ( NUMBER_5 % simple interest * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + NUMBER_2 dollars = VAR_1
+( 4.0 * NUMBER_0 baseball cards ) / packs of NUMBER_1 = VAR_0
+NUMBER_0 books - NUMBER_1 = VAR_0
+VAR_0 = ( NUMBER_1 dollars an hour * ( NUMBER_1 dollars an hour + NUMBER_2 hours ) )
+NUMBER_0 * ( ( 2.0 * VAR_0 ) - NUMBER_1 ) = 0 - NUMBER_2
+the rate of NUMBER_0 gallons per hour * VAR_0 = NUMBER_1 gallons left in its tank
+NUMBER_0 books * NUMBER_1 books = VAR_0
+NUMBER_0 neighbors who like to collect animal drawings * VAR_0 = NUMBER_1 animals
+VAR_0 = NUMBER_0 cantelopes + NUMBER_1 cantelopes
+VAR_0 = ( ( NUMBER_0 books + NUMBER_2 new books ) - NUMBER_1 new books )
+VAR_0 = NUMBER_0 - NUMBER_1 short bushes that were damaged
+( NUMBER_0 times a VAR_0 * VAR_0 ) - NUMBER_1 = NUMBER_2
+VAR_0 = ( NUMBER_0 miles per gallon of gas * NUMBER_1 gallons of gas )
+VAR_0 = ( ( NUMBER_0 cupcakes + NUMBER_1 cookies ) - NUMBER_2 cupcakes )
+VAR_0 = ( NUMBER_0 trees in his backyard + NUMBER_1 )
+( adult tickets for NUMBER_1 dollars * VAR_0 ) + ( child tickets for NUMBER_0 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 tickets
+VAR_0 = ( NUMBER_0 boxes of pencils * NUMBER_1 pencils )
+a family whose house is VAR_0 at NUMBER_0 dollars * VAR_1 = NUMBER_1 dollars in property tax ; VAR_0 * VAR_1 = the VAR_0 value of a house whose owners paid NUMBER_2 dollars in taxes during the same year
+VAR_0 = ( NUMBER_1 less than twice the VAR_1 digit * VAR_1 ) - NUMBER_1 less than twice the VAR_1 digit ; VAR_2 = ( The NUMBER_0 's digit of a 2-digit VAR_2 * VAR_0 ) + VAR_1 ; VAR_2 = NUMBER_2 * VAR_1
+a package of holiday gift wrap for NUMBER_0 dollars = ( NUMBER_1 small rolls * VAR_0 ) + ( NUMBER_3 large rolls * VAR_1 ) ; NUMBER_5 dollars = ( NUMBER_3 large rolls * VAR_0 ) + ( NUMBER_7 large rolls * VAR_1 ) ; VAR_2 = ( NUMBER_7 large rolls * VAR_0 ) + ( NUMBER_7 large rolls * VAR_1 )
+NUMBER_3 legs = ( NUMBER_1 legs * VAR_0 ) + ( NUMBER_2 legs * VAR_1 ) ; VAR_0 + VAR_1 = NUMBER_0 VAR_0
+VAR_0 = NUMBER_0 light-year from Earth + NUMBER_2 light-year + NUMBER_2 light-year
+VAR_0 = a trumpet for $ NUMBER_0 + a song book which was $ NUMBER_1
+NUMBER_0 pieces of candy / NUMBER_1 students = VAR_0
+( NUMBER_1 miles * NUMBER_0 hours on the road ) + ( NUMBER_0 hours on the road * VAR_0 ) = VAR_1 ; NUMBER_1 miles = ( NUMBER_2 % of Irena 's speed * 0.01 ) * VAR_0
+VAR_0 + a NUMBER_1 % alcohol solution * 0.01 * NUMBER_0 quarts = a VAR_1 which is NUMBER_2 % alcohol * 0.01 * VAR_1 ; VAR_0 + NUMBER_0 quarts = VAR_1
+VAR_0 = ( NUMBER_0 fishbowls * NUMBER_1 fish )
+( NUMBER_4 dollars per pound * VAR_0 ) + ( NUMBER_5 dollars per pound * VAR_1 ) = a NUMBER_2 pound * NUMBER_3 dollars per pound ; VAR_0 + VAR_1 = a NUMBER_2 pound
+NUMBER_0 seashells - VAR_0 = NUMBER_1 seashell
+NUMBER_1 years + VAR_0 = 2.0 * ( NUMBER_1 years + VAR_1 ) ; VAR_0 + VAR_1 = NUMBER_0
+VAR_0 = ( $ NUMBER_1 * $ NUMBER_1 )
+VAR_0 = ( NUMBER_2 minutes * ( NUMBER_1 new chairs + NUMBER_1 new chairs ) )
+a white line that was NUMBER_0 inches long - a blue line that was NUMBER_1 inches long = VAR_0
+VAR_0 = ( NUMBER_2 cans in it * ( NUMBER_0 bags + NUMBER_1 more bags ) )
+NUMBER_0 yards + NUMBER_1 yards = VAR_0
+NUMBER_0 * VAR_0 = NUMBER_1 + ( more than NUMBER_2 times the VAR_0 * VAR_0 )
+VAR_0 - ( NUMBER_0 of the VAR_0 * VAR_0 ) = NUMBER_1 VAR_0 left
+NUMBER_0 kilograms of almonds + NUMBER_1 kilograms of pecans = VAR_0
+VAR_0 = ( ( NUMBER_0 green towels + NUMBER_1 white towels ) - NUMBER_2 of them )
+VAR_0 + ( One number plus NUMBER_2 times the other number * VAR_1 ) = NUMBER_3 ; VAR_0 + VAR_1 = 4One number plus NUMBER_2 times the other number
+VAR_0 = NUMBER_1 bales of hay in the barn - NUMBER_0 bales of hay in the barn
+( 2.0 * VAR_0 ) + NUMBER_0 years = VAR_1 ; VAR_1 - VAR_0 = NUMBER_1 years
+NUMBER_0 tickets + NUMBER_1 tickets + NUMBER_3 ticket = NUMBER_3 ticket + VAR_0
+VAR_0 = NUMBER_0 carton of regular milk + NUMBER_1 carton of soy milk
+NUMBER_0 dollars plus commission + ( NUMBER_1 of his sales * VAR_0 ) = no less than NUMBER_2 dollars
+NUMBER_2 of a truck-load of sand + NUMBER_1 of a truck-load of dirt + NUMBER_2 of a truck-load of sand = VAR_0
+VAR_0 = ( NUMBER_0 cards + another NUMBER_1 )
+NUMBER_0 blue marbles * NUMBER_1 times more blue marbles than Benny = VAR_0
+NUMBER_0 cards + her NUMBER_1 new cards + NUMBER_2 cards = VAR_0
+NUMBER_0 books * NUMBER_1 chapters in it = VAR_0
+NUMBER_0 times the sum * ( NUMBER_1 + VAR_0 ) = NUMBER_2
+VAR_0 = NUMBER_0 acres of the prairie in dust - NUMBER_1 acres
+0 - NUMBER_0 * VAR_0 = NUMBER_1
+( NUMBER_0 dollars an hour * VAR_0 ) + ( another job driving a tractor for NUMBER_1 dollars an hour * VAR_1 ) = NUMBER_2 dollars ; VAR_0 = 2.0 * VAR_1
+NUMBER_0 dollars in his bank account - ( NUMBER_1 dollars * his account after NUMBER_2 months ) = VAR_0
+VAR_0 = ( NUMBER_0 tickets + NUMBER_1 more )
+VAR_0 = NUMBER_0 pears - NUMBER_1 pears
+( ( VAR_0 + ( NUMBER_5 % on the VAR_0 work * 0.01 * VAR_0 ) ) + VAR_1 ) + ( NUMBER_4 % profit on the other * 0.01 * VAR_1 ) = 2 artworks for NUMBER_0 dollars ; ( ( VAR_0 + ( NUMBER_4 % profit on the other * 0.01 * VAR_0 ) ) + VAR_1 ) + ( NUMBER_5 % on the VAR_0 work * 0.01 * VAR_1 ) = NUMBER_3 dollars
+NUMBER_0 football games + NUMBER_1 games + NUMBER_2 games = VAR_0
+VAR_0 = ( NUMBER_0 tickets - NUMBER_1 )
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_0 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 people
+VAR_0 = a supply of NUMBER_0 bathing suits for men + NUMBER_1 bathing suits for women
+VAR_0 = ( NUMBER_0 dollars per hour * each hour over NUMBER_1 hours ) + ( NUMBER_2 dollars per hour * ( NUMBER_3 hours in a week - each hour over NUMBER_1 hours ) )
+VAR_0 = ( NUMBER_0 % * 0.01 ) * NUMBER_1
+VAR_0 = NUMBER_0 pumpkins + NUMBER_1 pumpkins + NUMBER_2 pumpkins
+VAR_0 = NUMBER_0 seashells - NUMBER_1
+NUMBER_0 dozen birds * NUMBER_1 = VAR_0
+VAR_0 = NUMBER_1 feet - NUMBER_0 foot
+VAR_0 = ( NUMBER_0 apples / NUMBER_1 people in her class )
+( ( crude oil that is NUMBER_0 % hydrocarbons * 0.01 ) * VAR_0 ) + ( ( crude oil that is NUMBER_1 % hydrocarbons * 0.01 ) * VAR_1 ) = ( NUMBER_2 gallons * NUMBER_3 % hydrocarbons ) * 0.01 ; VAR_0 + VAR_1 = NUMBER_2 gallons
+VAR_0 = ( NUMBER_0 inches * NUMBER_1 times )
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 ; VAR_0 + VAR_1 = NUMBER_2 + VAR_2 ; VAR_2 = NUMBER_1 * VAR_0
+NUMBER_0 bales + VAR_0 = NUMBER_1 bales of hay in the barn
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_1 ; VAR_1 = VAR_0 - NUMBER_0 ; VAR_2 = 2.0 * VAR_0
+a NUMBER_0 dollars gift card - ( NUMBER_1 dollars per pound * VAR_0 ) = NUMBER_2 dollars
+NUMBER_1 years + VAR_0 = ( NUMBER_1 years + VAR_1 ) + NUMBER_2 years ; VAR_0 = NUMBER_0 times * VAR_1
+VAR_0 = ( NUMBER_0 books - NUMBER_1 books )
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 = ( 2.0 * VAR_1 ) + NUMBER_1 ; VAR_2 = ( 10.0 * VAR_0 ) + VAR_1
+( ( ( part at NUMBER_9 % * 0.01 ) * VAR_0 ) + ( ( part at NUMBER_10 % * 0.01 ) * VAR_1 ) ) + ( ( part at NUMBER_11 % * 0.01 ) * VAR_2 ) = 21part at NUMBER_9 % ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 dollars for one year ; VAR_1 = ( VAR_0 + VAR_2 ) - NUMBER_6 dollars
+VAR_0 + VAR_1 = your mothers house that is NUMBER_0 miles away ; VAR_0 = 2.0 * VAR_1
+VAR_0 = ( NUMBER_0 butterflies * NUMBER_1 black dots )
+( VAR_0 / NUMBER_2 miles per hour due to a major accident ) + ( ( NUMBER_0 miles - VAR_0 ) / NUMBER_1 miles ) = NUMBER_3 hours
+4.0 * NUMBER_0 Pokemon cards = VAR_0
+( 2.0 * VAR_0 ) + ( NUMBER_2 times * VAR_1 ) = NUMBER_1 ; VAR_0 - VAR_1 = NUMBER_2 times
+VAR_0 + VAR_1 = NUMBER_1 miles per hour ; VAR_0 - VAR_1 = an average speed of NUMBER_0 miles per hour
+VAR_0 = NUMBER_0 the students + NUMBER_1 received B 's
+rents for NUMBER_0 dollars a day + ( ( NUMBER_1 cents a mile * 0.01 ) * VAR_0 ) = a daily budget of NUMBER_2 dollars
+NUMBER_0 cupcakes / NUMBER_1 children = VAR_0
+VAR_0 = NUMBER_0 pies + NUMBER_1 + NUMBER_2 pies
+VAR_0 = ( NUMBER_2 pieces inside it * ( NUMBER_0 boxes of chocolate candy - NUMBER_1 ) )
+( NUMBER_0 dollars per hour * VAR_0 ) + ( NUMBER_1 dollars per hour * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = a combined total of NUMBER_2 hours
+( ( $ NUMBER_0 + $ NUMBER_1 ) + NUMBER_2 ) - $ NUMBER_3 = VAR_0
+( 0.1 * VAR_0 ) + ( 0.25 * VAR_1 ) = NUMBER_0 dollars ; VAR_2 = VAR_0 ; VAR_3 = VAR_1 ; ( 0.1 * VAR_3 ) + ( 0.25 * VAR_2 ) = NUMBER_1 dollars
+( NUMBER_1 hours * VAR_0 ) + ( NUMBER_1 hours * VAR_1 ) = NUMBER_2 miles ; VAR_0 = NUMBER_0 miles per hour + VAR_1
+NUMBER_0 dimes in her bank + her NUMBER_1 dimes + her NUMBER_2 dimes = VAR_0
+VAR_0 = ( NUMBER_0 bags of cookies * NUMBER_1 cookies in each bag )
+VAR_0 = NUMBER_1 centimeter on Wednesday + NUMBER_1 centimeter on Wednesday + NUMBER_2 centimeter on Friday
+NUMBER_0 sacks of apples * each of the NUMBER_1 sections of the orchard = VAR_0
+( NUMBER_2 each * VAR_0 ) + ( NUMBER_1 each * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 CDs
+VAR_0 = ( NUMBER_0 pots * NUMBER_1 flowers in it )
+( NUMBER_1 dollars for VAR_0 * VAR_0 ) + ( NUMBER_2 dollars for VAR_1 * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 people at a play
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_2 ; VAR_1 = NUMBER_0 years + VAR_2 ; VAR_0 = NUMBER_1 years + VAR_1
+NUMBER_0 seedlings in packets / NUMBER_1 seeds = VAR_0
+NUMBER_0 calories in a candy bar * NUMBER_2 candy bars = VAR_0 * NUMBER_1
+( NUMBER_1 hours * VAR_0 ) + ( NUMBER_1 hours * VAR_1 ) = NUMBER_0 miles ; NUMBER_2 miles per hour + VAR_0 = VAR_1
+the Silver Comet Trail in NUMBER_0 hours * VAR_0 = 1.0 ; NUMBER_1 hours * VAR_1 = 1.0 ; VAR_2 * ( VAR_0 + VAR_1 ) = 1.0
+$ NUMBER_0 for berries + $ NUMBER_1 for apples + $ NUMBER_2 for peaches = VAR_0
+NUMBER_0 blue marbles * NUMBER_1 times more blue marbles than Dan = VAR_0
+NUMBER_2 * VAR_0 = The difference between NUMBER_3 numbers + VAR_1 ; VAR_1 - VAR_0 = NUMBER_1
+VAR_0 = ( NUMBER_0 oranges + NUMBER_1 more from Joyce )
+( VAR_0 + VAR_1 ) + VAR_2 = the three sold NUMBER_1 tickets ; VAR_0 = ( 2.0 * VAR_2 ) - NUMBER_0 less ; VAR_1 = 2.0 * VAR_2
+a total of NUMBER_0 blood cells = NUMBER_1 blood cells + VAR_0
+VAR_0 = NUMBER_0 dogwood trees + NUMBER_1 dogwood trees today + NUMBER_2 dogwood trees
+( NUMBER_0 points * VAR_0 ) + ( NUMBER_1 * VAR_1 ) = NUMBER_2 points ; VAR_0 = NUMBER_3 + VAR_1
+VAR_0 = ( NUMBER_1 - NUMBER_0 )
+VAR_0 = ( NUMBER_0 noodles + NUMBER_1 noodles )
+( NUMBER_2 * VAR_0 ) + ( NUMBER_3 * VAR_1 ) = NUMBER_0 points ; VAR_0 + VAR_1 = NUMBER_1 questions
+( NUMBER_1 dollars each * VAR_0 ) + ( NUMBER_2 dollars each * VAR_1 ) = exactly NUMBER_0 dollars ; VAR_0 = NUMBER_3 * VAR_1
+NUMBER_1 * VAR_0 = NUMBER_4 * VAR_1 ; NUMBER_4 * ( NUMBER_2 + VAR_0 ) = NUMBER_3 * ( NUMBER_2 + VAR_1 )
+NUMBER_0 * VAR_0 = NUMBER_2 more than the VAR_1 + VAR_1 ; VAR_0 + VAR_1 = NUMBER_1
+VAR_0 = NUMBER_0 dollars / a NUMBER_1 pack
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 ; VAR_0 + VAR_1 = NUMBER_2 * VAR_2 ; VAR_1 = NUMBER_1 * VAR_2 ; VAR_3 = ( VAR_0 + ( 10.0 * VAR_1 ) ) + ( 100.0 * VAR_2 )
+VAR_0 = ( NUMBER_1 bones - NUMBER_0 bones )
+( ( NUMBER_2 % alcohol solution * 0.01 ) * VAR_0 ) + ( ( NUMBER_3 liters of the NUMBER_4 % solution * a mixture of NUMBER_4 % alcohol ) * 0.01 ) = NUMBER_1 % alcohol * 0.01 * VAR_1 ; VAR_0 + NUMBER_3 liters of the NUMBER_4 % solution = VAR_1
+VAR_0 = NUMBER_0 gallon of grape juice + NUMBER_1 gallon of cranberry juice + NUMBER_2 gallon of club soda
+VAR_0 + VAR_1 = VAR_2 * NUMBER_1 of the VAR_2 ; VAR_0 = NUMBER_0 + VAR_1 ; VAR_2 = ( 10.0 * VAR_0 ) + VAR_1
+VAR_0 = NUMBER_0 tons of cargo + NUMBER_1 tons of cargo onboard
+VAR_0 = ( NUMBER_2 minutes * ( NUMBER_0 new chairs + NUMBER_1 new tables ) )
+VAR_0 = ( NUMBER_0 parents + NUMBER_1 pupils )
+VAR_0 = NUMBER_0 pennies in his bank - NUMBER_1 of his pennies
+VAR_0 = ( ( NUMBER_1 trays + NUMBER_2 trays ) / NUMBER_0 trays )
+( VAR_0 / NUMBER_2 miles ) + ( VAR_1 / NUMBER_3 miles per gallon for the highway ) = NUMBER_0 gallons ; VAR_0 + VAR_1 = NUMBER_1 miles
+( ( one with NUMBER_4 % alcohol * 0.01 ) * VAR_0 ) + ( ( another with NUMBER_3 % * 0.01 ) * VAR_1 ) = NUMBER_4 gallons of a solution that contains NUMBER_5 % alcohol * 0.01 * one with NUMBER_4 % alcohol ; VAR_0 + VAR_1 = one with NUMBER_4 % alcohol
+VAR_0 = ( ( Haley baked NUMBER_0 cupcakes for her school 's bake sale . - NUMBER_1 ) / NUMBER_2 cupcake in each package )
+VAR_0 = NUMBER_0 hamburgers - Only NUMBER_1 hamburgers
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars each * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = space in your garden for NUMBER_0 small flowering bulbs
+( ( the NUMBER_4 % bond * 0.01 ) * VAR_0 ) + ( ( NUMBER_2 * 0.01 ) * VAR_1 ) = an annual interest income of NUMBER_3 dollars from the investments ; VAR_0 + VAR_1 = A total of NUMBER_0 dollars
+NUMBER_0 ice cream sandwiches / his NUMBER_1 hungry nieces = VAR_0
+NUMBER_0 pounds = NUMBER_1 pounds of frozen fruit + VAR_0
+VAR_0 = NUMBER_0 cups of flour - NUMBER_1 cups
+VAR_0 = ( NUMBER_0 candy bars / NUMBER_1 bags )
+( NUMBER_1 VAR_0 + VAR_0 ) * an airport traveling a steady pace of NUMBER_0 kilometers per hour = NUMBER_2 kilometers per hour * VAR_0
+VAR_0 = NUMBER_0 inches = NUMBER_1 inches
+NUMBER_0 seashells = NUMBER_1 + VAR_0
+VAR_0 - VAR_1 = NUMBER_0 ; VAR_0 = NUMBER_1 * VAR_1 ; VAR_2 = VAR_0 + VAR_1
+NUMBER_1 of a pound of peanuts + NUMBER_1 of a pound of peanuts + NUMBER_2 of a pound of raisins = VAR_0
+$ NUMBER_0 + $ NUMBER_1 = VAR_0
+( NUMBER_4 dollars per pound * NUMBER_3 pounds of the NUMBER_4 dollars coffee ) + ( the other priced at NUMBER_2 dollars per pound * VAR_0 ) = ( NUMBER_3 pounds of the NUMBER_4 dollars coffee + VAR_0 ) * NUMBER_5 dollars per pound
+VAR_0 = ( NUMBER_0 grams * NUMBER_1 pencils )
+NUMBER_1 + NUMBER_1 = VAR_0
+A jet plane traveling at NUMBER_0 miles per hour * VAR_0 = a propeller plane traveling at NUMBER_1 miles per hour that had a 2-hour head start * ( 2.0 + VAR_0 ) ; VAR_1 = A jet plane traveling at NUMBER_0 miles per hour * VAR_0
+( NUMBER_0 packs of football cards * $ NUMBER_1 each ) + a pack of Pokemon cards for $ NUMBER_2 + a deck of baseball cards for $ NUMBER_3 = VAR_0
+VAR_0 = NUMBER_0 Pokemon cards - NUMBER_1 of Jason 's Pokemon cards
+NUMBER_0 books + NUMBER_1 books = VAR_0
+VAR_0 = ( NUMBER_0 boxes of crayons * NUMBER_1 crayons )
+VAR_0 = ( NUMBER_1 - NUMBER_0 more fish )
+VAR_0 + VAR_1 = at least NUMBER_0 ; VAR_1 = 1.0 + VAR_0
+NUMBER_0 dollars per day + ( NUMBER_1 cents per mile * 0.01 * VAR_0 ) = a daily budget of NUMBER_2 dollars
+VAR_0 = NUMBER_0 seashells - Mike NUMBER_1 of the seashells
+NUMBER_0 bushels of wheat + NUMBER_1 more bushels of wheat than expected = VAR_0
+VAR_0 = A home purchased for NUMBER_0 dollars - ( ( A home purchased for NUMBER_0 dollars * NUMBER_1 % ) * 0.01 )
+VAR_0 = A total of NUMBER_1 gallons of oil leaked before the pipe - NUMBER_0 gallons of oil
+NUMBER_0 of a mile - NUMBER_1 of a mile = VAR_0
+( baked NUMBER_0 pecan pies + NUMBER_1 apples pies ) / rows of NUMBER_2 pies each = VAR_0
+NUMBER_0 of a number * VAR_0 = NUMBER_1
+( VAR_0 - NUMBER_1 dollars ) * ( NUMBER_2 more for the same amount of money + VAR_1 ) = a quantity of balls for NUMBER_0 dollars ; VAR_0 * VAR_1 = a quantity of balls for NUMBER_0 dollars
+VAR_0 = ( NUMBER_0 pencils / NUMBER_1 pencils in each pencil box )
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 - VAR_1 = NUMBER_1
+( NUMBER_1 hours * VAR_0 ) - ( NUMBER_1 hours * VAR_1 ) = NUMBER_0 kilometers ; VAR_0 + VAR_1 = NUMBER_0 kilometers
+( ( NUMBER_0 cents * 0.01 ) * VAR_0 ) + ( ( NUMBER_1 cents * 0.01 ) * VAR_1 ) = NUMBER_2 dollars ; VAR_0 + VAR_1 = a NUMBER_3 hour week
+VAR_0 + VAR_1 = NUMBER_1 years ; VAR_0 = NUMBER_0 yr + VAR_1
+VAR_0 = ( NUMBER_0 marbles / NUMBER_1 friends )
+VAR_0 = ( ( NUMBER_0 cupcakes + NUMBER_2 of them ) - NUMBER_2 of them )
+VAR_0 = ( NUMBER_0 dollars * ( NUMBER_2 roses + NUMBER_2 roses ) )
+( $ NUMBER_0 + $ NUMBER_1 ) - ( $ NUMBER_2 + 1$ NUMBER_0 ) = VAR_0
+( NUMBER_0 * VAR_0 ) + NUMBER_1 amounts = ( NUMBER_3 * VAR_0 ) - NUMBER_2 less
+( ( the rest yields NUMBER_5 percent interest per year * 0.01 ) * VAR_0 ) + ( ( NUMBER_4 percent interest per year * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = a total of NUMBER_0 dollars
+VAR_0 = ( ( every NUMBER_2 pounds + recycled NUMBER_1 pounds ) / every NUMBER_2 pounds )
+NUMBER_0 of a VAR_0 * VAR_0 = NUMBER_1 more + ( NUMBER_2 of the VAR_0 * VAR_0 )
+VAR_0 = NUMBER_0 violet balloons - NUMBER_1 of the violet balloons
+( NUMBER_0 * VAR_0 ) + ( NUMBER_1 * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 * VAR_0 ) + ( NUMBER_4 * VAR_1 ) = NUMBER_5 dollars
+( NUMBER_1 * VAR_0 ) - NUMBER_0 = ( 2.0 * VAR_0 ) + NUMBER_2 more than twice the VAR_0
+VAR_0 = NUMBER_0 mile + NUMBER_1 mile from David 's house
+VAR_0 = ( ( NUMBER_0 book to put away total - NUMBER_1 of them ) / NUMBER_2 books )
+VAR_0 = ( NUMBER_2 lives * ( NUMBER_0 friends - NUMBER_1 players ) )
+( NUMBER_2 kilometers per hour * VAR_0 ) + ( VAR_1 * VAR_0 ) = NUMBER_0 kilometers ; ( NUMBER_2 kilometers per hour * VAR_0 ) - ( VAR_1 * VAR_0 ) = NUMBER_1 kilometers against the wind
+VAR_0 + ( A markup rate of NUMBER_0 % * 0.01 * VAR_0 ) = a basketball with a selling price of NUMBER_1 dollars
+VAR_0 = ( NUMBER_0 oranges + NUMBER_1 more )
+VAR_0 = ( NUMBER_0 * ( NUMBER_1 bars - all but NUMBER_2 bars ) )
+NUMBER_0 tons of cement + NUMBER_1 tons of cement = VAR_0
+NUMBER_0 eggs = VAR_0 * NUMBER_1
+VAR_0 = NUMBER_0 dollars * NUMBER_2 years * an annual interest rate of NUMBER_1 % * 0.01
+VAR_0 = ( NUMBER_0 apples every hour * the end of NUMBER_1 hours )
+VAR_0 = ( NUMBER_0 tickets + another NUMBER_1 )
+VAR_0 = ( NUMBER_0 bottle caps + NUMBER_1 more )
+4.0 * NUMBER_0 baseball cards = VAR_0 * NUMBER_1
+VAR_0 = NUMBER_0 pencils in the drawer + NUMBER_1 pencils on the desk + NUMBER_2 pencils
+VAR_0 = ( ( NUMBER_0 new players + NUMBER_2 returning players ) / NUMBER_2 returning players )
+NUMBER_0 pounds of honey + NUMBER_1 pounds = VAR_0
+( NUMBER_0 quarters * 0.25 ) + ( NUMBER_1 pennies * 0.01 ) = VAR_0
+( NUMBER_0 hours to produce * VAR_0 ) + ( NUMBER_2 hours to produce * VAR_1 ) = a total of NUMBER_4 hours ; ( NUMBER_1 dollars each * VAR_0 ) + ( NUMBER_3 dollars each * VAR_1 ) = NUMBER_5 dollars for production
+exactly NUMBER_0 + NUMBER_1 cups of water = VAR_0
+NUMBER_0 walnut trees + VAR_0 = NUMBER_1 walnut trees in the park
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 ; VAR_1 = NUMBER_1 * VAR_0 ; VAR_1 = VAR_2 - NUMBER_3
+( NUMBER_0 dollars for each VAR_0 * VAR_0 ) + ( NUMBER_1 dollars for each VAR_1 * VAR_1 ) = NUMBER_3 dollars for each VAR_1 ; VAR_1 + VAR_0 = Total bill for the NUMBER_2 people
+( rs NUMBER_0 per kilo * VAR_0 ) + ( rs NUMBER_1 per kilo * VAR_1 ) = a mixture of NUMBER_3 kilos * a mixture which could sell for rs NUMBER_2 per kilo ; VAR_0 + VAR_1 = a mixture of NUMBER_3 kilos
+VAR_0 + ( NUMBER_1 * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + ( a NUMBER_3 hour job * VAR_1 ) = NUMBER_2 dollars ; VAR_0 + ( a job that takes him NUMBER_4 hours * VAR_1 ) = VAR_2
+( NUMBER_0 boxes of paper clips * VAR_0 ) + ( NUMBER_1 packages of index cards * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 boxes of paper clips * VAR_0 ) + ( NUMBER_4 packages of index cards * VAR_1 ) = NUMBER_5 dollars
+( ( VAR_0 + VAR_1 ) + VAR_2 ) + VAR_3 = A survey of NUMBER_0 shoppers ; 2.0 * VAR_0 = VAR_3 ; VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 + VAR_2 = NUMBER_2
+VAR_0 = NUMBER_1 bottle at the first table + NUMBER_1 bottle at the first table + NUMBER_2 bottle at the third table
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_1 = ( NUMBER_2 * VAR_0 ) + NUMBER_1 greather
+VAR_0 = NUMBER_0 inch off a skirt - NUMBER_1 inch
+NUMBER_1 more years + VAR_0 = 2.0 * VAR_1 ; VAR_0 = NUMBER_0 more years + VAR_1
+( NUMBER_0 dollars * VAR_0 ) + ( VAR_1 * ( NUMBER_0 dollars * 0.5 ) ) = NUMBER_2 dollars ; VAR_0 = NUMBER_1 + VAR_1
+VAR_0 = ( NUMBER_0 eggs + another NUMBER_1 )
+VAR_0 = NUMBER_0 seashells - Joan NUMBER_1 of the seashells
+( ( part at NUMBER_2 % * 0.01 ) * VAR_0 ) + ( ( part at NUMBER_1 % * 0.01 ) * VAR_1 ) = 18part at NUMBER_1 % ; VAR_0 + VAR_1 = NUMBER_0 dollars
+VAR_0 = ( ( NUMBER_0 dollars - sale for NUMBER_1 dollars ) / NUMBER_0 dollars ) * 100.0
+NUMBER_0 crayons - NUMBER_1 crayons = VAR_0
+VAR_0 - NUMBER_1 years = ( VAR_1 - NUMBER_1 years ) * NUMBER_2 times ; VAR_0 = NUMBER_0 times * VAR_1
+VAR_0 = ( NUMBER_0 stickers on a page * NUMBER_1 pages of stickers )
+NUMBER_0 magazines in her cabinet / boxes which can contain NUMBER_1 magazines = VAR_0
+packages of NUMBER_0 * NUMBER_1 packages = VAR_0
+a total of NUMBER_0 football games this year = NUMBER_1 of the games + VAR_0
+VAR_0 = ( NUMBER_1 bottle caps in the jar - NUMBER_0 bottle caps )
+VAR_0 = ( NUMBER_0 bananas / NUMBER_1 friends )
+VAR_0 = NUMBER_0 kittens - NUMBER_1
+a NUMBER_1 % solution * 0.01 * available NUMBER_0 gallons = NUMBER_2 % * 0.01 * VAR_0 ; VAR_1 + available NUMBER_0 gallons = VAR_0
+VAR_0 = ( NUMBER_0 small cakes / NUMBER_1 children )
+VAR_0 = ( NUMBER_1 - NUMBER_0 miles )
+VAR_0 = NUMBER_1 pound of peanuts + NUMBER_1 pound of peanuts + NUMBER_2 pound of raisins
+( NUMBER_0 dollars per pound * VAR_0 ) + ( NUMBER_1 dollars per pound * VAR_1 ) = 40.0 * NUMBER_2 dollars per pound ; VAR_0 + VAR_1 = 40.0
+( the VAR_0 were NUMBER_2 dollars each * VAR_0 ) + ( NUMBER_1 dollars each * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 people
+VAR_0 = NUMBER_3 yellow balloons + NUMBER_1 yellow balloons + NUMBER_2 yellow balloons
+( NUMBER_0 Pairs of VAR_0 * VAR_0 ) + ( NUMBER_1 VAR_1 * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 VAR_0 * VAR_0 ) + ( NUMBER_4 VAR_1 * VAR_1 ) = NUMBER_5 dollars
+VAR_0 = a flute for $ NUMBER_0 + a music tool for $ NUMBER_1 + a song book for $ NUMBER_2
+NUMBER_1 more VAR_0 than VAR_1 + VAR_1 = VAR_0 ; VAR_0 + VAR_1 = NUMBER_0 coins
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 tickets
+VAR_0 = ( NUMBER_0 eggs - NUMBER_1 )
+NUMBER_0 dollars per hour * NUMBER_1 hours = VAR_0
+VAR_0 = ( $ NUMBER_0 * NUMBER_1 balls )
+VAR_0 = NUMBER_0 pie - just NUMBER_1 pie
+VAR_0 = ( NUMBER_0 feet * the water fountain NUMBER_1 times )
+( ( NUMBER_1 % interest * 0.01 ) * VAR_0 ) + ( ( NUMBER_2 % interest * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_1 = NUMBER_0 times that amount into a mutual fund * VAR_0
+4.0 * NUMBER_0 baseball cards = VAR_0
+( NUMBER_0 dollars each * VAR_0 ) + ( Kathy selling adult tickets for NUMBER_1 dollars each * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = their total income for NUMBER_2 tickets
+( NUMBER_0 packages of cat food * NUMBER_2 cans ) - ( NUMBER_1 packages of dog food * NUMBER_3 cans ) = VAR_0
+VAR_0 = ( NUMBER_0 miles / Jose NUMBER_1 hours )
+VAR_0 + ( A load of NUMBER_0 kilograms attached to the bottom of a coil spring * VAR_1 ) = a length of NUMBER_1 cm ; VAR_0 + ( a load of NUMBER_2 kilograms * VAR_1 ) = a length of NUMBER_3 cm
+VAR_0 = NUMBER_3 red balloons + NUMBER_1 red balloons + NUMBER_2 red balloons
+NUMBER_0 dimes in her bank - NUMBER_1 of her dimes = VAR_0
+NUMBER_0 + VAR_0 = NUMBER_2 times * ( NUMBER_1 VAR_0 + VAR_0 )
+NUMBER_0 metric tons = only NUMBER_1 of the world grain demand * VAR_0
+VAR_0 = ( ( NUMBER_0 tickets + NUMBER_2 more tickets ) - NUMBER_1 tickets )
+VAR_0 - $ NUMBER_0 = $ NUMBER_1 left in it
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 dollars
+( VAR_0 + VAR_1 ) * NUMBER_2 hours = NUMBER_0 miles ; ( VAR_0 - VAR_1 ) * NUMBER_1 hours = NUMBER_0 miles
+100.0 * 0.01 * VAR_0 + a NUMBER_1 % acid solution * 0.01 * NUMBER_0 gallons = a NUMBER_2 % acid solution * 0.01 * VAR_1 ; VAR_0 + NUMBER_0 gallons = VAR_1
+NUMBER_0 of a centimeter of rain on Monday + NUMBER_1 of a centimeter of rain on Tuesday + NUMBER_2 of a centimeter of rain = VAR_0
+( ( charges NUMBER_1 dollars for VAR_0 * VAR_0 ) + ( NUMBER_2 dollars for VAR_1 * VAR_1 ) ) + ( NUMBER_3 dollars for VAR_2 * VAR_2 ) = NUMBER_5 dollars ; ( VAR_2 + VAR_0 ) + VAR_1 = a seating capacity of NUMBER_0 ; VAR_2 = NUMBER_4 * ( VAR_0 + VAR_1 )
+( VAR_0 + VAR_1 ) + VAR_2 = three consecutive integers whose sum is NUMBER_0 ; VAR_1 = 1.0 + VAR_0 ; VAR_2 = 1.0 + VAR_1
+NUMBER_0 dollars each * VAR_0 = an armband for NUMBER_1 dollars
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 ; 2.0 + VAR_0 = VAR_1 ; 2.0 + VAR_1 = VAR_2
+NUMBER_0 crayons which she will place in crayon boxes / NUMBER_1 crayons = VAR_0
+( ( NUMBER_0 dollars for adults * VAR_0 ) + ( NUMBER_1 dollars for children * VAR_1 ) ) + ( NUMBER_2 dollars for seniors * VAR_2 ) = NUMBER_4 dollars ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_3 tickets ; VAR_0 = ( 2.0 * VAR_1 ) + ( 2.0 * VAR_2 )
+NUMBER_1 of a mile + NUMBER_1 of a mile + NUMBER_2 of a mile from the T-shirt = VAR_0
+NUMBER_0 - NUMBER_1 of a cup of sugar = VAR_0
+VAR_0 = ( NUMBER_0 blocks + NUMBER_1 blocks )
+( NUMBER_4 dollars each * VAR_0 ) + ( the rest at NUMBER_5 dollars each * VAR_1 ) = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 etchings
+NUMBER_0 pieces * VAR_0 = NUMBER_1 feet + VAR_1 ; VAR_0 + VAR_1 = 20.0
+( VAR_0 - NUMBER_2 less VAR_0 ) * VAR_1 = ( NUMBER_3 dollars + VAR_1 ) * VAR_0 ; VAR_1 * ( NUMBER_0 more VAR_0 + VAR_0 ) = ( VAR_1 - NUMBER_3 dollars ) * VAR_0 ; VAR_2 = VAR_1 * VAR_0
+NUMBER_0 seashells - Mike NUMBER_1 of the seashells = VAR_0
+VAR_0 = ( NUMBER_0 candies * NUMBER_1 children )
+VAR_0 = ( ( NUMBER_0 boys + NUMBER_1 girls ) / groups of NUMBER_2 )
+VAR_0 = NUMBER_0 - NUMBER_1 of Sam 's yellow marbles
+NUMBER_2 times one of them * VAR_0 = ( NUMBER_3 * VAR_1 ) + The sum of NUMBER_5 numbers ; VAR_1 + VAR_0 = NUMBER_1
+( 10.0 * VAR_0 ) + ( 1.0 * VAR_1 ) = VAR_2 - NUMBER_1 LESS ; VAR_1 + VAR_0 = NUMBER_0 ; VAR_2 = VAR_0 + ( 10.0 * VAR_1 )
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_0 = NUMBER_1 more than the other + VAR_1
+a piece of wood that was NUMBER_0 centimeters long - NUMBER_1 centimeters = VAR_0
+NUMBER_0 ounces of detergent * NUMBER_1 pounds of clothes = VAR_0
+VAR_0 = ( an aquarium with NUMBER_0 fish + NUMBER_1 more fish )
+NUMBER_0 time 's VAR_0 's age * VAR_0 = NUMBER_1 times VAR_1 's age * VAR_1 ; VAR_0 - VAR_1 = NUMBER_2 years
+VAR_0 = ( ( NUMBER_0 pictures + NUMBER_1 pictures ) / NUMBER_2 different albums )
+VAR_0 = ( NUMBER_0 problems on it * ( NUMBER_1 worksheets to grade - NUMBER_2 of them ) )
+( NUMBER_1 days * VAR_0 ) + ( NUMBER_2 miles * VAR_1 ) = NUMBER_0 dollars ; ( NUMBER_4 days * VAR_0 ) + ( NUMBER_5 miles * VAR_1 ) = NUMBER_3 days
+VAR_0 = NUMBER_0 more than another + VAR_1 ; VAR_1 + ( NUMBER_1 times the VAR_0 number * VAR_0 ) = NUMBER_2
+NUMBER_0 seashells - Joan NUMBER_1 of the seashells = VAR_0
+2.0 * ( NUMBER_0 + VAR_0 ) = NUMBER_1
+( ( NUMBER_4 % per year * 0.01 ) * VAR_0 ) + ( ( the rest earning a rate of NUMBER_5 % per year * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+VAR_0 = NUMBER_2 pitcher of lemonade + NUMBER_1 pitcher during the second + NUMBER_2 pitcher of lemonade
+VAR_0 = ( NUMBER_2 gem stone necklaces * ( NUMBER_0 bead necklaces + NUMBER_2 gem stone necklaces ) )
+NUMBER_0 bucket of water + another NUMBER_1 buckets = VAR_0
+VAR_0 = NUMBER_0 nickels + NUMBER_1 nickels
+VAR_0 = NUMBER_0 seashells - NUMBER_1 of the seashells
+VAR_0 = NUMBER_0 dollars - ( ( NUMBER_1 % * 0.01 ) * NUMBER_0 dollars )
+( NUMBER_2 dollars for VAR_0 * VAR_0 ) + ( NUMBER_1 dollars for adults * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 tickets
+VAR_0 + ( NUMBER_5 * VAR_1 ) = ( NUMBER_4 * VAR_0 ) - NUMBER_3 ; VAR_0 = ( NUMBER_4 * VAR_1 ) - NUMBER_1
+( NUMBER_0 dollars * VAR_0 ) - ( NUMBER_1 dollars for each day she is VAR_1 * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 dollars for each day she is VAR_1
+VAR_0 + VAR_1 = NUMBER_1 dollars ; VAR_0 = NUMBER_0 dollars + VAR_1
+VAR_0 = ( NUMBER_1 erasers in a box - NUMBER_1 erasers in a box )
+VAR_0 = ( NUMBER_0 bags of dog food - NUMBER_1 bags of cat food )
+VAR_0 = NUMBER_0 baseball cards - NUMBER_1 of Sally 's baseball cards
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_2 = VAR_0 + ( 10.0 * VAR_1 ) ; VAR_3 = ( NUMBER_1 more than double the original number * VAR_2 ) + NUMBER_1 more than double the original number ; VAR_3 = VAR_1 + ( 10.0 * VAR_0 )
+NUMBER_0 * ( NUMBER_1 * VAR_0 ) = ( NUMBER_2 * VAR_0 ) - NUMBER_3
+NUMBER_0 trout * NUMBER_1 times as many trout as Melanie = VAR_0
+VAR_0 = NUMBER_0 bag of wheat flour + NUMBER_1 bag of white flour
+VAR_0 = ( the store NUMBER_0 times * NUMBER_1 oranges )
+VAR_0 = ( NUMBER_0 guests coming to her Halloween party / NUMBER_1 guests )
+VAR_0 = NUMBER_0 + NUMBER_1 red balloons
+( NUMBER_0 miles * VAR_0 ) + ( NUMBER_1 miles per hour * VAR_0 ) = a range of NUMBER_2 miles
+VAR_0 + ( a NUMBER_1 hour job * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + ( a NUMBER_3 hour job * VAR_1 ) = NUMBER_2 dollars ; VAR_0 + ( an NUMBER_4 hour job * VAR_1 ) = VAR_2
+the sum of NUMBER_0 numbers * ( VAR_0 + VAR_1 ) = 3the sum of NUMBER_0 numbers ; the sum of NUMBER_0 numbers * ( VAR_0 - VAR_1 ) = NUMBER_2
+VAR_0 = ( NUMBER_0 pages / NUMBER_1 days )
+( NUMBER_1 tickets * $ NUMBER_0 each ) + $ NUMBER_2 + 13.59 = VAR_0
+the same number of miles NUMBER_2 weeks in a row * ( NUMBER_0 miles + NUMBER_1 miles ) = VAR_0
+VAR_0 = ( NUMBER_1 birds in the tree - NUMBER_0 birds )
+NUMBER_0 of a mile from the car to a stream + NUMBER_1 of a mile + NUMBER_2 of a mile = VAR_0
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 grams of carbohydrates ; VAR_0 + VAR_1 = NUMBER_1 the carbs of 1 cup of vegetable C * VAR_2 ; VAR_0 + VAR_2 = NUMBER_2 times the carbs of a serving of vegetable B. Find the number of grams of carbs in the given potion size of each vegetable * VAR_1
+VAR_0 = NUMBER_0 nickels in her bank + her NUMBER_1 nickels
+VAR_0 = NUMBER_0 apples + NUMBER_1 apples
+a total of NUMBER_0 hockey games a month * NUMBER_1 months = VAR_0
+VAR_0 = ( NUMBER_0 seeds each * NUMBER_1 watermelons )
+( 3.0 * VAR_0 ) + ( 2.0 * VAR_1 ) = NUMBER_0 points ; VAR_0 + VAR_1 = a total of NUMBER_1 shots
+VAR_0 * VAR_1 = NUMBER_0 rupees ; VAR_2 * VAR_3 = NUMBER_0 rupees ; VAR_2 = NUMBER_1 students + VAR_0 ; VAR_3 = NUMBER_2 rupees + VAR_1
+a NUMBER_0 day vacation * NUMBER_1 miles = VAR_0
+NUMBER_0 of a certain VAR_0 * VAR_0 = ( more than NUMBER_2 * VAR_0 ) + NUMBER_1
+( NUMBER_1 dollars per hour working on Saturday * VAR_0 ) + ( NUMBER_0 dollars per hour working after school * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 hours in a week
+VAR_0 = ( packages of NUMBER_0 * NUMBER_1 packages )
+( NUMBER_2 dollars sets * VAR_0 ) + ( NUMBER_3 dollars sets * VAR_1 ) = NUMBER_0 dollars to spend ; VAR_0 + VAR_1 = NUMBER_1 sets of dishes
+VAR_0 = ( NUMBER_0 toy cars + NUMBER_1 more cars )
+VAR_0 = ( NUMBER_2 lives * ( NUMBER_1 friends playing a video game online when NUMBER_1 more players joined the game + NUMBER_1 friends playing a video game online when NUMBER_1 more players joined the game ) )
+VAR_0 = ( ( NUMBER_0 new players + NUMBER_1 returning players ) / NUMBER_2 players in each group )
+NUMBER_0 balls * VAR_0 = NUMBER_1 balls
+VAR_0 = a total of NUMBER_1 points - NUMBER_0 points
+NUMBER_0 of a VAR_0 * VAR_0 = ( - 60.0 )
+VAR_0 = ( NUMBER_0 cards + NUMBER_1 cards )
+NUMBER_1 years + VAR_0 = NUMBER_1 years * ( NUMBER_1 years + VAR_1 ) ; VAR_0 - 1.0 = NUMBER_2 times * ( VAR_1 - 1.0 )
+NUMBER_1 * VAR_0 = NUMBER_0 * VAR_1 ; NUMBER_4 * ( VAR_1 - NUMBER_3 ) = NUMBER_3 * ( VAR_0 + VAR_1 )
+( 2.0 * VAR_0 ) + ( 4.0 * VAR_1 ) = NUMBER_1 legs ; VAR_0 + VAR_1 = NUMBER_0
+VAR_0 = ( ( NUMBER_0 siamese cats + NUMBER_2 house cats ) - NUMBER_2 house cats )
+VAR_0 = ( NUMBER_0 oranges + another NUMBER_1 )
+( NUMBER_0 VAR_0 seats * VAR_0 ) + ( NUMBER_1 main-level seats * VAR_1 ) = NUMBER_3 VAR_0 seats ; VAR_0 = VAR_1 - NUMBER_2 dollars
+( NUMBER_1 dollars an acre * VAR_0 ) + ( NUMBER_2 dollars an acre * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 acres
+NUMBER_0 crayons all together / 3.0 = VAR_0
+( ( NUMBER_1 % * 0.01 ) * VAR_0 ) + ( ( NUMBER_2 % * 0.01 ) * VAR_1 ) = a combined interest payment of NUMBER_3 dollars ; VAR_0 + VAR_1 = two loans totaling NUMBER_0 dollars
+VAR_0 + $ NUMBER_0 for his birthday + $ NUMBER_1 + $ NUMBER_2 = $ NUMBER_3
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 = NUMBER_0 when her first VAR_1 was born + VAR_1
+VAR_0 = ( ( NUMBER_0 dollars in January + another NUMBER_2 dollars ) - NUMBER_1 dollars )
+NUMBER_1 * VAR_0 = NUMBER_0 * VAR_1 ; VAR_1 = NUMBER_2 miles + VAR_0
+( ( NUMBER_1 dollars in Section A * VAR_0 ) + ( NUMBER_2 dollars in Section B * VAR_1 ) ) + ( NUMBER_3 dollars in Section C * VAR_2 ) = NUMBER_4 dollars from each sold-out event ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 seats ; VAR_0 = VAR_1 + VAR_2
+VAR_0 = NUMBER_0 mile with her mother + another NUMBER_1 mile with her father
+VAR_0 = NUMBER_0 football games + NUMBER_1 games + NUMBER_2 games
+VAR_0 = NUMBER_0 ounces of sugar - NUMBER_1 ounces of it
+0.01 * VAR_0 + 0.05 * VAR_1 + 0.1 * VAR_2 = NUMBER_0 dollars ; VAR_2 = 2.0 * VAR_0 - NUMBER_1 less than twice the number of VAR_0 ; VAR_2 = VAR_1
+VAR_0 = ( NUMBER_0 crayons + NUMBER_1 more )
+VAR_0 = ( NUMBER_0 bottle caps in each box * NUMBER_1 boxes )
+NUMBER_1 of a centimeter on Wednesday + NUMBER_1 of a centimeter on Wednesday + NUMBER_2 of a centimeter = VAR_0
+a supply of NUMBER_0 bathing suits for men + NUMBER_1 bathing suits for women = VAR_0
+VAR_0 = ( ( A group of NUMBER_2 friends + NUMBER_1 chicken wings cooked but cooked NUMBER_2 more for the group ) / A group of NUMBER_2 friends )
+VAR_0 = ( NUMBER_0 boxes of erasers * NUMBER_1 erasers )
+VAR_0 = ( ( NUMBER_0 dollars + NUMBER_1 dollars weed eating ) / NUMBER_2 dollar )
+NUMBER_0 cars + NUMBER_1 cars = VAR_0
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_0 = VAR_1 - NUMBER_1 more Republicans
+VAR_0 = ( a concert NUMBER_0 miles away - NUMBER_1 miles )
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_2 = ( more than NUMBER_2 times the VAR_0 digit * VAR_0 ) + NUMBER_1 ; VAR_2 = ( 10.0 * VAR_1 ) + VAR_0
+( NUMBER_0 dollars an hour * VAR_0 ) + ( NUMBER_1 dollars an hour * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 hours a week
+NUMBER_0 pieces of bite-size cinnamon swirls / the NUMBER_1 of them = VAR_0
+VAR_0 = NUMBER_0 pounds of fruit - NUMBER_1 pounds of the fruit
+( NUMBER_0 half-dollars * 0.5 ) + ( NUMBER_1 half-dollars * 0.5 ) = VAR_0
+NUMBER_0 pounds of peanuts + NUMBER_1 pounds of raisins = VAR_0
+VAR_0 = ( NUMBER_0 book shelves * NUMBER_1 books )
+NUMBER_0 dollars + ( NUMBER_1 dollars * VAR_0 ) = NUMBER_2 dollars + ( NUMBER_3 dollars * VAR_0 )
+VAR_0 = ( NUMBER_0 crayons + NUMBER_1 more from Frances )
+VAR_0 = ( NUMBER_0 ice cream sandwiches / his NUMBER_1 hungry nieces )
+VAR_0 = NUMBER_1 ton + NUMBER_1 ton + NUMBER_2 ton
+( NUMBER_2 dollars bills * VAR_0 ) + ( 20.0 * VAR_1 ) = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0
+VAR_0 = ( 5.0 * NUMBER_0 miles )
+VAR_0 + VAR_1 = NUMBER_2 ; VAR_1 = ( The sum of the NUMBER_1 numbers * VAR_0 ) - NUMBER_0 less than twice another number
+NUMBER_1 + NUMBER_1 + NUMBER_2 of a bin of pasta = VAR_0
+VAR_0 = VAR_1 * 0.01 * The annual interest earned by NUMBER_5 dollars ; VAR_2 = VAR_3 * 0.01 * the interest earned by NUMBER_6 dollars invested at a rate ; VAR_0 = VAR_2 + NUMBER_1 dollars ; VAR_3 = VAR_1 - NUMBER_3 %
+VAR_0 = ( NUMBER_2 green marbles / ( ( NUMBER_0 red marbles + NUMBER_1 blue marbles ) + NUMBER_2 green marbles ) ) * 100.0
+VAR_0 = ( NUMBER_1 apples in the jar - NUMBER_0 apples )
+NUMBER_0 fewer fat grams than your favorite restaurant 's chili + VAR_0 = VAR_1 ; VAR_1 - ( ( NUMBER_1 % * VAR_1 ) * 0.01 ) = VAR_0
+( NUMBER_2 dollars / NUMBER_1 dollars ) * NUMBER_0 feet of chain = VAR_0
+NUMBER_0 tons of grain + Only NUMBER_1 tons of grain = VAR_0
+VAR_0 = ( NUMBER_1 erasers - NUMBER_0 apples )
+NUMBER_0 pounds - NUMBER_1 of a pound = VAR_0
+VAR_0 = NUMBER_0 walnut trees - NUMBER_1 walnut trees that were damaged
+( NUMBER_4 legs * VAR_0 ) + ( NUMBER_2 legs * VAR_1 ) = NUMBER_3 legs ; VAR_0 + VAR_1 = NUMBER_0 tables
+VAR_0 = ( NUMBER_0 candies / NUMBER_1 friends )
+VAR_0 + VAR_1 = NUMBER_0 kids in Mrs Jones ' class ; VAR_1 = 2.0 * VAR_0
+( NUMBER_0 apples * VAR_0 ) + ( NUMBER_3 oranges * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 oranges * VAR_0 ) + ( NUMBER_4 VAR_1 * VAR_1 ) = NUMBER_5 dollars
+( NUMBER_0 dollars for VAR_0 * VAR_0 ) + ( NUMBER_1 dollars for adults * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 people
+VAR_0 = ( NUMBER_0 stickers + NUMBER_1 stickers )
+NUMBER_0 seashells - VAR_0 = NUMBER_1 seashell left
+VAR_0 = ( NUMBER_0 points - NUMBER_1 points )
+( VAR_0 + VAR_1 ) * NUMBER_3 hours going downstream = NUMBER_2 ; ( VAR_0 - VAR_1 ) * NUMBER_1 hours = NUMBER_0 kilometers
+VAR_0 = ( NUMBER_0 ducks + NUMBER_1 more ducks )
+( NUMBER_0 grams of protein * VAR_0 ) + ( NUMBER_2 grams of protein * VAR_1 ) = NUMBER_4 grams of protein ; ( NUMBER_1 grams of fat * VAR_0 ) + ( NUMBER_3 grams of fat * VAR_1 ) = NUMBER_5 grams of fat
+( ( NUMBER_0 feet of rope / NUMBER_3 hours ) * NUMBER_4 hours ) + ( ( NUMBER_2 feet of rope / NUMBER_3 hours ) * NUMBER_4 hours ) = VAR_0
+( ( NUMBER_0 more than the VAR_0 * VAR_0 ) / ( VAR_1 - the VAR_1 is decreased by NUMBER_2 ) ) + ( VAR_1 / VAR_0 ) = NUMBER_3 ; VAR_1 = NUMBER_0 more than the VAR_0 + VAR_0 ; VAR_2 = VAR_1 / VAR_0
+VAR_0 = NUMBER_0 dimes + NUMBER_1 dimes
+VAR_0 + ( NUMBER_2 points * VAR_1 ) = NUMBER_0 ; VAR_1 = NUMBER_1 times * VAR_0
+( VAR_0 + VAR_1 ) * NUMBER_1 hours = NUMBER_0 miles ; ( VAR_0 - VAR_1 ) * NUMBER_2 = NUMBER_0 miles
+NUMBER_0 of a pound of melon + NUMBER_1 of a pound of berries = VAR_0
+( VAR_0 + VAR_1 ) + VAR_2 = 1.0 ; VAR_0 = NUMBER_0 dollars / VAR_3 ; VAR_1 = NUMBER_2 of the pizza ; VAR_2 = NUMBER_1 of the pizza
+VAR_0 = NUMBER_0 dollars * NUMBER_1 of a year * ( a simple rate of NUMBER_2 % * 0.01 )
+VAR_0 = ( NUMBER_0 cookies / NUMBER_1 people )
+( ( NUMBER_0 percent * 0.01 ) * VAR_0 ) + ( ( NUMBER_1 percent silver * 0.01 ) * VAR_1 ) = ( NUMBER_3 pounds of an alloy containing NUMBER_3 percent silver * NUMBER_3 pounds of an alloy containing NUMBER_3 percent silver ) * 0.01 ; VAR_0 + VAR_1 = NUMBER_3 pounds of an alloy containing NUMBER_3 percent silver
+( her regular hourly wage for the hours she works in excess of NUMBER_3 * VAR_0 ) + ( ( NUMBER_0 hours - her regular hourly wage for the hours she works in excess of NUMBER_3 ) * ( NUMBER_2 times * VAR_0 ) ) = a NUMBER_1 dollars paycheck
+( less than NUMBER_3 times the VAR_0 * VAR_0 ) - ( NUMBER_1 * VAR_1 ) = NUMBER_2 ; VAR_1 + VAR_0 = NUMBER_0 ; VAR_2 = VAR_1 / VAR_0
+VAR_0 = ( NUMBER_0 owls + NUMBER_1 more owls )
+VAR_0 = NUMBER_0 laps + NUMBER_1 laps
+VAR_0 = ( NUMBER_0 blocks / NUMBER_1 boxes )
+VAR_0 = ( $ NUMBER_1 / NUMBER_0 DVDs )
+VAR_0 = a football game for $ NUMBER_0 + a strategy game for $ NUMBER_1 + a Batman game for $ NUMBER_2
+VAR_0 = ( NUMBER_0 candies + NUMBER_1 more from Larry )
+VAR_0 = ( NUMBER_0 Skittles - NUMBER_1 )
+( NUMBER_0 gallons of regular gasoline * VAR_0 ) + ( NUMBER_1 gallons of premium gasoline * VAR_1 ) = NUMBER_2 dollars ; VAR_1 = NUMBER_3 dollars + VAR_0
+( NUMBER_0 * VAR_0 ) + ( NUMBER_1 * VAR_1 ) = NUMBER_2 dollars or two roses ; ( NUMBER_3 * VAR_0 ) + ( NUMBER_4 * VAR_1 ) = six daisies for NUMBER_5 dollars
+NUMBER_0 pounds on earth * VAR_0 = NUMBER_1 pounds on the moon ; 136.0 * VAR_0 = VAR_1
+VAR_0 = a Batman game for $ NUMBER_0 + a Superman game for $ NUMBER_1
+VAR_0 = NUMBER_0 + NUMBER_1 blue marbles
+( 3.0 * ( 1.0 + VAR_0 ) ) - NUMBER_0 less than three times the next VAR_0 = VAR_0
+VAR_0 = ( NUMBER_0 boxes of clothing * ( NUMBER_2 scarves + NUMBER_2 scarves ) )
+a NUMBER_4 % alcohol solution * 0.01 * VAR_0 + an NUMBER_2 % alcohol solution * 0.01 * NUMBER_1 liters = a NUMBER_3 % alcohol solution * 0.01 * VAR_1 ; VAR_0 + NUMBER_1 liters = VAR_1
+VAR_0 = ( NUMBER_0 + NUMBER_1 marbles left )
+NUMBER_0 % * 0.01 * NUMBER_1 = VAR_0
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_1 = ( more than NUMBER_2 times * VAR_0 ) + NUMBER_1
+VAR_0 = ( NUMBER_0 pet fish + NUMBER_1 more fish )
+VAR_0 = NUMBER_0 maple trees + NUMBER_1 maple trees
+NUMBER_2 + NUMBER_1 of a tart filled with blueberries + NUMBER_2 = VAR_0
+NUMBER_0 * ( NUMBER_1 + VAR_0 ) = ( 2.0 * VAR_0 ) - NUMBER_2
+VAR_0 = NUMBER_0 dollars - NUMBER_1 dollars
+( VAR_0 + VAR_1 ) + VAR_2 = A NUMBER_0 ft. pipe ; VAR_1 = 2.0 * VAR_0 ; VAR_2 = ( 5.0 * VAR_0 ) - NUMBER_1 feet
+NUMBER_0 miles - NUMBER_1 miles = VAR_0
+$ NUMBER_0 + $ NUMBER_1 + VAR_0 = a baseball with a $ NUMBER_2 bill
+( NUMBER_1 + VAR_0 ) / ( ( ( VAR_0 - NUMBER_1 ) + VAR_1 ) + NUMBER_1 ) = 0.75 ; VAR_0 / ( VAR_0 + VAR_1 ) = 0.6
+NUMBER_0 marbles + NUMBER_1 more marbles than Connie = VAR_0
+NUMBER_0 quarters + NUMBER_1 quarters * VAR_0 = VAR_1 ; NUMBER_2 quarters + NUMBER_3 quarters * VAR_0 = VAR_2 ; VAR_1 = VAR_2
+VAR_0 = ( ( NUMBER_1 chicken wings + NUMBER_2 more ) / A group of NUMBER_0 friends )
+$ NUMBER_0 - $ NUMBER_1 = VAR_0
+NUMBER_0 dollars * NUMBER_1 tickets = VAR_0
+( ( ( NUMBER_0 * NUMBER_1 % ) * 0.01 ) * VAR_0 ) + ( ( ( ( 1.0 - NUMBER_0 ) * NUMBER_2 % ) * 0.01 ) * VAR_0 ) = the VAR_0 if his total income is NUMBER_3 dollars
+VAR_0 = NUMBER_0 books + NUMBER_1 books + NUMBER_2 books
+VAR_0 = ( NUMBER_0 Valentines - NUMBER_1 )
+VAR_0 = ( $ NUMBER_2 * ( a group of NUMBER_1 people - $ NUMBER_2 ) )
+VAR_0 = ( Lukas averages NUMBER_0 points per game in basketball . * NUMBER_1 games )
+( VAR_0 - 8.0 ) + ( VAR_1 - 8.0 ) = 10.0 + VAR_1 ; VAR_1 = ( 2.0 * VAR_0 ) + 1.0
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 = ( 2.0 * VAR_1 ) - NUMBER_0 less than twice another
+( NUMBER_0 points when they VAR_0 * VAR_0 ) + ( NUMBER_2 point when they VAR_1 * VAR_1 ) = NUMBER_3 points ; VAR_0 = NUMBER_4 points when they VAR_0 + VAR_1
+( The sum of NUMBER_3 numbers * VAR_0 ) - VAR_1 = NUMBER_2 ; VAR_1 + VAR_0 = NUMBER_1
+VAR_0 = ( NUMBER_0 shells + NUMBER_1 shells )
+VAR_0 = ( NUMBER_1 meters / NUMBER_0 people on the Green Bay High track team )
+NUMBER_1 * VAR_0 = NUMBER_0 * VAR_1 ; VAR_0 * VAR_1 = NUMBER_2
+VAR_0 = NUMBER_0 cup of oil in Scarlett 's measuring cup + NUMBER_1 cup
+VAR_0 = ( her NUMBER_0 dogs * NUMBER_1 heart biscuits )
+VAR_0 = $ NUMBER_0 for berries + $ NUMBER_1 for apples + $ NUMBER_2 for peaches
+VAR_0 = ( NUMBER_0 minutes * NUMBER_1 pans of cookies )
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = a NUMBER_0 seat arena
+( ( 2.0 * VAR_0 ) + NUMBER_0 ) - VAR_0 = NUMBER_1
+NUMBER_0 times as many VAR_0 as VAR_1 * VAR_1 = VAR_0 ; 0.1 * VAR_0 = ( 0.05 * VAR_1 ) + NUMBER_1 dollars
+VAR_0 = ( ( NUMBER_0 siamese cats + NUMBER_1 house cats ) - NUMBER_2 cats )
+VAR_0 = ( ( a binder with NUMBER_1 + NUMBER_2 old cards ) / a binder with NUMBER_1 )
+VAR_0 = ( ( Megan baked NUMBER_0 cupcakes for her school 's bake sale . - NUMBER_1 ) / NUMBER_2 cupcake in each package )
+( NUMBER_0 dollars * NUMBER_2 pounds of french roast ) + ( deluxe at NUMBER_1 dollars per pound * VAR_0 ) = NUMBER_3 dollars per pound * VAR_1 ; NUMBER_2 pounds of french roast + VAR_0 = VAR_1
+( NUMBER_0 packs of VAR_0 * VAR_0 ) + ( NUMBER_3 sacks of potato chips * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 sacks of potato chips * VAR_0 ) + ( NUMBER_2 dollars * VAR_1 ) = NUMBER_4 dollars
+VAR_0 = ( NUMBER_0 of the cake - NUMBER_1 of the cake )
+( ( NUMBER_0 percent acid solution * 0.01 ) * VAR_0 ) + ( ( a NUMBER_1 percent acid solution * 0.01 ) * VAR_1 ) = NUMBER_3 percent solution * 0.01 * NUMBER_2 cubic-centimeters ; VAR_0 + VAR_1 = NUMBER_2 cubic-centimeters
+( NUMBER_4 VAR_0 * VAR_0 ) + ( NUMBER_1 hot dogs * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 VAR_0 * VAR_0 ) + ( NUMBER_4 VAR_0 * VAR_1 ) = NUMBER_5 dollars
+VAR_0 = ( $ NUMBER_0 * ( a group of NUMBER_1 people - NUMBER_2 ) )
+NUMBER_1 bottles of lemon-lime soda + NUMBER_1 bottles of lemon-lime soda = VAR_0
+( VAR_0 + VAR_1 ) + VAR_2 = 3 consecutive integers whose sum is NUMBER_0 ; VAR_1 = 1.0 + VAR_0 ; VAR_2 = 1.0 + VAR_1
+VAR_0 = NUMBER_0 miles + another NUMBER_1 miles
+( NUMBER_2 hours * VAR_0 ) + ( NUMBER_2 hours * VAR_1 ) = NUMBER_1 miles ; VAR_0 = one averaging a speed of NUMBER_0 miles per hour + VAR_1
+( ( ( 1.0 / VAR_0 ) * a job in NUMBER_0 days ) + ( ( 1.0 / VAR_1 ) * a job in NUMBER_0 days ) ) + ( ( 1.0 / VAR_2 ) * a job in NUMBER_0 days ) = 1.0 ; ( ( 1.0 / VAR_0 ) * NUMBER_2 days ) + ( ( 1.0 / VAR_2 ) * NUMBER_2 days ) = 1.0 ; ( ( 1.0 / VAR_1 ) * NUMBER_1 days ) + ( ( 1.0 / VAR_2 ) * NUMBER_1 days ) = 1.0
+( NUMBER_0 point to your raw score * VAR_0 ) - ( NUMBER_1 point * VAR_1 ) = 85 questions for a raw score of NUMBER_3 ; VAR_0 + VAR_1 = NUMBER_2
+( NUMBER_0 miles per hour * VAR_0 ) + ( NUMBER_1 miles per hour * VAR_1 ) = a total of NUMBER_2 miles ; NUMBER_0 miles per hour * VAR_2 = NUMBER_3 miles ; VAR_0 + VAR_1 = VAR_2
+VAR_0 + VAR_1 = NUMBER_0 inches ; VAR_0 = NUMBER_1 inches + VAR_1
+VAR_0 = ( NUMBER_0 bottle caps * NUMBER_1 children )
+( bookstores at a price of NUMBER_2 dollars per book * VAR_0 ) - ( NUMBER_1 dollars per book * VAR_0 ) = NUMBER_0 dollars
+( ( 0 - NUMBER_0 dollars on equipment ) + ( NUMBER_2 dollars per VAR_0 * VAR_0 ) ) - ( NUMBER_1 dollars worth of supplies you purchased * VAR_0 ) = 0.0
+NUMBER_0 fishbowls * NUMBER_1 fish = VAR_0
+VAR_0 = a total of NUMBER_1 books - a grant to purchase NUMBER_0 books
+VAR_0 = ( NUMBER_0 bananas + NUMBER_1 more )
+VAR_0 = NUMBER_0 cars + NUMBER_1 cars
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 ; ( VAR_1 + VAR_2 ) - NUMBER_1 = VAR_0 ; VAR_0 = VAR_2 - VAR_1
+VAR_0 + ( NUMBER_0 * VAR_1 ) = NUMBER_1 dollars ; VAR_0 = NUMBER_2 dollars + VAR_1
+VAR_0 = NUMBER_1 roses in the vase - NUMBER_0 roses in the vase
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = a sale to sell all of the NUMBER_0 winter jackets that remained after the season ended
+VAR_0 = ( $ NUMBER_0 * ( 1$ NUMBER_0 - NUMBER_2 ) )
+NUMBER_0 blue balloons - NUMBER_1 of them = VAR_0
+VAR_0 = ( NUMBER_1 oranges + NUMBER_1 oranges )
+( ( a NUMBER_4 % alcohol solution * 0.01 ) * VAR_0 ) + ( ( a NUMBER_5 % alcohol solution * 0.01 ) * VAR_1 ) = a NUMBER_1 % alcohol solution * 0.01 * NUMBER_0 ounces ; VAR_0 + VAR_1 = NUMBER_0 ounces
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 tickets
+VAR_0 = ( NUMBER_2 coins in it * ( NUMBER_0 piles of quarters + NUMBER_1 piles of dimes ) )
+( 0.05 * VAR_0 ) + ( 0.25 * VAR_1 ) = NUMBER_0 dollars ; VAR_0 = NUMBER_1 more VAR_0 than VAR_1 + VAR_1
+( a NUMBER_0 % acid solution * 0.01 * VAR_0 ) + NUMBER_1 * 0.01 * VAR_1 = a NUMBER_3 % solution * 0.01 * NUMBER_2 liters ; VAR_0 + VAR_1 = NUMBER_2 liters
+( NUMBER_0 packs of Digimon cards * $ NUMBER_1 each ) + a deck of baseball cards for $ NUMBER_2 = VAR_0
+VAR_0 = ( a $ NUMBER_1 bill - an apple for $ NUMBER_0 )
+( NUMBER_0 dollars per sheet * VAR_0 ) + a one time sitting fee of NUMBER_1 dollars = ( NUMBER_2 dollars per sheet * VAR_0 ) + a one time sitting fee of NUMBER_3 dollars
+( NUMBER_1 + NUMBER_2 ) - NUMBER_0 = VAR_0
+VAR_0 = ( NUMBER_0 boxes of Tagalongs / cases of NUMBER_1 boxes )
+( NUMBER_1 dollars * VAR_0 ) + NUMBER_2 dollars in materials = an estimate of NUMBER_0 dollars
+VAR_0 = ( NUMBER_1 Lemon / packages of NUMBER_0 )
+a total of NUMBER_1 of a can - NUMBER_0 of a can of cat food each day = VAR_0
+( NUMBER_0 milliliters of rain * VAR_0 ) + ( NUMBER_1 milliliters of rain * VAR_1 ) = a total rainfall of NUMBER_3 milliliters ; VAR_0 + VAR_1 = a total of NUMBER_2 hours
+( NUMBER_1 VAR_0 * VAR_0 ) + ( NUMBER_1 VAR_0 * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 VAR_0 * VAR_0 ) + ( NUMBER_4 enchilada * VAR_1 ) = NUMBER_5 dollars
+( VAR_0 + VAR_1 ) * NUMBER_1 hours = NUMBER_0 kilometers ; ( VAR_0 - VAR_1 ) * NUMBER_2 hours = NUMBER_0 kilometers
+VAR_0 = ( NUMBER_0 Skittles / the Skittles among NUMBER_1 friends )
+NUMBER_0 miles every day * ( NUMBER_1 weeks * 7.0 ) = VAR_0
+VAR_0 = NUMBER_0 cups of flour - NUMBER_1 cups of flour
+VAR_0 = ( NUMBER_0 cups of chocolate chips * NUMBER_1 recipes for a bake sale )
+VAR_0 = ( ( NUMBER_1 carnations + NUMBER_2 roses ) / NUMBER_0 flowers )
+VAR_0 = ( NUMBER_0 apples in a box - NUMBER_1 apples )
+VAR_0 = ( NUMBER_2 dollars * ( NUMBER_0 bead necklaces + NUMBER_1 gem stone necklaces ) )
+VAR_0 = ( NUMBER_0 egg rolls + NUMBER_1 egg rolls )
+VAR_0 = ( NUMBER_0 cookies / NUMBER_1 cookies in each bag )
+VAR_0 = NUMBER_0 oak trees - NUMBER_1 oak trees that were damaged
+VAR_0 = NUMBER_0 pounds of honey + NUMBER_1 pounds
+VAR_0 = ( ( NUMBER_0 pieces of candy + her NUMBER_2 more pieces ) - NUMBER_1 pieces )
+VAR_0 = ( NUMBER_0 strawberries in his basket + NUMBER_1 more strawberries )
+VAR_0 = ( NUMBER_0 books - NUMBER_1 )
+( ( NUMBER_1 % of the fuel in one tank * 0.01 ) * VAR_0 ) + ( ( NUMBER_2 % of the fuel * 0.01 ) * VAR_1 ) = NUMBER_3 gallons ; VAR_0 + VAR_1 = a total of NUMBER_0 gallons of fuel stored in two separate wing tanks
+NUMBER_1 * VAR_0 = NUMBER_0 * VAR_1 ; VAR_0 + VAR_1 = NUMBER_2 people at the workshop
+VAR_0 = ( NUMBER_0 birds + NUMBER_1 more birds )
+( 1.0 - ( a pair of running shoes during a NUMBER_1 % off sale * 0.01 ) ) * VAR_0 = NUMBER_0 dollars
+VAR_0 = ( NUMBER_0 balloons - NUMBER_1 balloons )
+NUMBER_0 orange balloons - NUMBER_1 of them = VAR_0
+( NUMBER_1 months * VAR_0 ) + ( NUMBER_2 months * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 = NUMBER_0 dollars + VAR_1
+( NUMBER_0 pennies for washing clothes * 0.01 ) + ( NUMBER_1 quarters for mowing lawns * 0.25 ) = VAR_0
+( VAR_0 / 2.0 ) + NUMBER_0 dollars = her weekly allowance if she ended with NUMBER_1 dollars
+( 0.1 * VAR_0 ) + ( 0.25 * VAR_1 ) = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 coins that are all VAR_0 or VAR_1
+VAR_0 = ( NUMBER_0 people / NUMBER_1 cars to take people to the zoo )
+VAR_0 = ( NUMBER_0 bananas - NUMBER_1 )
+VAR_0 = NUMBER_0 gallons of water + NUMBER_1 gallons
+VAR_0 - NUMBER_0 Pokemon = NUMBER_1 Pokemon cards left
+( ( part at NUMBER_3 % * 0.01 ) * VAR_0 ) + ( ( NUMBER_4 % per year * 0.01 ) * VAR_1 ) = NUMBER_5 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+shelves that can contain NUMBER_0 wood carvings at a time * VAR_0 = NUMBER_1 wood carvings
+NUMBER_1 people * NUMBER_2 times as many people = VAR_0
+NUMBER_1 years + VAR_0 = just NUMBER_2 times as old * ( NUMBER_1 years + VAR_1 ) ; VAR_0 = NUMBER_0 times * VAR_1
+NUMBER_0 cherry tomatoes / small jars which can contain NUMBER_1 cherry tomatoes at a time = VAR_0
+VAR_0 = ( NUMBER_0 miles / NUMBER_1 miles per hour )
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars * VAR_1 ) = NUMBER_3 dollars that ; VAR_0 + VAR_1 = NUMBER_0 dollars
+NUMBER_0 feet + NUMBER_1 feet taller = VAR_0
+NUMBER_0 of the students in the band + NUMBER_1 of the students in the band = VAR_0
+VAR_0 = ( $ NUMBER_0 * NUMBER_1 bottle caps )
+an average of a NUMBER_4 % = ( ( ( ( the following grades NUMBER_0 % + NUMBER_1 % ) + NUMBER_2 % ) + NUMBER_3 % on her first 4 math quizzes ) + VAR_0 ) / 5.0
+NUMBER_0 * VAR_0 - a number decreased by NUMBER_1 = NUMBER_2
+VAR_0 = ( NUMBER_0 geese + NUMBER_1 ducks in the marsh )
+VAR_0 = ( NUMBER_0 oranges that must be put away in boxes / NUMBER_1 boxes )
+VAR_0 = ( NUMBER_0 people / NUMBER_1 buses to take people )
+NUMBER_0 dollars + VAR_0 = NUMBER_1 dollars
+( ( VAR_0 - NUMBER_0 VAR_0 ) * VAR_1 ) + ( VAR_0 * VAR_2 ) = 0.0 ; ( VAR_1 - VAR_2 ) * NUMBER_1 VAR_0 = 1.0 ; VAR_1 * VAR_0 = 1.0
+VAR_0 = a Batman game for $ NUMBER_0 + a strategy game for $ NUMBER_1 + a Superman game for $ NUMBER_2
+NUMBER_0 VAR_0 * 1 to NUMBER_1 = VAR_0
+NUMBER_1 of a mile + NUMBER_1 of a mile + NUMBER_2 of a mile more = VAR_0
+( NUMBER_0 liters * VAR_0 ) + ( NUMBER_1 * VAR_1 ) = a total of NUMBER_2 dollars ; VAR_0 = VAR_1 - NUMBER_3 cents per liter cheaper than VAR_1 * 0.01
+( less than NUMBER_2 times * VAR_0 ) - NUMBER_1 = NUMBER_0
+VAR_0 + VAR_1 = NUMBER_0 in the whole group ; VAR_0 = 2.0 * VAR_1
+VAR_0 = NUMBER_0 dollars + ( NUMBER_1 dollars per brick * VAR_1 ) ; VAR_0 = NUMBER_2 dollars per brick * VAR_1
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = a total of NUMBER_0 tickets
+NUMBER_0 basketball games = VAR_0 + NUMBER_1 games
+VAR_0 = ( NUMBER_0 squirrels - a tree with NUMBER_1 nuts )
+NUMBER_3 * VAR_0 = VAR_1 - NUMBER_2 less than the VAR_1 digit ; VAR_0 + VAR_1 = NUMBER_0 ; VAR_2 = ( 10.0 * VAR_0 ) + VAR_1
+( NUMBER_0 hamburgers * VAR_0 ) + ( NUMBER_1 servings of french fries * VAR_1 ) = NUMBER_2 dollars ; VAR_1 = NUMBER_3 cents + VAR_0
+NUMBER_0 crayons / packs of NUMBER_1 = VAR_0
+NUMBER_0 million + ( 0.275000.0 * VAR_0 ) = about NUMBER_1 millions households + ( an average rate of NUMBER_2 million households * VAR_0 )
+1.0 + VAR_0 = VAR_1 ; VAR_0 * VAR_1 = NUMBER_0
+( ( NUMBER_0 cents * VAR_0 ) * 0.01 ) - ( ( NUMBER_1 cents for every problem done incorrectly * VAR_1 ) * 0.01 ) = 0.01 ; VAR_0 + VAR_1 = the end of NUMBER_2 problems
+$ NUMBER_0 + her $ NUMBER_1 + VAR_0 = a $ NUMBER_2 bill
+$ NUMBER_0 / 5.0 = VAR_0
+( NUMBER_0 dollars each * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 stamps
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_2 dollars ; VAR_0 + VAR_1 = sales from NUMBER_3 tickets sold
+VAR_0 = ( NUMBER_0 mile + NUMBER_1 of a mile )
+VAR_0 = ( NUMBER_0 fans at the basketball game / NUMBER_1 sets of bleachers )
+VAR_0 = ( NUMBER_0 cents + NUMBER_1 cents )
+NUMBER_0 of the apartments + NUMBER_1 = VAR_0
+( $ NUMBER_0 for each house she cleans * NUMBER_1 houses ) = VAR_0 * 12.0
+0.05 * VAR_0 + 0.1 * VAR_1 = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 coins
+VAR_0 = NUMBER_0 gallon of water - only NUMBER_1 gallon of water
+( 1.0 + ( an NUMBER_1 % increase over last years production * 0.01 ) ) * VAR_0 = VAR_1 ; NUMBER_0 computers per month + VAR_0 = VAR_1
+VAR_0 - NUMBER_0 = NUMBER_1 marbles left
+VAR_0 = NUMBER_0 dollars + ( ( the first NUMBER_3 dollars for each additional the first NUMBER_4 of a mile * ( VAR_1 - the first NUMBER_4 ) ) / the first NUMBER_4 ) ; VAR_1 = NUMBER_6 miles ; VAR_2 = VAR_0 * ( NUMBER_5 + ( the driver of the taxi NUMBER_7 % * 0.01 ) )
+( NUMBER_2 times the VAR_0 number * VAR_0 ) - ( The difference between NUMBER_0 numbers * VAR_1 ) = NUMBER_3 ; VAR_0 - VAR_1 = NUMBER_1
+( ( part at NUMBER_5 % * 0.01 ) * VAR_0 ) + ( ( part at NUMBER_4 % * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 dollars ; VAR_0 = NUMBER_2 people * VAR_2 ; VAR_1 = 2.0 * VAR_2
+( NUMBER_0 + VAR_0 ) * NUMBER_1 = NUMBER_2
+a trumpet for $ NUMBER_0 + a song book which was $ NUMBER_1 = VAR_0
+( ( NUMBER_2 % alcohol * 0.01 ) * VAR_0 ) + ( ( NUMBER_3 % alcohol * 0.01 ) * VAR_1 ) = a NUMBER_5 % alcohol solution * 0.01 * NUMBER_4 liters ; VAR_0 + VAR_1 = NUMBER_4 liters
+VAR_0 = NUMBER_0 scissors + NUMBER_1 scissors
+VAR_0 = ( NUMBER_0 + NUMBER_1 )
+NUMBER_2 + VAR_0 = ( ( ( ( NUMBER_2 + VAR_0 ) + VAR_1 ) - NUMBER_2 ) * NUMBER_3 % ) * 0.01 ; VAR_0 = ( ( VAR_0 + VAR_1 ) * NUMBER_0 % of whom were boys ) * 0.01
+The ages of NUMBER_1 brothers * VAR_0 = NUMBER_2 years + VAR_1 ; VAR_2 = 2.0 + VAR_0 ; VAR_1 = 2.0 + VAR_2
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_2 dollars * VAR_1 ) = A total of NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dinners
+NUMBER_0 ear muffs + NUMBER_1 more = VAR_0
+NUMBER_0 pounds of sand travels to a construction yard - NUMBER_1 pounds of sand along the way = VAR_0
+VAR_0 = NUMBER_0 inch - NUMBER_1 inch
+VAR_0 = ( ( NUMBER_0 pictures + NUMBER_1 ) - NUMBER_2 )
+NUMBER_0 dollars per day + ( NUMBER_1 cents per VAR_0 to rent a certain car * 0.01 * VAR_0 ) = NUMBER_2 dollars + ( day plus NUMBER_3 cents per VAR_0 * 0.01 * VAR_0 )
+NUMBER_0 fish + VAR_0 = NUMBER_1 fish
+VAR_0 = ( ( NUMBER_2 games + NUMBER_2 games ) - NUMBER_2 games )
+$ NUMBER_0 for grapes + $ NUMBER_1 for cherries = VAR_0
+NUMBER_0 cakes + NUMBER_1 = VAR_0
+NUMBER_0 of a tank of gas - NUMBER_1 of a tank of gas = VAR_0
+VAR_0 = NUMBER_0 cup of yellow raisins + NUMBER_1 cup of black raisins
+a NUMBER_0 dollars monthly fee + ( ( 1a NUMBER_0 dollars monthly fee * 0.01 ) * VAR_0 ) = NUMBER_2 dollars
+VAR_0 = $ NUMBER_0 + $ NUMBER_1 in it
+VAR_0 = ( NUMBER_0 erasers + NUMBER_1 more erasers )
+VAR_0 = ( NUMBER_0 cents to buy candy / NUMBER_1 cents )
+VAR_0 + VAR_1 = NUMBER_0 dollars ; VAR_0 = ( NUMBER_2 of the amount donated by class B * VAR_1 ) - NUMBER_1 dollars
+VAR_0 + VAR_1 = NUMBER_1 regular season games ; VAR_0 = ( 2.0 * VAR_1 ) + NUMBER_0 more
+( 5.0 * VAR_0 ) + ( 10.0 * VAR_1 ) = worth NUMBER_0 points ; VAR_0 + VAR_1 = NUMBER_1 5-point
+( 5.0 * VAR_0 ) + ( 10.0 * VAR_1 ) = NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 bills
+VAR_0 = NUMBER_0 erasers + NUMBER_1 erasers
+VAR_0 = ( ( NUMBER_0 girls + NUMBER_1 boys trying out for the schools basketball team ) - only NUMBER_2 of them )
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_0 = NUMBER_1 * VAR_1
+NUMBER_0 consecutive even integers * VAR_0 = ( NUMBER_0 consecutive even integers + VAR_0 ) + NUMBER_1 ; VAR_1 = NUMBER_0 consecutive even integers + VAR_0
+( ( NUMBER_5 % vitamin B12 * 0.01 ) * VAR_0 ) + ( ( the other NUMBER_4 % vitamin B12 * 0.01 ) * VAR_1 ) = NUMBER_1 units of vitamin B12 ; ( ( NUMBER_3 % vitamin E * 0.01 ) * VAR_0 ) + ( ( NUMBER_5 % vitamin B12 * 0.01 ) * VAR_1 ) = NUMBER_1 units of vitamin B12
+$ NUMBER_0 - ( $ NUMBER_1 + $ NUMBER_2 ) = VAR_0
+VAR_0 = NUMBER_0 - NUMBER_1 of Joan 's green marbles
+VAR_0 = ( NUMBER_2 pizzas * $ NUMBER_1 each )
+( NUMBER_1 * VAR_0 ) + ( NUMBER_2 * VAR_1 ) = NUMBER_3 tires that needed to be replaced to due to damage ; VAR_0 + VAR_1 = NUMBER_0 vehicles
+VAR_0 = NUMBER_0 + NUMBER_1 the nails
+NUMBER_0 dozen golf balls * 12.0 = VAR_0
+VAR_0 = NUMBER_0 baseball cards - NUMBER_1 of Mike 's baseball cards
+$ NUMBER_0 - ( NUMBER_1 books * $ NUMBER_2 ) = VAR_0
+VAR_0 = NUMBER_0 kilometers + VAR_1 ; VAR_1 = NUMBER_1 * VAR_0
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 people
+VAR_0 = $ NUMBER_1 - $ NUMBER_0
+VAR_0 + ( NUMBER_1 times the VAR_1 * VAR_1 ) = NUMBER_2 ; VAR_0 + VAR_1 = NUMBER_0
+( NUMBER_4 pencils * VAR_0 ) + ( NUMBER_1 pens * VAR_1 ) = a total of NUMBER_2 dollars ; ( NUMBER_3 pencils * VAR_0 ) + ( NUMBER_4 pencils * VAR_1 ) = NUMBER_5 dollars
+( A NUMBER_0 % tax * 0.01 ) * VAR_0 = NUMBER_2 dollars in tax on the toy VAR_0 ; ( VAR_1 + VAR_0 ) + ( ( A NUMBER_0 % tax * 0.01 ) * VAR_0 ) = NUMBER_1 dollars
+( NUMBER_1 identical VAR_0 * VAR_0 ) + ( NUMBER_0 identical VAR_1 * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_4 of the same VAR_0 * VAR_0 ) + ( NUMBER_3 of the same VAR_1 * VAR_1 ) = NUMBER_5 dollars
+( ( ( NUMBER_1 % * 0.01 ) * VAR_0 ) + ( ( a return of NUMBER_2 % anually * 0.01 ) * VAR_1 ) ) + ( ( a return of NUMBER_3 % * 0.01 ) * VAR_2 ) = ( NUMBER_0 dollars * NUMBER_4 % ) * 0.01 ; ( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 dollars ; VAR_0 = VAR_1
+VAR_0 = VAR_1 + ( 10.0 * VAR_2 ) ; VAR_1 + VAR_2 = NUMBER_1 ; VAR_2 + ( 10.0 * VAR_1 ) = NUMBER_0 more than the original VAR_0 + VAR_0
+( NUMBER_1 dollars for VAR_0 * VAR_0 ) + ( NUMBER_2 dollars for VAR_1 * VAR_1 ) = NUMBER_3 dollars available for cultivating these crops ; VAR_0 + VAR_1 = NUMBER_0 acres
+( NUMBER_1 dollars for an order of popcorn VAR_0 * VAR_0 ) + ( NUMBER_0 dollars for a VAR_1 dinner * VAR_1 ) = NUMBER_3 dollars0 dollars for an order of popcorn VAR_0 ; VAR_0 + VAR_1 = NUMBER_2 orders0 dollars for a VAR_1 dinner
+NUMBER_0 watermelons - NUMBER_1 watermelons = VAR_0
+NUMBER_0 dollars + ( NUMBER_1 dollars per VAR_0 * VAR_0 ) = NUMBER_2 dollars + ( NUMBER_3 dollars per VAR_0 * VAR_0 )
+VAR_0 = ( NUMBER_1 apples + NUMBER_1 apples )
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 pounds ; VAR_0 = NUMBER_1 times the weight of the VAR_1 * VAR_1 ; VAR_2 = ( 3.0 * VAR_1 ) + NUMBER_2 pounds
+NUMBER_0 miles per gallon of gas * NUMBER_1 gallons of gas = VAR_0
+VAR_0 = NUMBER_0 football games + NUMBER_1 games
+NUMBER_0 * ( 0.25 + 0.5 + 0.1 ) = VAR_0
+VAR_0 = ( ( NUMBER_0 pieces of clothing to wash - NUMBER_1 of them ) / NUMBER_2 equal loads )
+VAR_0 = ( NUMBER_0 dollars / NUMBER_1 months use ) * NUMBER_2 months
+NUMBER_0 bags of cookies * NUMBER_1 cookies in each bag = VAR_0
+VAR_0 = ( NUMBER_0 birds - NUMBER_1 nests )
+VAR_0 = ( NUMBER_0 blocks + another NUMBER_1 )
+VAR_0 = ( NUMBER_1 seashells in her collection - NUMBER_0 seashells )
+( VAR_0 + VAR_1 ) * VAR_2 = 1.0 ; a house in NUMBER_0 VAR_2 * VAR_0 = 1.0 ; NUMBER_1 VAR_2 * VAR_1 = 1.0
+0.05 * VAR_0 + 0.25 * VAR_1 = NUMBER_1 dollars ; VAR_1 = NUMBER_0 % * 0.01 * VAR_0
+( a NUMBER_1 % VAR_0 mixture * 0.01 ) * NUMBER_0 liters = VAR_0 ; ( NUMBER_2 % * 0.01 ) * ( NUMBER_0 liters + VAR_1 ) = VAR_0
+NUMBER_1 * ( NUMBER_3 + ( NUMBER_1 * VAR_0 ) ) = ( NUMBER_2 * VAR_0 ) + NUMBER_3
+VAR_0 = ( NUMBER_2 hours * ( NUMBER_0 hours - NUMBER_1 of them ) )
+VAR_0 = ( NUMBER_0 feet * NUMBER_1 feet )
+VAR_0 + ( 2.0 * VAR_1 ) = a total of NUMBER_1 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+VAR_0 = ( NUMBER_0 boys + NUMBER_1 more boys )
+VAR_0 + VAR_1 = NUMBER_0 dollars ; VAR_0 = NUMBER_1 dollars + VAR_1
+( NUMBER_2 dollars * VAR_0 ) + ( NUMBER_3 dollars per part * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + VAR_1 = NUMBER_1 parts
+( a movie theater charges NUMBER_0 dollars for VAR_0 * VAR_0 ) + ( NUMBER_1 dollars for VAR_1 * VAR_1 ) = NUMBER_3 dollars ; VAR_0 = NUMBER_2 more VAR_0 than VAR_1 + VAR_1
+( NUMBER_0 * VAR_0 ) + ( NUMBER_3 pencils * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 pencils * VAR_0 ) + ( NUMBER_4 VAR_1 * VAR_1 ) = NUMBER_5 dollars ; VAR_2 = NUMBER_6 VAR_1 * VAR_1
+( NUMBER_1 dollars * VAR_0 ) + ( NUMBER_0 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 dollars
+NUMBER_0 orange marbles - Sam NUMBER_1 of the marbles = VAR_0
+VAR_0 = ( NUMBER_0 candies + NUMBER_1 )
+( NUMBER_0 dollars per pound * VAR_0 ) + ( NUMBER_1 VAR_0 * NUMBER_2 dollars per pound ) = NUMBER_3 dollars per pound * ( NUMBER_1 VAR_0 + VAR_0 )
+NUMBER_0 + another NUMBER_1 of a mile with her father = VAR_0
+a bag of NUMBER_0 nails / exactly NUMBER_1 nails = VAR_0
+NUMBER_1 more than the original VAR_0 + VAR_0 = ( 10.0 * VAR_1 ) + VAR_2 ; VAR_0 = ( 10.0 * VAR_2 ) + VAR_1 ; VAR_1 = NUMBER_0 * VAR_2
+VAR_0 = NUMBER_0 books - NUMBER_1 books
+VAR_0 - NUMBER_0 = NUMBER_1 Pokemon cards
+NUMBER_0 of an ounce + NUMBER_1 of an ounce + NUMBER_2 of an ounce = VAR_0
+NUMBER_0 pizzas * NUMBER_1 slices = VAR_0
+NUMBER_0 players * NUMBER_1 basketballs = VAR_0
+VAR_0 = NUMBER_0 coats - NUMBER_1 coats
+VAR_0 = NUMBER_1 mile + NUMBER_1 mile + NUMBER_2 mile
+VAR_0 = ( NUMBER_0 dollars an hour * ( NUMBER_2 hours + NUMBER_2 hours ) )
+( NUMBER_0 dollars for adults * VAR_0 ) + ( NUMBER_1 dollars for students * VAR_1 ) = a total of NUMBER_3 dollars0 dollars for students ; VAR_0 + VAR_1 = NUMBER_2 tickets
+VAR_0 = ( NUMBER_0 glass bottles + NUMBER_1 aluminum cans )
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = A group of NUMBER_2 moviegoers
+VAR_0 + VAR_1 = NUMBER_0 pounds ; VAR_1 = ( NUMBER_2 * VAR_0 ) - NUMBER_1
+NUMBER_1 marbles + VAR_0 = NUMBER_2 times as many marbles as Mary * ( NUMBER_1 marbles + VAR_1 ) ; VAR_0 = NUMBER_0 more marbles than Mary has + VAR_1
+NUMBER_0 hamburgers = Only NUMBER_1 + 6.0
+( ( one earning NUMBER_1 % annual interest * 0.01 ) * VAR_0 ) + ( ( the other earning NUMBER_4 % annual interest * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = a total of NUMBER_0 dollars
+VAR_0 = NUMBER_1 pound of green peppers + NUMBER_1 pound of green peppers
+VAR_0 = ( NUMBER_1 gumballs / packages of NUMBER_0 )
+VAR_0 = ( ( NUMBER_2 puppies when another NUMBER_2 were brought in + NUMBER_2 puppies when another NUMBER_2 were brought in ) / NUMBER_2 puppies when another NUMBER_2 were brought in )
+NUMBER_0 buses * NUMBER_1 students = VAR_0
+VAR_0 = NUMBER_0 dimes - NUMBER_1 dimes
+VAR_0 = NUMBER_1 cup of walnuts + NUMBER_1 cup of walnuts
+( this car for NUMBER_2 days * full size car for NUMBER_0 dollars per day ) + ( NUMBER_1 dollars per VAR_0 * VAR_0 ) = NUMBER_3 dollars to spend
+( NUMBER_1 cents * 0.01 * VAR_0 ) + ( only NUMBER_2 cents a bushel * 0.01 * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 bushels
+NUMBER_0 oak trees + NUMBER_1 more oak trees = VAR_0
+VAR_0 = NUMBER_1 dollars + ( ( NUMBER_1 dollars * items NUMBER_0 % ) * 0.01 )
+VAR_0 - ( NUMBER_0 of them * VAR_0 ) = VAR_1 ; VAR_1 - ( NUMBER_1 of the VAR_1 oranges * VAR_1 ) = NUMBER_2 oranges left
+NUMBER_0 hamburgers / 7.0 = VAR_0
+NUMBER_1 kilometers / ( An airplane whose speed in still air is NUMBER_0 kilometers per hour + VAR_0 ) = NUMBER_2 kilometers against the VAR_0 / ( An airplane whose speed in still air is NUMBER_0 kilometers per hour - VAR_0 )
+NUMBER_0 dollars a month + ( a NUMBER_1 % commission on all of his VAR_0 * 0.01 * VAR_0 ) = at least NUMBER_2 dollars
+VAR_0 = ( NUMBER_0 boxes of chocolates * NUMBER_1 pieces )
+an average of at least NUMBER_5 = ( ( ( ( NUMBER_0 + NUMBER_1 ) + NUMBER_2 ) + NUMBER_4 ) + VAR_0 ) / 5.0
+VAR_0 = ( NUMBER_1 cats - NUMBER_0 cats )
+VAR_0 = ( NUMBER_0 skittles - NUMBER_1 M&M 's )
+( NUMBER_0 varsity VAR_0 in crew + NUMBER_1 in swimming ) + NUMBER_2 in soccer = VAR_0 ; ( VAR_1 + ( only NUMBER_5 lettered in all sports * VAR_2 ) ) + ( NUMBER_6 * VAR_3 ) = VAR_0 ; ( VAR_1 + VAR_2 ) + VAR_3 = NUMBER_3 students ; VAR_3 = only NUMBER_5 lettered in all sports
+VAR_0 = NUMBER_1 algae plants - NUMBER_0 algae plants
+VAR_0 = NUMBER_0 inches - NUMBER_1 inches taller than the VAR_0 player
+( ( NUMBER_4 % * 0.01 ) * VAR_0 ) + ( ( NUMBER_2 % * 0.01 ) * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+VAR_0 = NUMBER_1 kittens - NUMBER_2
+VAR_0 = NUMBER_0 acre - NUMBER_1 acre
+( VAR_0 + VAR_1 ) + VAR_2 = a total of NUMBER_2 points ; VAR_0 = NUMBER_0 more points + VAR_2 ; VAR_1 = VAR_2 - NUMBER_1 points
+VAR_0 = ( ( NUMBER_2 dollars + NUMBER_2 dollars ) / NUMBER_2 dollars )
+NUMBER_3 * ( VAR_0 + ( the NUMBER_1 's digit * VAR_1 ) ) = NUMBER_2 * VAR_2 ; VAR_1 = NUMBER_0 more + VAR_0 ; VAR_2 = VAR_1 + ( the NUMBER_1 's digit * VAR_0 )
+VAR_0 = ( ( NUMBER_0 math problems + NUMBER_1 spelling problems ) / NUMBER_2 problems )
+VAR_0 = ( ( NUMBER_0 cupcakes + NUMBER_2 more ) - NUMBER_1 of them )
+VAR_0 = a combined total of NUMBER_0 grams of jelly - NUMBER_1 grams of blueberry jelly
+NUMBER_0 of the garments + NUMBER_1 = VAR_0
+VAR_0 = NUMBER_0 hockey games + NUMBER_1 games
+VAR_0 = NUMBER_0 orange balloons - NUMBER_1 of them
+523.0 + VAR_0 = NUMBER_0 seats
+VAR_0 = NUMBER_0 part-time employees + NUMBER_1 full-time employees
+NUMBER_0 blue marbles / NUMBER_1 times more blue marbles than Tim = VAR_0
+NUMBER_0 dimes in his bank - NUMBER_1 of his dimes = VAR_0
+NUMBER_0 kilometers per hour * ( NUMBER_3 hour + VAR_0 ) = a parallel track at NUMBER_2 kilometers per hour * VAR_0 ; VAR_1 = a parallel track at NUMBER_2 kilometers per hour * VAR_0
+VAR_0 = ( ( NUMBER_0 dollars a pound * NUMBER_2 pounds ) + ( NUMBER_1 dollars a pound * NUMBER_3 pounds of the carob candy ) ) / ( NUMBER_2 pounds + NUMBER_3 pounds of the carob candy )
+( 1.0 - sale for NUMBER_0 % * 0.01 ) * NUMBER_1 dollars = VAR_0
+VAR_0 = NUMBER_0 loaf of wheat bread + NUMBER_1 loaf of white bread
+NUMBER_0 liters of brine * a concentration of NUMBER_1 grams per liter = ( NUMBER_0 liters of brine - VAR_0 ) * NUMBER_2 grams per liter
+VAR_0 = exactly NUMBER_0 cup of oil + NUMBER_1 cups of water
+VAR_0 = NUMBER_0 inches - NUMBER_1 inches taller than the shortest player
+NUMBER_0 + NUMBER_1 of an inch = VAR_0
+NUMBER_0 of Joe 's VAR_0 * VAR_0 = NUMBER_1 dollars in taxes
+$ NUMBER_0 - ( ( a sweater for $ NUMBER_1 + a T-shirt for $ NUMBER_2 ) + a pair of shoes for $ NUMBER_3 ) = VAR_0
+VAR_0 = NUMBER_1 eggs - NUMBER_0 eggs
+VAR_0 = ( NUMBER_0 elementary schools * NUMBER_1 students in each school )
+NUMBER_0 books + VAR_0 = NUMBER_1 books in her library
+( car 1 in NUMBER_3 hours + NUMBER_4 ) * VAR_0 = car 1 in NUMBER_3 hours * VAR_1 ; NUMBER_2 miles an hour + VAR_0 = VAR_1
+( ( NUMBER_1 * 0.01 ) * VAR_0 ) + ( ( The safer government bond fund yields only NUMBER_2 % . * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = A total of NUMBER_0 dollars
+VAR_0 = ( ( NUMBER_2 pieces of candy + NUMBER_1 ) - NUMBER_2 pieces of candy )
+( 0.01 * VAR_0 ) + ( 0.05 * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + VAR_1 = NUMBER_1 coins in the bank
+( NUMBER_0 + swam for NUMBER_1 of an hour ) + NUMBER_2 of an hour = VAR_0
+VAR_0 = ( the magic shop for NUMBER_0 dollars each * ( NUMBER_2 decks + NUMBER_2 decks ) )
+NUMBER_0 bracelets with star-shaped stones * VAR_0 = NUMBER_1 star-shaped stones
+( NUMBER_0 miles / VAR_0 ) - ( NUMBER_0 miles / ( NUMBER_1 miles + VAR_0 ) ) = NUMBER_2 hour
+( NUMBER_0 times a VAR_0 * VAR_0 ) - NUMBER_1 = 2.0 * VAR_0
+( ( 4.0 / NUMBER_0 VAR_0 ) * the experiment in NUMBER_1 VAR_0 ) + ( the experiment in NUMBER_1 VAR_0 * VAR_1 ) = 4.0 ; VAR_1 * VAR_0 = 4.0
+VAR_0 = ( more than NUMBER_2 times the sum * ( VAR_1 + VAR_2 ) ) + NUMBER_1 ; VAR_0 = VAR_1 + ( 10.0 * VAR_2 ) ; VAR_2 = VAR_1 - the two digit VAR_0 whose tens digit is NUMBER_0 less than the VAR_1 digit
+NUMBER_0 clown mobiles * each stuffed with NUMBER_1 clowns = VAR_0
+( NUMBER_2 dollars * VAR_0 ) + ( NUMBER_3 dollars each * VAR_1 ) = NUMBER_0 dollars ; VAR_0 + VAR_1 = the sale of NUMBER_1 tickets
+( VAR_0 + VAR_1 ) / 2.0 = NUMBER_1 dollars ; VAR_0 = ( 2.0 * VAR_1 ) - NUMBER_0 dollars
+( NUMBER_0 more VAR_0 + VAR_0 ) * ( VAR_1 - NUMBER_3 dollars ) = VAR_2 ; ( VAR_0 - NUMBER_2 less VAR_0 ) * ( NUMBER_3 dollars + VAR_1 ) = VAR_2 ; VAR_2 = VAR_0 * VAR_1
+0.5 + NUMBER_1 of a carton of rocky road ice cream + NUMBER_2 of a carton of strawberry cheesecake ice cream = VAR_0
+( NUMBER_4 bags of VAR_0 * VAR_0 ) + ( NUMBER_1 packages of cream cheese * VAR_1 ) = NUMBER_2 bags of VAR_0 ; ( NUMBER_3 bags of VAR_0 * VAR_0 ) + ( NUMBER_4 bags of VAR_0 * VAR_1 ) = NUMBER_5 bags of VAR_0
+NUMBER_0 DVDs - NUMBER_1 DVDs = VAR_0
+( NUMBER_0 children - NUMBER_1 of the children ) * ( $ dollars NUMBER_2 + VAR_0 ) = VAR_1 ; NUMBER_0 children * VAR_0 = VAR_1
+( ( kilograms of VAR_0 meat worth NUMBER_1 dollars per kilogram * VAR_0 ) + ( NUMBER_3 dollars per kilogram * NUMBER_2 kilograms of chicken meat ) ) + ( NUMBER_4 kilograms of beef meat * NUMBER_5 dollars per kilogram ) = ( ( NUMBER_4 kilograms of beef meat + VAR_0 ) + NUMBER_2 kilograms of chicken meat ) * NUMBER_0 kilograms of beef meat
+( an annual simple interest rate of NUMBER_1 % * 0.01 * VAR_0 ) + ( an annual simple interest rate of NUMBER_2 % * 0.01 * VAR_1 ) = an annual income of NUMBER_0 dollars ; VAR_0 + VAR_1 = NUMBER_3 dollars
+VAR_0 = ( ( NUMBER_0 students trying out for the school 's trivia teams - NUMBER_1 of them ) / NUMBER_2 groups )
+( ( NUMBER_1 * 0.01 ) * VAR_0 ) + ( NUMBER_0 liters of fluid - VAR_0 ) = ( a mixture that is NUMBER_2 % VAR_0 * 0.01 ) * NUMBER_0 liters of fluid ; VAR_1 = NUMBER_0 liters of fluid - VAR_0
+( NUMBER_3 * VAR_0 ) - VAR_1 = NUMBER_2 ; VAR_1 = ANOTHER BY NUMBER_0 + VAR_0
+VAR_0 = ( NUMBER_1 pieces of gum - NUMBER_0 more pieces of gum )
+VAR_0 = ( NUMBER_2 tickets * ( the ferris wheel NUMBER_0 times + the bumper cars NUMBER_1 times ) )
+VAR_0 = ( ( NUMBER_0 bottles of water + NUMBER_2 more ) - NUMBER_1 of them )
+( NUMBER_0 dollars for students * VAR_0 ) + ( NUMBER_1 dollars for VAR_1 admission * VAR_1 ) = NUMBER_3 dollars for VAR_1 admission ; VAR_0 + VAR_1 = NUMBER_2 tickets
+VAR_0 = ( NUMBER_0 touchdowns * NUMBER_1 points each )
+NUMBER_0 times a VAR_0 * VAR_0 = NUMBER_1 more than the VAR_0 + VAR_0
+( NUMBER_2 forks for each adult * VAR_0 ) + ( NUMBER_1 forks for each child * VAR_1 ) = NUMBER_3 forks for each child ; VAR_0 + VAR_1 = a big event that will host NUMBER_0 people
+( ( part at NUMBER_4 % * 0.01 ) * VAR_0 ) + ( ( the remainder at NUMBER_5 % simple interest * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars invested
+VAR_0 = ( NUMBER_0 red markers + NUMBER_1 blue markers )
+( NUMBER_1 miles per hour for the first NUMBER_2 hours * NUMBER_2 miles ) + ( 1.0 * VAR_0 ) = NUMBER_2 miles * 4.0
+VAR_0 = NUMBER_0 houses in Lincoln County + NUMBER_1
+NUMBER_2 + VAR_0 = VAR_1 ; NUMBER_2 + VAR_1 = VAR_2 ; NUMBER_1 consecutive numbers such * VAR_1 = ( VAR_0 + VAR_2 ) + NUMBER_3
+$ NUMBER_0 / NUMBER_1 total people = VAR_0
+VAR_0 = ( ( NUMBER_1 new cards + NUMBER_2 old cards ) / a binder with NUMBER_0 )
+0.05 * VAR_0 + 0.1 * VAR_1 = NUMBER_0 dollars ; VAR_2 = 2.0 * VAR_1 ; VAR_3 = VAR_0 - NUMBER_1 ; 0.05 * VAR_3 + 0.1 * VAR_2 = NUMBER_2 dollars
+( NUMBER_2 minutes * VAR_0 ) + ( NUMBER_2 minutes * VAR_1 ) = NUMBER_0 centimeters ; VAR_0 = rates that differ by NUMBER_1 centimeters per minute + VAR_1
+VAR_0 = ( NUMBER_1 apples - NUMBER_0 apples )
+VAR_0 = ( NUMBER_1 cookies / NUMBER_0 friends )
+VAR_0 = ( ( NUMBER_0 - NUMBER_1 of them ) / NUMBER_2 games )
+( 10.0 * VAR_0 ) + VAR_1 = ( ( 10.0 * VAR_1 ) + VAR_0 ) + NUMBER_1 ; NUMBER_0 times the sum of the digits of a 2-digit VAR_2 * ( VAR_1 + VAR_0 ) = ( 10.0 * VAR_1 ) + VAR_0 ; VAR_2 = ( 10.0 * VAR_1 ) + VAR_0
+VAR_0 - NUMBER_1 marbles = NUMBER_1 marbles + VAR_1 ; VAR_0 = NUMBER_0 * VAR_1
+VAR_0 = ( ( NUMBER_2 dollars mowing lawns + NUMBER_1 dollars ) - NUMBER_2 dollars mowing lawns )
+VAR_0 = ( NUMBER_1 bottle caps + NUMBER_1 bottle caps )
+( NUMBER_9 printers * VAR_0 ) + ( the second prints for NUMBER_7 minute * VAR_1 ) = NUMBER_1 lines ; ( the second prints for NUMBER_7 minute * VAR_0 ) + ( NUMBER_9 printers * VAR_1 ) = NUMBER_10 lines
+VAR_0 = A tennis racket that regularly sells for NUMBER_0 dollars - ( A tennis racket that regularly sells for NUMBER_0 dollars * sale for NUMBER_1 % * 0.01 )
+NUMBER_0 + VAR_0 = NUMBER_1 * ( NUMBER_2 * VAR_0 )
+NUMBER_0 gumballs for eight cents each * 8.0 = VAR_0
+VAR_0 = NUMBER_0 crayons in the drawer + NUMBER_1 crayons on the desk + NUMBER_2 crayons
+NUMBER_0 buckets of seeds - NUMBER_1 buckets left = VAR_0
+VAR_0 = ( NUMBER_0 children / NUMBER_1 children in every seat )
+2.0 * VAR_0 = ( NUMBER_2 * VAR_1 ) - NUMBER_1 ; 2.0 + VAR_0 = VAR_2 ; 2.0 + VAR_2 = VAR_1
+( ( NUMBER_6 / one sheep in NUMBER_1 hours ) + ( NUMBER_6 / one sheep in NUMBER_3 hours ) ) + ( NUMBER_6 / one sheep in NUMBER_5 hours ) = NUMBER_6 / VAR_0
+( less than NUMBER_1 * VAR_0 ) - NUMBER_0 = NUMBER_2 the VAR_0 * VAR_0
+( part at NUMBER_4 % annual interest * 0.01 * VAR_0 ) + ( the rest at NUMBER_5 % annual interest * 0.01 * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 dollars
+NUMBER_1 more than the VAR_0 * ( NUMBER_0 + VAR_0 ) = NUMBER_1 more than the VAR_0 + VAR_0
+VAR_0 = NUMBER_0 baseball cards - NUMBER_1 of Dan 's baseball cards
+VAR_0 = NUMBER_1 % * 0.01 * NUMBER_0 milliliters ; VAR_1 = ( 1.0 - NUMBER_1 % * 0.01 ) * NUMBER_0 milliliters
+NUMBER_0 minutes / 60.0 = VAR_0
+VAR_0 = ( a box of NUMBER_0 crayons - NUMBER_1 left )
+NUMBER_0 roses in the vase + VAR_0 = NUMBER_1 roses in the vase
+VAR_0 = ( NUMBER_0 cups of cereal / NUMBER_1 cups )
+VAR_0 = ( NUMBER_0 cup + NUMBER_1 cup of sugar for the cake )
+VAR_0 = ( NUMBER_0 points * NUMBER_1 perfect games in a row )
+( NUMBER_2 hours * VAR_0 ) + ( NUMBER_2 hours * VAR_1 ) = a distance of NUMBER_0 kilometers - NUMBER_3 kilometers ; VAR_0 = a difference of NUMBER_1 kilometers per hour in their speeds + VAR_1
+( NUMBER_0 * VAR_0 ) + ( NUMBER_1 * VAR_0 ) = NUMBER_2 miles
+NUMBER_0 - ( NUMBER_1 * VAR_0 ) = ( - 10.0 ) + VAR_0
+( East at NUMBER_0 miles per hour * VAR_0 ) + ( NUMBER_1 miles per hour * VAR_0 ) = NUMBER_2 miles
+a given paper route in NUMBER_0 hours * VAR_0 = 1.0 ; the same route in NUMBER_1 hours * VAR_1 = 1.0 ; VAR_2 * ( VAR_0 + VAR_1 ) = 1.0
+( ( $ NUMBER_0 in September + $ NUMBER_1 ) + $ NUMBER_2 ) - $ NUMBER_3 = VAR_0
+( NUMBER_1 * VAR_0 ) - VAR_1 = NUMBER_2 ; VAR_0 + VAR_1 = NUMBER_0
+VAR_0 = NUMBER_0 yellow marbles + NUMBER_1 yellow marbles
+a new pair of skates for NUMBER_1 dollars / NUMBER_0 dollars = VAR_0
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_1 = ( NUMBER_2 more than NUMBER_3 times the VAR_0 number * VAR_0 ) + The sum of NUMBER_2 numbers
+VAR_0 = a total of NUMBER_1 eggs - NUMBER_0 eggs
+VAR_0 = NUMBER_0 students in Central High School * ( 1.0 - NUMBER_1 % * 0.01 )
+( NUMBER_2 meters per minute * VAR_0 ) + ( NUMBER_3 meters minute * VAR_1 ) = NUMBER_0 meters from his school ; VAR_0 + VAR_1 = NUMBER_1 minutes or less ; VAR_2 = NUMBER_3 meters minute * VAR_1
+VAR_0 = ( ( NUMBER_0 points - NUMBER_2 ) / NUMBER_2 )
+( ( NUMBER_0 books about animals + NUMBER_1 book about outer space ) + NUMBER_2 books about trains ) * $ NUMBER_3 = VAR_0
+VAR_0 + VAR_1 = a total of NUMBER_0 seats ; VAR_0 = ( more than NUMBER_2 times the number * VAR_1 ) + NUMBER_1
+NUMBER_0 passengers + NUMBER_1 passengers = VAR_0
+VAR_0 = ( NUMBER_0 balloons this morning + NUMBER_1 balloons )
+NUMBER_0 dollars + ( NUMBER_1 dollars * VAR_0 ) = NUMBER_2 dollars * VAR_0
+( ( A NUMBER_4 % acid solution * 0.01 ) * VAR_0 ) + ( ( a NUMBER_5 % acid solution * 0.01 ) * VAR_1 ) = a NUMBER_3 % acid solution * 0.01 * NUMBER_2 liters ; VAR_0 + VAR_1 = NUMBER_2 liters
+( NUMBER_2 * VAR_0 ) + ( NUMBER_3 * VAR_1 ) = NUMBER_0 hits ; VAR_0 + VAR_1 = NUMBER_1 bats
+4.0 * ( NUMBER_0 dozen Pokemon cards * 12.0 ) = VAR_0
+VAR_0 = ( NUMBER_0 points * ( NUMBER_1 treasures + NUMBER_3 ) )
+VAR_0 = ( NUMBER_0 students riding on the school bus - NUMBER_1 students )
+NUMBER_0 dollars per day + ( NUMBER_1 dollars per mile * VAR_0 ) = NUMBER_2 dollars per day + ( NUMBER_3 dollars per mile * VAR_0 )
+0.5 * VAR_0 = NUMBER_0
+VAR_0 = NUMBER_0 pints of ice cream on Friday night + NUMBER_1 pint of ice cream
+NUMBER_0 maple trees + VAR_0 = NUMBER_1 maple trees in the park
+NUMBER_0 pencils / NUMBER_1 pencils in each pencil box = VAR_0
+VAR_0 = NUMBER_1 mile + NUMBER_1 mile + NUMBER_2 mile from the T-shirt
+NUMBER_0 origami papers / her NUMBER_1 cousins = VAR_0
+( NUMBER_0 pennies * 0.01 ) + ( NUMBER_1 pennies * 0.1 ) = VAR_0
+VAR_0 = ( ( NUMBER_0 carrots + NUMBER_2 more the next day ) - NUMBER_1 of them )
+( NUMBER_0 * VAR_0 ) - NUMBER_1 less than four times the smaller number = VAR_1 ; VAR_1 - VAR_0 = NUMBER_0
+VAR_0 = NUMBER_1 of them - NUMBER_0 bacteria
+( NUMBER_2 * VAR_0 ) + ( NUMBER_3 dollars * VAR_1 ) = NUMBER_1 dollars ; VAR_1 + VAR_0 = NUMBER_0 total items
+VAR_0 = ( NUMBER_0 students * NUMBER_1 stars each )
+( NUMBER_0 MP3 players * VAR_0 ) + ( NUMBER_1 sets of headphones * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 MP3 players * VAR_0 ) + ( NUMBER_4 sets of headphones * VAR_1 ) = NUMBER_5 dollars
+$ NUMBER_0 on shorts + $ NUMBER_1 on a shirt + $ NUMBER_2 on a jacket = VAR_0
+VAR_0 * ( 1.0 - ( NUMBER_1 % * 0.01 ) ) = NUMBER_0 dollars for a full night of music
+( VAR_0 + VAR_1 ) * VAR_2 = NUMBER_1 ; NUMBER_0 VAR_2 * VAR_0 = NUMBER_1 ; NUMBER_2 VAR_2 * VAR_1 = NUMBER_1
+NUMBER_0 blue balloons + NUMBER_1 blue balloons + NUMBER_2 blue balloons = VAR_0
+( ( ( NUMBER_2 * 1.0 ) / a given job in NUMBER_0 VAR_0 ) + ( ( 1.0 / a given job in NUMBER_0 VAR_0 ) * VAR_0 ) ) + ( ( 1.0 / NUMBER_1 VAR_0 ) * VAR_0 ) = 1.0
+( One special offers NUMBER_3 tacos * VAR_0 ) + ( NUMBER_4 enchiladas * VAR_1 ) = NUMBER_2 ; ( NUMBER_4 enchiladas * VAR_0 ) + VAR_1 = NUMBER_5
+( NUMBER_0 ducks * VAR_0 ) + ( NUMBER_1 pigs * VAR_1 ) = NUMBER_2 dollars ; ( NUMBER_3 ducks * VAR_0 ) + ( NUMBER_4 pigs * VAR_1 ) = NUMBER_5 pigs
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 tickets
+NUMBER_0 dollars + ( NUMBER_1 cents per card * 0.01 * VAR_0 ) = NUMBER_2 dollars + ( NUMBER_3 cents per card * 0.01 * VAR_0 )
+VAR_0 = ( ( Sarah baked NUMBER_0 cupcakes for her school 's bake sale . - NUMBER_1 ) / NUMBER_2 cupcake in each package )
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 dollars ; VAR_1 = 2.0 * VAR_0 ; VAR_2 = NUMBER_1 dollars for lunch
+NUMBER_0 metric tons = only NUMBER_1 of the world grain VAR_0 * VAR_0
+VAR_0 = NUMBER_0 quarters in his bank + NUMBER_1 quarters
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_2 dollars per kilogram * ( VAR_0 + VAR_1 ) ; VAR_0 + VAR_1 = a NUMBER_3 kilogram mixture
+a NUMBER_0 foot tree + ( a rate of NUMBER_1 feet every year * VAR_0 ) = NUMBER_2 feet
+VAR_0 = ( NUMBER_0 pounds of oranges * NUMBER_1 bags )
+NUMBER_0 dollars per pound = VAR_0 - NUMBER_1 dollars
+VAR_0 = ( NUMBER_1 pencils in the jar - NUMBER_0 pencils )
+VAR_0 = NUMBER_0 cantelopes + NUMBER_1 cantelopes + NUMBER_2 cantelopes
+( NUMBER_2 * VAR_0 ) - NUMBER_1 gallon = NUMBER_0 gallons per minute
+NUMBER_0 of an inch - NUMBER_1 of an inch = VAR_0
+( NUMBER_1 dollars each * VAR_0 ) + ( VAR_1 seats NUMBER_2 dollars each * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 tickets
+( two VAR_0 at an average speed of NUMBER_0 miles per hour * 2.0 ) + ( an average speed of NUMBER_1 miles per hour * VAR_0 ) = NUMBER_2 miles per hour * VAR_1 ; VAR_1 = 2.0 + VAR_0
+VAR_0 = ( NUMBER_1 * VAR_1 ) + NUMBER_0 ; VAR_1 + VAR_0 = NUMBER_2
+( NUMBER_1 vans * VAR_0 ) + ( NUMBER_1 vans * VAR_1 ) = NUMBER_2 students ; ( NUMBER_3 vans * VAR_0 ) + ( NUMBER_4 bus * VAR_1 ) = NUMBER_5 vans
+NUMBER_0 markers + her NUMBER_1 more markers = VAR_0
+( 2.0 * VAR_0 ) + ( 5.0 * VAR_1 ) = NUMBER_0 points ; VAR_0 + VAR_1 = NUMBER_1 questions
+( NUMBER_1 dollars on a unit of VAR_0 * VAR_0 ) + ( NUMBER_2 dollars on a unit of VAR_1 * VAR_1 ) = a profit of NUMBER_3 dollars ; VAR_1 = NUMBER_0 * VAR_0
+( ( NUMBER_0 dollars per 0.25-pound / 0.25 ) * VAR_0 ) + ( ( NUMBER_1 dollars per 0.25-pound / 0.25 ) * NUMBER_2 pounds of Brazil nuts ) = ( a mix that sells for NUMBER_3 dollars per 0.25-pound / 0.25 ) * ( NUMBER_2 pounds of Brazil nuts + VAR_0 )
+NUMBER_0 cents in his bank / 10.0 = VAR_0
+( ( NUMBER_0 % * 0.01 ) * VAR_0 ) + ( ( NUMBER_1 % * 0.01 ) * VAR_1 ) = ( a NUMBER_2 pound mixture * NUMBER_3 % protein ) * 0.01 ; VAR_0 + VAR_1 = a NUMBER_2 pound mixture
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 / VAR_1 = NUMBER_0
+( NUMBER_1 * VAR_0 ) + ( NUMBER_2 * VAR_1 ) = NUMBER_3 * VAR_2 ; VAR_0 = 1.0 + VAR_1 ; VAR_2 = 1.0 + VAR_0
+( NUMBER_0 * VAR_0 ) + NUMBER_1 = NUMBER_2
+$ NUMBER_0 * NUMBER_1 balls = VAR_0
+NUMBER_0 laps + NUMBER_1 laps = VAR_0
+VAR_0 = ( ( NUMBER_0 + NUMBER_1 of them ) - NUMBER_2 of them )
+VAR_0 = ( NUMBER_0 erasers in a box - NUMBER_1 erasers )
+( NUMBER_1 * VAR_0 ) + NUMBER_0 more = the same as NUMBER_2
+VAR_0 = NUMBER_0 + NUMBER_1 green marbles
+( NUMBER_2 * VAR_0 ) + 6.0 = NUMBER_1
+( NUMBER_0 dollars * VAR_0 for a NUMBER_2 VAR_0 work ) + ( ( 1.5 * NUMBER_0 dollars ) * VAR_0 ) = 11hour for a NUMBER_2 VAR_0 work
+VAR_0 = ( NUMBER_1 crayons / groups of NUMBER_0 )
+NUMBER_1 * VAR_0 = NUMBER_0 * VAR_1 ; VAR_0 = VAR_1 - NUMBER_2 fewer VAR_0 than VAR_1
+VAR_0 = ( ( NUMBER_0 dollars + NUMBER_1 more dollars ) - NUMBER_2 more dollars )
+VAR_0 + ( ( NUMBER_1 / a charge for each NUMBER_0 mile of the trip ) * VAR_1 ) = NUMBER_2 dollars ; VAR_0 + ( ( NUMBER_3 / a charge for each NUMBER_0 mile of the trip ) * VAR_1 ) = NUMBER_4 dollars ; VAR_0 + ( ( a NUMBER_5 mile trip / a charge for each NUMBER_0 mile of the trip ) * VAR_1 ) = VAR_2
+NUMBER_0 onions + NUMBER_1 onions + NUMBER_2 onions = VAR_0
+VAR_0 = a total of NUMBER_0 blood cells - NUMBER_1 blood cells
+VAR_0 = ( NUMBER_0 miles per gallon * NUMBER_1 gallons of gas )
+( NUMBER_2 * VAR_0 ) + NUMBER_1 = NUMBER_2 + VAR_0
+VAR_0 = ( NUMBER_2 dollars * ( NUMBER_1 bead necklaces + NUMBER_1 bead necklaces ) )
+NUMBER_2 * ( VAR_0 - NUMBER_1 ) = VAR_1 - NUMBER_0 ; VAR_0 = 2.0 * ( VAR_1 - NUMBER_0 )
+NUMBER_0 drums of grapes per day * NUMBER_1 days = VAR_0
+( 3.0 * VAR_0 ) + ( 2.0 * VAR_1 ) = a total of NUMBER_2 wheels ; VAR_1 = ( less than NUMBER_1 times the number * VAR_0 ) - NUMBER_0
+VAR_0 = ( NUMBER_0 rows * NUMBER_1 chairs in each row )
+VAR_0 = ( NUMBER_0 rows * NUMBER_1 columns of bean plans )
+VAR_0 = ( NUMBER_1 boxes of Samoas / NUMBER_1 boxes of Samoas )
+VAR_0 = ( NUMBER_0 pounds / NUMBER_1 pounds )
+( NUMBER_0 dollars for VAR_0 * VAR_0 ) + ( NUMBER_1 dollars for VAR_1 * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 people
+( NUMBER_0 VAR_0 compact disks * VAR_0 ) + ( NUMBER_1 * VAR_1 ) = compact disks for NUMBER_2 dollars ; ( NUMBER_3 VAR_0 compact disks * VAR_0 ) + ( NUMBER_4 * VAR_1 ) = compact disks for NUMBER_5 dollars
+( $ NUMBER_0 in September + ( $ NUMBER_1 + $ NUMBER_2 ) ) - $ NUMBER_3 = VAR_0
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = total receipts from the sale of NUMBER_2 tickets
+NUMBER_0 of a light-year + NUMBER_2 of a light-year from Planet X + NUMBER_2 of a light-year from Planet X = VAR_0
+VAR_0 = ( NUMBER_0 books a day * NUMBER_1 days )
+( here NUMBER_3 VAR_0 * VAR_1 ) - NUMBER_1 VAR_0 for that = VAR_0 ; ( NUMBER_2 VAR_0 * VAR_1 ) + here NUMBER_3 VAR_0 = VAR_0
+VAR_0 = ( NUMBER_2 hours * NUMBER_0 VAR_0 ) / NUMBER_1 hours
+VAR_0 = ( NUMBER_0 bottle caps + another NUMBER_1 )
+VAR_0 = NUMBER_0 hot dogs + NUMBER_1
+VAR_0 = NUMBER_0 turnips + NUMBER_1 turnips
+3.0 * NUMBER_0 pencils = VAR_0
+the ratio NUMBER_9 to NUMBER_2 * VAR_0 = NUMBER_9 numbers * VAR_1 ; NUMBER_9 numbers * ( VAR_0 - NUMBER_9 numbers ) = NUMBER_8 to NUMBER_9 * ( NUMBER_9 numbers + VAR_1 ) ; VAR_2 = VAR_0 + VAR_1
+VAR_0 = ( ( NUMBER_0 pieces of candy + NUMBER_1 ) - NUMBER_2 pieces )
+NUMBER_0 cents / 100.0 = VAR_0
+( NUMBER_2 dollars * VAR_0 ) + ( NUMBER_1 dollars * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_0 tickets
+VAR_0 = NUMBER_0 apples + NUMBER_1 apples + NUMBER_2 apples
+( VAR_0 + VAR_1 ) + VAR_2 = NUMBER_0 ; VAR_1 = 2.0 + VAR_0 ; VAR_2 = 2.0 + VAR_1
+VAR_0 = ( NUMBER_1 hours * ( NUMBER_0 rooms in a building - NUMBER_2 rooms ) )
+VAR_0 = $ NUMBER_0 total + $ NUMBER_1 for cherries
+the same number of calories as NUMBER_2 oranges * VAR_0 = NUMBER_1 bananas * VAR_1 ; VAR_0 = VAR_1 - NUMBER_0 fewer calories than a VAR_1
+( ( NUMBER_0 * VAR_0 ) / NUMBER_1 ) + NUMBER_2 = NUMBER_3
+VAR_0 + VAR_1 = NUMBER_1 ; VAR_0 - VAR_1 = NUMBER_0
+VAR_0 = ( NUMBER_1 crayons + NUMBER_1 crayons )
+VAR_0 = VAR_1 - NUMBER_1 miles per hour ; VAR_1 * ( the freight train in NUMBER_2 hours - NUMBER_0 ) = the freight train in NUMBER_2 hours * VAR_0
+NUMBER_0 dogwood trees + NUMBER_1 more dogwood trees = VAR_0
+VAR_0 + VAR_1 = NUMBER_0 ; VAR_0 - VAR_1 = NUMBER_1 more Republicans than Democrats
+( NUMBER_0 books * VAR_0 ) + ( NUMBER_1 of the same books * VAR_1 ) = NUMBER_3 dollars ; VAR_0 - NUMBER_2 dollars = VAR_1
+VAR_0 = NUMBER_0 pounds - NUMBER_1 pounds of frozen fruit
+( NUMBER_0 dollars * VAR_0 ) + ( NUMBER_1 dollars per pound for Sumatran coffee * VAR_1 ) = 20.0 * NUMBER_2 dollars per pound ; VAR_0 + VAR_1 = 20.0
+VAR_0 = NUMBER_0 the students in the band + NUMBER_1 the students in the band
+VAR_0 = ( NUMBER_0 cupcakes / NUMBER_1 children )
+( the NUMBER_1 's digit * VAR_0 ) + ( the NUMBER_4 's * VAR_1 ) = VAR_2 ; VAR_0 - ( NUMBER_2 * VAR_1 ) = the NUMBER_4 's ; VAR_2 / ( VAR_0 + VAR_1 ) = NUMBER_0
+VAR_0 = ( NUMBER_0 marbles in his collection - NUMBER_1 marbles )
+NUMBER_1 years + VAR_0 = NUMBER_2 of VAR_1 's age * ( NUMBER_1 years + VAR_1 ) ; VAR_0 = NUMBER_0 of VAR_1 's present age * VAR_1
+( NUMBER_1 % of the original price * 0.01 ) * VAR_0 = NUMBER_0 dollars
+2.0 * VAR_0 = ( 3.0 * VAR_0 ) - NUMBER_0 less than triple the same VAR_0
+NUMBER_0 grams of pepper - NUMBER_1 grams of the pepper to make some scrambled eggs = VAR_0
+( ( some NUMBER_2 % acid solution * 0.01 ) * VAR_0 ) + ( ( some NUMBER_3 % acid solution * 0.01 ) * VAR_1 ) = a NUMBER_5 % solution * 0.01 * NUMBER_0 ounces ; VAR_0 + VAR_1 = NUMBER_0 ounces
+VAR_0 = NUMBER_0 + NUMBER_1
+( 2.0 * VAR_0 ) + ( 3.0 * VAR_1 ) = a total of NUMBER_1 wheels ; VAR_0 + VAR_1 = NUMBER_0
+( NUMBER_1 points * VAR_0 ) + ( NUMBER_2 points * VAR_1 ) = NUMBER_3 points ; VAR_0 + VAR_1 = a test of NUMBER_0 problems
+a total of NUMBER_0 baseball games a month * NUMBER_1 months = VAR_0
+( ( NUMBER_2 hours + A worked alone for NUMBER_1 hours ) / VAR_0 ) + ( NUMBER_2 hours / VAR_1 ) = 1.0 ; ( a job in NUMBER_0 hours / VAR_0 ) + ( a job in NUMBER_0 hours / VAR_1 ) = 1.0
+NUMBER_0 + NUMBER_1 of a bag of white flour = VAR_0
+VAR_0 = NUMBER_0 VAR_1 in a day * NUMBER_1 VAR_0 per patient ; VAR_0 = NUMBER_2 VAR_0 per patient * VAR_1
+NUMBER_0 marbles + VAR_0 = NUMBER_1 marbles
+( NUMBER_1 dollars per VAR_0 * VAR_0 ) + ( NUMBER_0 dollars per VAR_1 * VAR_1 ) = a total of NUMBER_3 dollars ; VAR_0 + VAR_1 = NUMBER_2 tickets
+VAR_0 = NUMBER_0 pounds of honey - NUMBER_1 pounds of it
+VAR_0 = NUMBER_0 oranges + NUMBER_1 oranges
+( ( NUMBER_0 % hydrogen peroxide solution * 0.01 ) * VAR_0 ) + ( ( a bottle of NUMBER_1 % hydrogen peroxide solution * 0.01 ) * VAR_1 ) = a NUMBER_3 % hydrogen peroxide solution * 0.01 * NUMBER_2 milliliters ; VAR_0 + VAR_1 = NUMBER_2 milliliters
+VAR_0 = NUMBER_0 miles - NUMBER_1 miles
+VAR_0 = ( NUMBER_0 legs * NUMBER_1 bees )
+NUMBER_0 rulers in the drawer - NUMBER_1 rulers = VAR_0
+( 2.0 * VAR_0 ) + VAR_1 = another number is NUMBER_0 ; ( NUMBER_1 * VAR_0 ) - VAR_1 = NUMBER_2
+NUMBER_0 football games + NUMBER_1 football games = VAR_0
+NUMBER_0 DVDs * VAR_0 = $ NUMBER_1
+NUMBER_0 % saline solution * 0.01 * VAR_0 + NUMBER_1 % saline solution * 0.01 * VAR_1 = NUMBER_3 % saline solution * 0.01 * NUMBER_2 liters ; VAR_0 + VAR_1 = NUMBER_2 liters
+VAR_0 = 1 fish that was NUMBER_0 foot long - a second fish that was NUMBER_1 foot long
+VAR_0 = NUMBER_0 grams of pepper - NUMBER_1 grams of the pepper to make some scrambled eggs
+( rates of NUMBER_1 kilometers per hour + NUMBER_2 kilometers per hour ) * VAR_0 = NUMBER_0 kilometers
+VAR_0 = ( a football team gains NUMBER_0 yards - NUMBER_1 yards ) + gains NUMBER_2 yards
+a certain amount of NUMBER_4 % isopropyl mixture * 0.01 * VAR_0 + a NUMBER_2 % isopropyl solution * 0.01 * NUMBER_1 gallons = VAR_1 * NUMBER_3 % isopropyl * 0.01 ; VAR_0 + NUMBER_1 gallons = VAR_1
+( 10.0 * VAR_0 ) + VAR_1 = ( ( 10.0 * VAR_1 ) + VAR_0 ) + NUMBER_1 ; VAR_0 + VAR_1 = NUMBER_0 ; VAR_2 = ( 10.0 * VAR_0 ) + VAR_1
+( the store for NUMBER_2 dollars * VAR_0 ) - ( NUMBER_1 dollars * VAR_0 ) = NUMBER_0 dollars
+NUMBER_0 crayons in the drawer + NUMBER_1 more crayons = VAR_0
+( ( NUMBER_2 % pure acid * 0.01 ) * VAR_0 ) + ( ( NUMBER_3 % pure acid * 0.01 ) * VAR_1 ) = ( a solution that is NUMBER_5 % pure acid * 0.01 ) * NUMBER_4 square-centimeters ; VAR_0 + VAR_1 = NUMBER_4 square-centimeters
+VAR_0 = ( ( NUMBER_0 worksheets to grade + another NUMBER_2 ) - NUMBER_1 )
+NUMBER_0 glasses * VAR_0 = NUMBER_1 glasses of lemonade
+( VAR_0 + VAR_1 ) + VAR_2 = ( 2.0 * ( 2.0 + VAR_2 ) ) + 3 consecutive odd numbers whose sum is NUMBER_0 more than twice the next consecutive number ; VAR_1 = 2.0 + VAR_0 ; VAR_2 = 2.0 + VAR_1
+( NUMBER_1 dollars per hour * VAR_0 ) + ( NUMBER_2 dollars an hour * VAR_1 ) = a total of NUMBER_3 dollars for their work ; VAR_0 + VAR_1 = NUMBER_0 hours working on a new house
+( ( NUMBER_0 kilograms * an alloy that is NUMBER_1 % copper ) * 0.01 ) + ( ( kilograms of a second alloy that is NUMBER_2 % copper * VAR_0 ) * 0.01 ) = ( ( NUMBER_0 kilograms + VAR_0 ) * the first alloy to get a new alloy that is NUMBER_3 % copper ) * 0.01
+NUMBER_2 + VAR_0 = NUMBER_3 of the original VAR_1 * VAR_1 ; VAR_0 + VAR_2 = NUMBER_0 ; VAR_1 = ( the digit at NUMBER_1 's place * VAR_0 ) + VAR_2
+VAR_0 = ( NUMBER_2 problems on it * ( NUMBER_0 pages of math homework + NUMBER_1 pages of reading homework ) )
+VAR_0 - VAR_1 * NUMBER_1 year = NUMBER_0 dollars ; VAR_0 - VAR_1 * NUMBER_3 years = NUMBER_2 dollars ; VAR_0 - VAR_1 * NUMBER_4 years = VAR_2
+NUMBER_1 * VAR_0 + the first number plus NUMBER_2 of the second number * VAR_1 = NUMBER_3 ; VAR_0 + VAR_1 = NUMBER_0
+VAR_0 = ( NUMBER_0 bird cages * ( NUMBER_2 parrots + NUMBER_2 parrots ) )
+NUMBER_0 dollars / NUMBER_1 dollar bills = VAR_0
+VAR_0 = ( NUMBER_0 heart cookies - NUMBER_1 red cookies )
+( ( NUMBER_3 % * VAR_0 ) * 0.01 ) + ( ( NUMBER_4 % * VAR_1 ) * 0.01 ) = ( NUMBER_1 * One thousand quarts of milk testing NUMBER_2 % butterfat ) * 0.01 ; VAR_0 + VAR_1 = NUMBER_1
+VAR_0 = ( NUMBER_0 marbles + NUMBER_1 marbles )
+VAR_0 = ( ( NUMBER_0 students at the start of the year + NUMBER_2 students ) - NUMBER_2 students )
+NUMBER_0 cups of flour / NUMBER_1 loaves of bread = VAR_0
+( NUMBER_1 hours * VAR_0 ) + ( NUMBER_1 hours * VAR_1 ) = NUMBER_2 hours ; NUMBER_0 hours + VAR_0 = VAR_1
+( ( 10.0 * VAR_0 ) + ( 1.0 * VAR_1 ) ) + the new VAR_2 increased by NUMBER_1 = 2.0 * VAR_2 ; VAR_0 + VAR_1 = NUMBER_0 ; VAR_2 = VAR_0 + ( 10.0 * VAR_1 )
+( ( the other NUMBER_5 % * 0.01 ) * VAR_0 ) + ( ( NUMBER_4 % * 0.01 ) * VAR_1 ) = NUMBER_3 dollars ; VAR_0 + VAR_1 = a total of NUMBER_0 dollars
+VAR_0 = ( NUMBER_0 points * ( NUMBER_1 treasures + NUMBER_2 ) )
+NUMBER_0 heart-shaped stones / NUMBER_1 of this type of stone = VAR_0
+1.0 + ( 0.01 * NUMBER_1 % taller ) = VAR_0 ; 1.0 + ( 0.01 * VAR_1 ) = VAR_2 ; VAR_0 * ( 1.0 + ( 0.01 * NUMBER_1 % taller ) ) = VAR_2
+VAR_0 = ( NUMBER_1 tickets / NUMBER_0 students )
+VAR_0 = ( NUMBER_1 laps / NUMBER_0 laps per minute )
+VAR_0 = ( NUMBER_0 hot dogs * NUMBER_1 cents )
+VAR_0 = NUMBER_0 orange marbles - Sam NUMBER_1 of the marbles
+NUMBER_0 feet * the water fountain NUMBER_1 times = VAR_0
+( ( NUMBER_1 * VAR_0 ) / NUMBER_0 times ) + VAR_0 = NUMBER_1
+NUMBER_0 + NUMBER_1 of a cup of black raisins = VAR_0
